@@ -27,7 +27,7 @@ const PROMPT_PATH = path.join(HERE, "prompt.md");
 
 const API_KEY = process.env.GEMINI_API_KEY;
 const COUNT = Number(process.env.ENTRY_COUNT || 6);
-const MODEL = process.env.MODEL || "gemini-3.5-flash";
+const MODEL = (process.env.MODEL && process.env.MODEL.trim()) || "gemini-3.5-flash";
 const DRY_RUN = process.env.DRY_RUN === "1";
 const SKIP_LINK_CHECK = process.env.SKIP_LINK_CHECK === "1";
 
@@ -78,14 +78,25 @@ function buildPrompt(template, entries){
 
 async function callGemini(prompt){
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
+  const body = {
+    contents: [{ role: "user", parts: [{ text: prompt }] }],
+    generationConfig: { temperature: 0.4, maxOutputTokens: 8000 }
+  };
+
+  // NO_SEARCH=1 disables grounding. Diagnostic only: without search the model
+  // cannot know what happened this week and will invent entries and URLs.
+  // Use it to tell a grounding-quota problem apart from a project-tier one,
+  // then always run with DRY_RUN=1 alongside it.
+  if(process.env.NO_SEARCH !== "1"){
+    body.tools = [{ google_search: {} }];
+  } else {
+    console.log("NO_SEARCH set — grounding disabled. Output will be unreliable; do not commit it.");
+  }
+
   const res = await fetch(url, {
     method: "POST",
     headers: { "content-type": "application/json", "x-goog-api-key": API_KEY },
-    body: JSON.stringify({
-      contents: [{ role: "user", parts: [{ text: prompt }] }],
-      tools: [{ google_search: {} }],
-      generationConfig: { temperature: 0.4, maxOutputTokens: 8000 }
-    })
+    body: JSON.stringify(body)
   });
 
   if(!res.ok){

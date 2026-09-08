@@ -15,6 +15,14 @@ on:
         description: "Print without committing (true/false)"
         required: false
         default: "false"
+      model:
+        description: "Model id (blank = gemini-3.5-flash)"
+        required: false
+        default: ""
+      no_search:
+        description: "DIAGNOSTIC ONLY - disable grounding (true/false)"
+        required: false
+        default: "false"
 
 permissions:
   contents: write
@@ -31,17 +39,19 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "24"
 
       - name: Fetch new examples
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           ENTRY_COUNT: ${{ github.event.inputs.count || '6' }}
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
+          MODEL: ${{ github.event.inputs.model }}
+          NO_SEARCH: ${{ github.event.inputs.no_search == 'true' && '1' || '0' }}
         run: node scripts/add-entries.mjs
 
       - name: Commit
-        if: github.event.inputs.dry_run != 'true'
+        if: github.event.inputs.dry_run != 'true' && github.event.inputs.no_search != 'true'
         run: |
           if git diff --quiet -- data/entries.json; then
             echo "No change to commit."

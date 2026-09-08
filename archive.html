@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Archive — Example Bank</title>
+<meta name="description" content="The full bank of real-world examples for A-Level General Paper essays, filtered by topic and region.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%23141d26'/><rect x='20' y='44' width='60' height='16' fill='%23d7f24a'/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+
+<nav class="sitenav">
+  <div class="wrap">
+    <a class="brand" href="index.html">Example Bank</a>
+    <a href="index.html">Today</a>
+    <a href="archive.html" aria-current="page">Archive</a>
+    <a href="facts.html">Quotes &amp; search</a>
+  </div>
+</nav>
+
+<div class="wrap">
+  <header class="masthead">
+    <h1 class="mast-title">Examples worth <span class="hl">writing down</span></h1>
+    <p class="mast-sub">The full bank. Filter by topic, or narrow to Singapore for “your society” questions.</p>
+  </header>
+</div>
+
+<div class="controls">
+  <div class="wrap">
+    <div class="searchrow">
+      <div class="search">
+        <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M16.5 16.5 21 21"/></svg>
+        <input id="q" type="search" placeholder="Search examples, e.g. censorship, ageing, AI" aria-label="Search examples">
+      </div>
+      <div class="segment" role="group" aria-label="Filter by region">
+        <button data-region="all" aria-pressed="true">Everywhere</button>
+        <button data-region="sg" aria-pressed="false">Singapore</button>
+        <button data-region="asia" aria-pressed="false">Asia</button>
+        <button data-region="world" aria-pressed="false">Rest of world</button>
+      </div>
+    </div>
+    <div class="cats" id="cats" role="group" aria-label="Filter by topic"></div>
+  </div>
+</div>
+
+<div class="wrap">
+  <div class="statusrow">
+    <span id="count"></span>
+    <span>
+      <button class="linkbtn" id="savedBtn">Show saved</button>
+      <span aria-hidden="true" style="opacity:.4;margin:0 6px">/</span>
+      <button class="linkbtn" id="resetBtn">Clear filters</button>
+    </span>
+  </div>
+  <main class="list" id="list">
+    <div class="empty"><p>Loading the archive…</p></div>
+  </main>
+</div>
+
+<div class="wrap">
+  <footer>
+    <p>Each entry is written from public reporting and summarised in our own words. Dates and figures are worth a quick check before you put them in an essay — examiners notice when a statistic is wrong, and a shaky detail undermines an otherwise good point.</p>
+    <p>Saved examples are stored in this browser only.</p>
+  </footer>
+</div>
+
+<script src="assets/site.js"></script>
+<script>
+const state = { q:"", region:"all", cats:new Set(), savedOnly:false };
+const listEl   = document.getElementById("list");
+const countEl  = document.getElementById("count");
+const catsEl   = document.getElementById("cats");
+const savedBtn = document.getElementById("savedBtn");
+let entries = [];
+
+function buildCatChips(){
+  catsEl.innerHTML = "";
+  Object.entries(CATS).forEach(([key, label]) => {
+    const b = document.createElement("button");
+    b.className = "cat";
+    b.type = "button";
+    b.dataset.cat = key;
+    b.setAttribute("aria-pressed", state.cats.has(key) ? "true" : "false");
+    b.innerHTML = label + '<span class="n">' + entries.filter(d => d.c.includes(key)).length + '</span>';
+    b.addEventListener("click", () => {
+      state.cats.has(key) ? state.cats.delete(key) : state.cats.add(key);
+      b.setAttribute("aria-pressed", state.cats.has(key) ? "true" : "false");
+      render();
+    });
+    catsEl.appendChild(b);
+  });
+}
+
+function selectOnlyCat(c){
+  state.cats.clear();
+  state.cats.add(c);
+  document.querySelectorAll(".cat").forEach(b =>
+    b.setAttribute("aria-pressed", b.dataset.cat === c ? "true" : "false"));
+  render();
+  window.scrollTo({ top:0, behavior:"smooth" });
+}
+
+function resetAll(){
+  state.q = ""; state.region = "all"; state.cats.clear(); state.savedOnly = false;
+  document.getElementById("q").value = "";
+  savedBtn.textContent = "Show saved";
+  document.querySelectorAll("[data-region]").forEach(b =>
+    b.setAttribute("aria-pressed", b.dataset.region === "all" ? "true" : "false"));
+  document.querySelectorAll(".cat").forEach(b => b.setAttribute("aria-pressed", "false"));
+  render();
+}
+
+function render(){
+  const results = entries.filter(d => matchesFilters(d, state))
+                         .sort((a, b) => b.y - a.y);
+
+  countEl.textContent = results.length + (results.length === 1 ? " example" : " examples")
+    + (state.region !== "all" ? " · " + REGIONS[state.region] : "");
+
+  if(!results.length){
+    listEl.innerHTML = '<div class="empty"><p>' +
+      (state.savedOnly
+        ? "You haven’t saved anything yet. Use the bookmark on an example to keep it here."
+        : "Nothing matches those filters. Try a broader topic or clear the search.") +
+      '</p><button class="linkbtn" id="emptyReset">Clear filters</button></div>';
+    document.getElementById("emptyReset").addEventListener("click", resetAll);
+    return;
+  }
+
+  listEl.innerHTML = results.map(entryHtml).join("");
+  bindEntryEvents(listEl, {
+    onTag: selectOnlyCat,
+    onSaveChange: () => { if(state.savedOnly) render(); }
+  });
+}
+
+document.getElementById("q").addEventListener("input", e => {
+  state.q = e.target.value.toLowerCase().trim();
+  render();
+});
+document.querySelectorAll("[data-region]").forEach(btn => {
+  btn.addEventListener("click", () => {
+    state.region = btn.dataset.region;
+    document.querySelectorAll("[data-region]").forEach(b =>
+      b.setAttribute("aria-pressed", b === btn ? "true" : "false"));
+    render();
+  });
+});
+savedBtn.addEventListener("click", () => {
+  state.savedOnly = !state.savedOnly;
+  savedBtn.textContent = state.savedOnly ? "Show all" : "Show saved";
+  render();
+});
+document.getElementById("resetBtn").addEventListener("click", resetAll);
+
+loadEntries()
+  .then(data => {
+    entries = data;
+    buildCatChips();
+    const m = location.hash.match(/cat=(\w+)/);   // arriving from a tag click on the homepage
+    if(m && CATS[m[1]]) state.cats.add(m[1]);
+    buildCatChips();
+    render();
+  })
+  .catch(err => {
+    listEl.innerHTML = `<div class="empty"><p>Couldn't load the archive.</p>
+      <p>${escapeHtml(err.message)}</p>
+      <p>If you opened this file directly, serve it over http instead — the data file can't be read from <code>file://</code>.</p></div>`;
+  });
+</script>
+</body>
+</html>

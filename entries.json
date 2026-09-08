@@ -1,0 +1,2195 @@
+[
+ {
+  "id": "sg-377a",
+  "t": "Singapore repeals Section 377A while writing marriage into the Constitution",
+  "y": 2022,
+  "r": "sg",
+  "c": [
+   "soc",
+   "pol",
+   "eth"
+  ],
+  "s": "Parliament repealed the colonial-era law criminalising sex between men, which had gone unenforced for years. At the same time it amended the Constitution to shield the legal definition of marriage from court challenge, so that the change could not be extended by litigation.",
+  "u": "A clean illustration of incremental, consensus-first social reform — a government moving on one front while deliberately closing another to keep a divided society together.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-27T19:00:00.000Z"
+ },
+ {
+  "id": "sg-pofma",
+  "t": "POFMA gives ministers the power to order corrections online",
+  "y": 2019,
+  "r": "sg",
+  "c": [
+   "med",
+   "pol",
+   "eth"
+  ],
+  "s": "The Protection from Online Falsehoods and Manipulation Act lets ministers require corrections, or takedowns, of statements they judge false and against the public interest. Supporters point to Singapore's racial and religious fault lines; critics argue that placing the first call in ministers' hands rather than a court's chills legitimate speech.",
+  "u": "The sharpest example for any question on whether the state should police truth online, because both sides of the argument are visible in one law.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-27T20:00:00.000Z"
+ },
+ {
+  "id": "sg-tracetogether",
+  "t": "TraceTogether data turns out to be available to the police",
+  "y": 2021,
+  "r": "sg",
+  "c": [
+   "sci",
+   "pol",
+   "eth"
+  ],
+  "s": "The government confirmed that data from its COVID contact-tracing app could be accessed for criminal investigations, after earlier assurances had suggested it was for contact tracing only. Legislation was then passed restricting access to a short list of serious offences.",
+  "u": "Shows how quickly public trust in a digital system depends on the precise wording of promises, not on the technology itself.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-27T21:00:00.000Z"
+ },
+ {
+  "id": "sg-ai-strategy",
+  "t": "Singapore's second national AI strategy bets on being an adopter, not an inventor",
+  "y": 2023,
+  "r": "sg",
+  "c": [
+   "sci",
+   "eco",
+   "edu"
+  ],
+  "s": "The refreshed strategy set out plans to triple the AI workforce, build up compute capacity and push adoption across healthcare, logistics and the public sector. The framing is pragmatic: a small state cannot out-spend the US or China on frontier models, so the advantage has to come from deploying them well.",
+  "u": "Useful for arguing that small countries compete on application and governance rather than on raw technological invention.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-27T22:00:00.000Z"
+ },
+ {
+  "id": "sg-scam",
+  "t": "Singapore makes banks and telcos share the cost of scam losses",
+  "y": 2024,
+  "r": "sg",
+  "c": [
+   "sci",
+   "eco",
+   "eth"
+  ],
+  "s": "Under a shared responsibility framework, banks and telecommunications companies that fail to meet anti-scam duties can be made to pay back victims of phishing scams. It followed years in which losses to scams ran into the hundreds of millions of dollars annually.",
+  "u": "Evidence that governments can shift the burden of online harm onto the institutions best placed to prevent it, rather than blaming individual carelessness.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-27T23:00:00.000Z"
+ },
+ {
+  "id": "sg-carbontax",
+  "t": "Singapore's carbon tax rises fivefold",
+  "y": 2024,
+  "r": "sg",
+  "c": [
+   "env",
+   "eco",
+   "pol"
+  ],
+  "s": "The carbon tax went from S$5 to S$25 per tonne, with further increases legislated towards S$50–80 by 2030. Singapore was the first country in Southeast Asia to introduce such a tax, and revenue is recycled into decarbonisation support and household rebates.",
+  "u": "A concrete counter to the claim that environmental policy is always sacrificed to economic competitiveness.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T00:00:00.000Z"
+ },
+ {
+  "id": "sg-greenplan",
+  "t": "The Singapore Green Plan 2030 sets targets a city-state can actually hit",
+  "y": 2021,
+  "r": "sg",
+  "c": [
+   "env",
+   "pol"
+  ],
+  "s": "The plan committed to planting a million more trees, quadrupling solar deployment, phasing out internal combustion engine vehicles by 2040 and cutting landfill waste. Constraints are severe: no hydro, little wind, and no land for large solar farms, hence floating panels on reservoirs.",
+  "u": "Shows that climate ambition is shaped by geography — small dense states have to solve a different problem from continental ones.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T01:00:00.000Z"
+ },
+ {
+  "id": "sg-kranji",
+  "t": "Kranji woodland is cleared by mistake",
+  "y": 2021,
+  "r": "sg",
+  "c": [
+   "env",
+   "pol",
+   "eth"
+  ],
+  "s": "A patch of secondary forest was cleared without the required environmental assessment, and the agency responsible admitted the error publicly. It arrived amid wider disputes over Dover Forest and Clementi Forest, where residents pushed back against housing plans.",
+  "u": "A local example of the development-versus-nature tension, with the added angle that public accountability followed the failure.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T02:00:00.000Z"
+ },
+ {
+  "id": "sg-water",
+  "t": "Singapore engineers its way out of water dependence",
+  "y": 2003,
+  "r": "sg",
+  "c": [
+   "env",
+   "sci",
+   "glo"
+  ],
+  "s": "The Four National Taps strategy combines imported water, catchment, desalination and NEWater — treated used water purified for reuse. The water agreement with Malaysia expires in 2061, which gives the programme a hard political deadline.",
+  "u": "The strongest example of a country turning a strategic vulnerability into an export industry through long-term planning.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T03:00:00.000Z"
+ },
+ {
+  "id": "sg-3030",
+  "t": "Singapore aims to grow 30% of its nutritional needs locally by 2030",
+  "y": 2019,
+  "r": "sg",
+  "c": [
+   "env",
+   "eco",
+   "sci"
+  ],
+  "s": "With over 90% of food imported and only about 1% of land available for agriculture, the target depends on vertical farms, rooftop plots and cell-cultured protein. Progress has been slower than hoped, with several high-profile farms closing as costs bit.",
+  "u": "Good for questions on food security or on whether technology can compensate for a lack of natural resources — including the honest bit, that it has struggled.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T04:00:00.000Z"
+ },
+ {
+  "id": "sg-hdb",
+  "t": "Million-dollar resale flats become routine in Singapore's public housing",
+  "y": 2024,
+  "r": "sg",
+  "c": [
+   "eco",
+   "soc",
+   "pol"
+  ],
+  "s": "Record numbers of Housing Board flats resold for over a million dollars, in a system where roughly eight in ten residents live in public housing. The debate is whether flats are homes, retirement assets, or both, and what that means for younger buyers.",
+  "u": "Shows that even a successful, near-universal public housing system generates inequality once homes become investments.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T05:00:00.000Z"
+ },
+ {
+  "id": "sg-dorms",
+  "t": "Migrant worker dormitories become the centre of Singapore's COVID outbreak",
+  "y": 2020,
+  "r": "sg",
+  "c": [
+   "hea",
+   "eco",
+   "soc"
+  ],
+  "s": "The overwhelming majority of Singapore's early COVID cases were among migrant workers living in crowded dormitories, while community transmission stayed low. The outbreak forced reforms to dormitory standards and put working conditions into public view.",
+  "u": "The clearest local case of a pandemic exposing a group living just out of sight of the society that depends on their labour.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T06:00:00.000Z"
+ },
+ {
+  "id": "sg-pwm",
+  "t": "Singapore raises low wages without a minimum wage",
+  "y": 2022,
+  "r": "sg",
+  "c": [
+   "eco",
+   "pol",
+   "soc"
+  ],
+  "s": "Instead of a national floor, the Progressive Wage Model sets sector-by-sector wage ladders tied to training and productivity, alongside Workfare payments that top up low earners' income and retirement savings. Critics argue coverage is patchy and slower than a universal floor.",
+  "u": "A ready-made alternative model whenever an essay assumes the only tool against low pay is a minimum wage.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T07:00:00.000Z"
+ },
+ {
+  "id": "sg-fsbb",
+  "t": "Singapore abolishes streaming in secondary schools",
+  "y": 2024,
+  "r": "sg",
+  "c": [
+   "edu",
+   "soc"
+  ],
+  "s": "Full Subject-Based Banding replaced the Express, Normal Academic and Normal Technical streams, letting students take individual subjects at different levels. The aim was to break the labelling effect of being sorted into a stream at thirteen.",
+  "u": "Direct evidence that a system famous for sorting students can move away from it — useful on meritocracy and on whether education entrenches class.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T08:00:00.000Z"
+ },
+ {
+  "id": "sg-psle",
+  "t": "PSLE scoring moves from fine-grained aggregates to wide bands",
+  "y": 2021,
+  "r": "sg",
+  "c": [
+   "edu",
+   "soc"
+  ],
+  "s": "The T-score, which ranked pupils against each other to a single point, was replaced by eight Achievement Levels reflecting individual performance. The intent was to blunt the chase for the last mark; tuition demand did not obviously fall.",
+  "u": "Shows the limits of policy against culture — you can change the scoring, but not necessarily the anxiety driving it.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T09:00:00.000Z"
+ },
+ {
+  "id": "sg-tfr",
+  "t": "Singapore's fertility rate falls below one child per woman",
+  "y": 2023,
+  "r": "sg",
+  "c": [
+   "soc",
+   "eco",
+   "gen"
+  ],
+  "s": "The total fertility rate dropped to 0.97, among the lowest anywhere, despite decades of baby bonuses, housing priority and parental leave. Cost of living, career timing and housing queues are cited more often than any lack of incentives.",
+  "u": "The go-to statistic for arguing that money alone does not change life decisions shaped by structure and expectation.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T10:00:00.000Z"
+ },
+ {
+  "id": "sg-ageing",
+  "t": "Singapore prepares for one in four residents aged 65 or over",
+  "y": 2023,
+  "r": "sg",
+  "c": [
+   "soc",
+   "hea",
+   "eco"
+  ],
+  "s": "Official projections put a quarter of citizens at 65 or above by 2030, against about one in ten in 2010. Responses include the Healthier SG preventive care scheme, raising retirement and re-employment ages, and expanding home-based eldercare.",
+  "u": "A local anchor for ageing questions, and a reminder that demographic change is a fiscal problem before it is a social one.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T11:00:00.000Z"
+ },
+ {
+  "id": "sg-mentalhealth",
+  "t": "Singapore publishes a national mental health strategy",
+  "y": 2023,
+  "r": "sg",
+  "c": [
+   "hea",
+   "soc",
+   "edu"
+  ],
+  "s": "The strategy expanded community-level support, trained more general practitioners to handle mental health, and put counselling into schools and workplaces. It followed studies showing young adults reporting the highest levels of distress.",
+  "u": "Shows a state treating mental health as public infrastructure rather than a private matter — useful on wellbeing and on the pressures of competitive societies.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T12:00:00.000Z"
+ },
+ {
+  "id": "sg-nagaenthran",
+  "t": "Singapore executes Nagaenthran Dharmalingam despite an international campaign",
+  "y": 2022,
+  "r": "sg",
+  "c": [
+   "eth",
+   "pol",
+   "glo"
+  ],
+  "s": "A Malaysian man convicted of trafficking heroin was executed after appeals citing his intellectual disability were rejected. The case drew protest from the UN, the EU and public figures abroad, while the government maintained that the mandatory death penalty deters trafficking.",
+  "u": "A hard case for capital punishment essays — it forces a student to engage with deterrence claims, sovereignty and disability at once.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T13:00:00.000Z"
+ },
+ {
+  "id": "sg-iswaran",
+  "t": "A serving Singapore minister is jailed",
+  "y": 2024,
+  "r": "sg",
+  "c": [
+   "pol",
+   "eth"
+  ],
+  "s": "Former transport minister S. Iswaran pleaded guilty to receiving gifts as a public servant and obstructing justice, and was sentenced to twelve months' imprisonment. It was the first case of its kind against a Cabinet minister in decades.",
+  "u": "Evidence for the argument that clean government depends on enforcement being applied upwards, not just on high salaries or good intentions.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T14:00:00.000Z"
+ },
+ {
+  "id": "sg-ukraine",
+  "t": "Singapore breaks with its neighbours to sanction Russia",
+  "y": 2022,
+  "r": "sg",
+  "c": [
+   "glo",
+   "pol",
+   "eco"
+  ],
+  "s": "Singapore imposed export controls and financial measures against Russia after the invasion of Ukraine, acting without a UN Security Council mandate — a rare step, and one most of Southeast Asia did not take. The stated reasoning was that a small state cannot accept the principle that borders can be redrawn by force.",
+  "u": "Shows that small states have a direct stake in international law, and gives a Singapore angle on a war most students only discuss from a distance.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T15:00:00.000Z"
+ },
+ {
+  "id": "sg-women",
+  "t": "A White Paper on women's development in Singapore",
+  "y": 2022,
+  "r": "sg",
+  "c": [
+   "gen",
+   "soc",
+   "pol"
+  ],
+  "s": "Drawn from a year of public conversations, the paper set out measures on workplace fairness, caregiving support and protection from harassment, and led to workplace fairness legislation. Campaigners noted it stopped short on areas like paternity leave equality.",
+  "u": "A measured example for gender essays — real institutional movement, with the gaps still visible.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T16:00:00.000Z"
+ },
+ {
+  "id": "sg-lohkeanyew",
+  "t": "Loh Kean Yew wins the badminton world title",
+  "y": 2021,
+  "r": "sg",
+  "c": [
+   "art",
+   "soc"
+  ],
+  "s": "An unseeded Singaporean beat a string of higher-ranked players to become world champion, five years after Joseph Schooling's Olympic gold in swimming. Both wins prompted debate about whether sporting success in a small country depends on state funding or individual obsession.",
+  "u": "A local sports example for questions on national identity, or on whether small nations can compete on the world stage.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T17:00:00.000Z"
+ },
+ {
+  "id": "sg-arts",
+  "t": "Singapore builds cultural institutions faster than a cultural habit",
+  "y": 2015,
+  "r": "sg",
+  "c": [
+   "art",
+   "soc",
+   "eco"
+  ],
+  "s": "The National Gallery opened in restored colonial buildings holding the world's largest public collection of Southeast Asian art, part of decades of state investment in arts infrastructure. Attendance is healthy, but debate continues over censorship of works and whether funded art can be genuinely critical.",
+  "u": "Useful for arguing that governments can build the venues for culture more easily than the freedom that culture needs.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T18:00:00.000Z"
+ },
+ {
+  "id": "sg-religious",
+  "t": "Singapore updates its law on religious harmony",
+  "y": 2019,
+  "r": "sg",
+  "c": [
+   "rel",
+   "pol",
+   "soc"
+  ],
+  "s": "Amendments to the Maintenance of Religious Harmony Act added powers to act quickly against online content inciting religious hostility and to require disclosure of foreign funding for religious groups. The original act dates from 1990, after episodes of mixing religion with politics.",
+  "u": "A rare example of a state pre-empting religious conflict by law rather than responding after violence.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T19:00:00.000Z"
+ },
+ {
+  "id": "sg-ge2025",
+  "t": "The PAP wins a bigger mandate in Singapore's 2025 general election",
+  "y": 2025,
+  "r": "sg",
+  "c": [
+   "pol",
+   "soc"
+  ],
+  "s": "In Lawrence Wong's first election as prime minister the ruling party took 87 of 97 seats on 65.6% of the vote, up from 61.2% in 2020. The Workers' Party held all its seats and only two parties entered Parliament; turnout, at 92.8%, was the lowest since 1968.",
+  "u": "Complicates the standard narrative of rising opposition support — useful for arguing that voters in uncertain times reward stability over checks and balances.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T20:00:00.000Z"
+ },
+ {
+  "id": "sg-phoneban",
+  "t": "Singapore bans phones for the whole school day",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "edu",
+   "med",
+   "hea"
+  ],
+  "s": "From January 2026 secondary students must keep smartphones and smartwatches stored during recess, co-curricular activities and remedial lessons, extending a primary school rule from 2025. School-issued devices now lock at 10.30pm, and national guidance advises under-2-hour recreational screen time for ages 7 to 12.",
+  "u": "A local example students have lived through — and a direct test of whether restricting technology improves wellbeing or just moves the problem home.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T21:00:00.000Z"
+ },
+ {
+  "id": "sg-platform",
+  "t": "Singapore creates a legal category for gig workers",
+  "y": 2025,
+  "r": "sg",
+  "c": [
+   "eco",
+   "eth",
+   "sci"
+  ],
+  "s": "From January 2025 the Platform Workers Act required ride-hail and delivery platforms to make CPF contributions, provide work injury insurance, and recognise worker associations — treating platform workers as neither employees nor plainly self-employed. Singapore was among the first countries to legislate a distinct third status.",
+  "u": "A stronger gig-economy example than the Uber court cases, because it shows a legislature inventing a new category rather than a court forcing an old one to fit.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T22:00:00.000Z"
+ },
+ {
+  "id": "sg-wfa",
+  "t": "Singapore codifies workplace anti-discrimination law for the first time",
+  "y": 2025,
+  "r": "sg",
+  "c": [
+   "gen",
+   "eco",
+   "eth"
+  ],
+  "s": "The Workplace Fairness Act, passed across two bills in 2025 and due to take effect around 2027, prohibits adverse employment decisions based on age, sex, race, religion, nationality, disability, caregiving responsibilities and mental health condition. Singapore had previously relied on tripartite guidelines rather than statute.",
+  "u": "Shows a state moving from persuasion to enforcement — good for arguing about whether norms or laws change behaviour.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-28T23:00:00.000Z"
+ },
+ {
+  "id": "sg-childsupport",
+  "t": "Singapore replaces the Baby Bonus and raises housing income ceilings",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "soc",
+   "eco",
+   "gen"
+  ],
+  "s": "The 2026 National Day Rally announced an SG Child Support Package giving every Singaporean child support regardless of birth order, up to 12 days of childcare leave, and higher income ceilings for BTO flats and executive condominiums. The framing shifted from one-off baby incentives towards sustained support.",
+  "u": "The most current evidence on falling birth rates, and shows a government conceding that lump-sum incentives did not work.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T00:00:00.000Z"
+ },
+ {
+  "id": "sg-budget26",
+  "t": "Singapore's 2026 Budget builds an economic strategy around AI",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "eco",
+   "sci",
+   "pol"
+  ],
+  "s": "Themed around securing the future in a changed world, the Budget paired cost-of-living relief with a Champions of AI programme, corporate tax rebates and free access to premium AI tools for people taking approved training courses. Employment Pass salary thresholds were also raised from 2027.",
+  "u": "Shows a small economy trying to treat AI as an opportunity to be trained for rather than a threat to be regulated.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T01:00:00.000Z"
+ },
+ {
+  "id": "sg-ndr26",
+  "t": "Singapore's prime minister tells the country the global rules are being overturned",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "glo",
+   "pol",
+   "eco"
+  ],
+  "s": "In his 2026 National Day Rally, Lawrence Wong described a world where long-standing rules and norms are being discarded and where the United States and China compete fiercely while being unable to separate. He linked that shift directly to higher living costs and disruption at home.",
+  "u": "A quotable framing from a head of government for questions on globalisation, small states, or whether the postwar order is ending.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T02:00:00.000Z"
+ },
+ {
+  "id": "sg-dialect",
+  "t": "Singapore loosens decades-old restrictions on Chinese dialects in media",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "art",
+   "soc",
+   "med"
+  ],
+  "s": "From September 2026 films largely in dialect can screen without limits provided Mandarin subtitles and a dubbed version exist, and dialect restrictions on subscription television were removed. The curbs dated from the Speak Mandarin campaign launched in 1979.",
+  "u": "A tidy example of language policy loosening once its original purpose is achieved — useful on cultural loss, identity and state shaping of culture.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T03:00:00.000Z"
+ },
+ {
+  "id": "sg-socialage",
+  "t": "Singapore studies a minimum age for social media",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "med",
+   "soc",
+   "pol"
+  ],
+  "s": "Ministers said they were consulting Australian counterparts on age limits while weighing enforcement and the risk of pushing young users onto unregulated platforms. Australia's under-16 ban took effect in December 2025 and Malaysia announced plans to follow.",
+  "u": "Shows a government publicly weighing evidence before legislating — handy when an essay assumes states either act or ignore a problem.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T04:00:00.000Z"
+ },
+ {
+  "id": "as-zerocovid",
+  "t": "Blank sheets of paper become a protest in China",
+  "y": 2022,
+  "r": "asia",
+  "c": [
+   "pol",
+   "med",
+   "hea"
+  ],
+  "s": "After a deadly apartment fire in Urumqi, protests against prolonged zero-COVID lockdowns spread across Chinese cities, with demonstrators holding blank white paper to signal what could not be printed. Restrictions were largely dismantled within weeks.",
+  "u": "A vivid case that censorship shapes the form of dissent rather than eliminating it — and that public pressure can move even a tightly controlled state.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T05:00:00.000Z"
+ },
+ {
+  "id": "as-hkns",
+  "t": "Hong Kong's national security law reshapes a city",
+  "y": 2020,
+  "r": "asia",
+  "c": [
+   "pol",
+   "med",
+   "eth"
+  ],
+  "s": "Imposed by Beijing after months of mass protests, the law created offences including subversion and collusion with foreign forces. Opposition figures were prosecuted, newspapers including Apple Daily closed, and emigration rose sharply.",
+  "u": "Shows how fast civil liberties can contract when the legal framework changes, without any change in the physical city.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T06:00:00.000Z"
+ },
+ {
+  "id": "as-taliban-edu",
+  "t": "Afghan girls are shut out of secondary school and university",
+  "y": 2022,
+  "r": "asia",
+  "c": [
+   "edu",
+   "gen",
+   "rel"
+  ],
+  "s": "After returning to power the Taliban barred girls from secondary education and then women from universities and most employment, making Afghanistan the only country with such a ban. Some women continued studying in underground classes.",
+  "u": "The most direct evidence that educational access is a political choice, and that rights gained can be reversed.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T07:00:00.000Z"
+ },
+ {
+  "id": "as-mahsa",
+  "t": "Protests spread across Iran after Mahsa Amini's death in custody",
+  "y": 2022,
+  "r": "asia",
+  "c": [
+   "gen",
+   "rel",
+   "pol"
+  ],
+  "s": "A 22-year-old woman detained by the morality police died in custody, triggering months of nationwide protest under the slogan 'Woman, Life, Freedom'. The state responded with mass arrests and internet shutdowns; enforcement of dress rules loosened in practice in some cities.",
+  "u": "Powerful for questions on whether protest achieves anything, since the outcome was neither victory nor simple defeat.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T08:00:00.000Z"
+ },
+ {
+  "id": "as-srilanka",
+  "t": "Sri Lanka's economy collapses and protesters occupy the president's residence",
+  "y": 2022,
+  "r": "asia",
+  "c": [
+   "eco",
+   "pol",
+   "glo"
+  ],
+  "s": "Foreign reserves ran out amid debt, tax cuts, a collapse in tourism and an abrupt ban on chemical fertilisers that hit harvests. Fuel and medicine shortages brought crowds into Colombo and the president fled the country.",
+  "u": "A compact case study in how economic mismanagement becomes a political crisis — and a caution about rushing environmental policy without a transition plan.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T09:00:00.000Z"
+ },
+ {
+  "id": "as-myanmar",
+  "t": "Myanmar's military overturns an election and faces armed resistance",
+  "y": 2021,
+  "r": "asia",
+  "c": [
+   "pol",
+   "glo",
+   "eth"
+  ],
+  "s": "The army seized power after an election it disputed, detaining Aung San Suu Kyi. Peaceful protests were met with lethal force and gave way to a civil war that ASEAN, working by consensus and non-interference, has been unable to resolve.",
+  "u": "Useful for questions on the effectiveness of regional organisations and on whether outside actors can restore democracy.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T10:00:00.000Z"
+ },
+ {
+  "id": "as-korea-birth",
+  "t": "South Korea records the world's lowest fertility rate",
+  "y": 2023,
+  "r": "asia",
+  "c": [
+   "soc",
+   "gen",
+   "eco"
+  ],
+  "s": "The rate fell to about 0.72 children per woman despite enormous government spending on incentives. Analysts point to housing costs, punishing working hours, private education spending and expectations that mothers absorb the career penalty.",
+  "u": "Pairs well with Singapore's figures to show low fertility is a structural feature of high-pressure economies, not a national quirk.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T11:00:00.000Z"
+ },
+ {
+  "id": "as-japan-age",
+  "t": "Japan confronts ageing and isolated deaths",
+  "y": 2024,
+  "r": "asia",
+  "c": [
+   "soc",
+   "hea",
+   "eco"
+  ],
+  "s": "With around a third of the population aged 65 or over, Japan reports tens of thousands of people each year who die alone at home and are found only later. Responses range from robotics in care homes to community check-in schemes.",
+  "u": "Gives ageing essays a human dimension beyond dependency ratios — the problem is loneliness as much as economics.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T12:00:00.000Z"
+ },
+ {
+  "id": "as-farmers",
+  "t": "India repeals farm laws after a year of protest",
+  "y": 2021,
+  "r": "asia",
+  "c": [
+   "pol",
+   "eco",
+   "soc"
+  ],
+  "s": "Hundreds of thousands of farmers camped on the approaches to Delhi through a winter and a pandemic, opposing deregulation they feared would leave them at the mercy of large buyers. The government eventually withdrew all three laws.",
+  "u": "One of the clearest modern examples of sustained non-violent protest forcing a powerful government to reverse policy.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T13:00:00.000Z"
+ },
+ {
+  "id": "as-ayodhya",
+  "t": "A temple opens in Ayodhya on the site of a demolished mosque",
+  "y": 2024,
+  "r": "asia",
+  "c": [
+   "rel",
+   "pol",
+   "soc"
+  ],
+  "s": "The Ram temple was consecrated by the prime minister, on ground contested since a mosque there was destroyed by crowds in 1992. Supporters saw a historic restoration; critics saw the state formally aligning itself with one faith.",
+  "u": "Central to any essay on whether religion and politics can be separated in practice in a secular democracy.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T14:00:00.000Z"
+ },
+ {
+  "id": "as-uyghur",
+  "t": "A UN report finds possible crimes against humanity in Xinjiang",
+  "y": 2022,
+  "r": "asia",
+  "c": [
+   "eth",
+   "glo",
+   "rel"
+  ],
+  "s": "The UN human rights office concluded that detentions of Uyghurs and other Muslim minorities may amount to crimes against humanity, following extensive testimony and leaked documents. China rejected the findings; trade relationships largely continued.",
+  "u": "Shows the gap between international human rights findings and any consequence, which is the real question in most global-governance essays.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T15:00:00.000Z"
+ },
+ {
+  "id": "as-qatar",
+  "t": "The Qatar World Cup puts migrant labour on the front page",
+  "y": 2022,
+  "r": "asia",
+  "c": [
+   "art",
+   "eco",
+   "eth"
+  ],
+  "s": "Reporting on deaths and conditions among migrant construction workers, along with restrictions on LGBT visitors, shadowed the tournament. Qatar reformed parts of its kafala sponsorship system, though enforcement was questioned.",
+  "u": "A ready example that sport is never separate from politics, and that global attention can force partial reform.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T16:00:00.000Z"
+ },
+ {
+  "id": "as-fukushima",
+  "t": "Japan releases treated Fukushima water into the sea",
+  "y": 2023,
+  "r": "asia",
+  "c": [
+   "sci",
+   "env",
+   "glo"
+  ],
+  "s": "Treated water from the destroyed nuclear plant began to be discharged with the endorsement of the International Atomic Energy Agency. China banned Japanese seafood imports and public anxiety spread across the region regardless of the scientific assessment.",
+  "u": "Excellent for questions on whether the public trusts science, and on how expert consensus fares against national politics.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T17:00:00.000Z"
+ },
+ {
+  "id": "as-ressa",
+  "t": "A Nobel Peace Prize goes to journalists under pressure",
+  "y": 2021,
+  "r": "asia",
+  "c": [
+   "med",
+   "pol",
+   "glo"
+  ],
+  "s": "Maria Ressa of the Philippines and Dmitry Muratov of Russia were honoured for defending free expression. Ressa faced a string of prosecutions at home after her outlet documented the drug war; Muratov's newspaper later suspended operations.",
+  "u": "A named, citable example whenever an essay needs to show that press freedom is under active threat rather than in theoretical decline.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T18:00:00.000Z"
+ },
+ {
+  "id": "as-pakfloods",
+  "t": "A third of Pakistan is under water",
+  "y": 2022,
+  "r": "asia",
+  "c": [
+   "env",
+   "glo",
+   "eco"
+  ],
+  "s": "Extreme monsoon rain and glacial melt displaced millions and caused damage estimated in the tens of billions of dollars, in a country responsible for well under 1% of global emissions. The disaster fed directly into the loss and damage fund agreed later that year.",
+  "u": "The clearest illustration of climate injustice: the countries least responsible bearing the heaviest costs.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T19:00:00.000Z"
+ },
+ {
+  "id": "as-genz",
+  "t": "Youth protests topple governments across four continents",
+  "y": 2025,
+  "r": "asia",
+  "c": [
+   "pol",
+   "med",
+   "soc"
+  ],
+  "s": "Nepal's government fell in five days in September 2025 after banning 26 social media platforms; an interim prime minister was chosen partly through a Discord poll. Similar youth-led movements contributed to the president fleeing Madagascar and an impeachment in Peru, with protests also in Indonesia, Morocco and Kenya sharing hashtags and a pirate-flag symbol.",
+  "u": "The strongest recent evidence that social media can organise real political power — and that banning platforms can trigger the very unrest it was meant to prevent.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T20:00:00.000Z"
+ },
+ {
+  "id": "as-iranwar",
+  "t": "The United States and Israel strike Iran and kill its supreme leader",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "glo",
+   "pol",
+   "eth"
+  ],
+  "s": "Nearly 900 strikes in twelve hours on 28 February 2026 killed Ali Khamenei and hit military and nuclear infrastructure, after nuclear talks broke down. Iran retaliated against US bases and Gulf states, shipping through the Strait of Hormuz largely halted, and a mediated ceasefire in April left the underlying disputes unresolved.",
+  "u": "The defining current example for pre-emptive war, regime change and whether force can settle nuclear proliferation.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T21:00:00.000Z"
+ },
+ {
+  "id": "as-hkfire",
+  "t": "A Hong Kong tower fire kills more than 150 people",
+  "y": 2025,
+  "r": "asia",
+  "c": [
+   "eco",
+   "eth",
+   "soc"
+  ],
+  "s": "A blaze in a residential complex burned for over forty hours in November 2025, with substandard construction materials used during renovation identified as a likely cause. Arrests followed and public anger focused on oversight of contractors.",
+  "u": "Pairs with Grenfell to argue that housing disasters follow from regulatory failure rather than accident, in very different political systems.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T22:00:00.000Z"
+ },
+ {
+  "id": "as-kpop",
+  "t": "K-pop turns culture into a national export",
+  "y": 2022,
+  "r": "asia",
+  "c": [
+   "art",
+   "eco",
+   "glo"
+  ],
+  "s": "South Korea's music, film and television industries, built with long-term state and corporate backing, generate substantial export earnings and diplomatic reach. The system also draws criticism for the pressure placed on young trainees.",
+  "u": "Shows soft power as a deliberate industrial policy, not an accident of taste.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-29T23:00:00.000Z"
+ },
+ {
+  "id": "w-ukraine",
+  "t": "Russia's invasion of Ukraine reopens the question of borders by force",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "glo",
+   "pol",
+   "eco"
+  ],
+  "s": "Now in its fifth year, the war has settled into attritional fighting: Russia gained under 1% more territory during 2025 at enormous cost, while Ukraine struck airbases deep inside Russia with smuggled drones in June 2025. Short truces around Orthodox Easter and Victory Day in 2026 produced prisoner exchanges but no settlement.",
+  "u": "The reference case for whether sanctions and international law constrain a major power — and for how cheap technology can offset a much larger military.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T00:00:00.000Z"
+ },
+ {
+  "id": "w-gaza",
+  "t": "A Gaza ceasefire holds badly and governs nothing",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "glo",
+   "med",
+   "eth"
+  ],
+  "s": "Two years after Hamas's attack of 7 October 2023 and Israel's devastating response, a US-brokered framework produced a ceasefire in October 2025, endorsed by the Security Council in November. Hostages were returned, but strikes and casualties continued into 2026, Hamas refused to disarm, and the transitional Board of Peace chaired by Donald Trump had no presence on the ground.",
+  "u": "Handle carefully, but unmatched for asking what international institutions can actually enforce once the cameras move on.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T01:00:00.000Z"
+ },
+ {
+  "id": "w-chatgpt",
+  "t": "ChatGPT makes generative AI a household technology",
+  "y": 2022,
+  "r": "world",
+  "c": [
+   "sci",
+   "edu",
+   "eco"
+  ],
+  "s": "A conversational model reached an estimated hundred million users within two months, faster than any consumer application before it. Schools and universities moved between banning it and building it into assessment, while writers and coders started using it daily.",
+  "u": "The starting point for almost any AI essay, and specifically strong on how quickly institutions have to respond to technology.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T02:00:00.000Z"
+ },
+ {
+  "id": "w-aiact",
+  "t": "The EU passes the first broad law on artificial intelligence",
+  "y": 2024,
+  "r": "world",
+  "c": [
+   "sci",
+   "pol",
+   "eth"
+  ],
+  "s": "The AI Act regulates by risk, banning uses such as social scoring and imposing obligations on high-risk systems in areas like hiring and policing. Companies warned about compliance costs; the EU argued that its market size would set a global standard, as with data privacy.",
+  "u": "Evidence that regulation of new technology is possible, and an example of one bloc's rules travelling worldwide.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T03:00:00.000Z"
+ },
+ {
+  "id": "w-strikes",
+  "t": "Hollywood writers and actors strike over streaming pay and AI",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "art",
+   "eco",
+   "sci"
+  ],
+  "s": "Months of industrial action shut down much of US film and television production. The settlements included limits on studios using AI-generated writing and required consent and payment for digital replicas of performers.",
+  "u": "A rare case of workers negotiating terms for automation before it arrived, rather than after.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T04:00:00.000Z"
+ },
+ {
+  "id": "w-deepfake",
+  "t": "Deepfakes reach elections in the biggest voting year on record",
+  "y": 2024,
+  "r": "world",
+  "c": [
+   "med",
+   "pol",
+   "sci"
+  ],
+  "s": "With more than seventy countries going to the polls, fabricated audio and video circulated — including a faked call impersonating a US president urging voters to stay home, and manipulated audio released days before Slovakia's election. Detection consistently lagged behind creation.",
+  "u": "The current example for misinformation questions, and stronger than older cases because the technology is now cheap and widely available.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T05:00:00.000Z"
+ },
+ {
+  "id": "w-twitter",
+  "t": "One buyer takes over a major public conversation platform",
+  "y": 2022,
+  "r": "world",
+  "c": [
+   "med",
+   "pol",
+   "eco"
+  ],
+  "s": "Elon Musk's purchase of Twitter, later renamed X, was followed by mass layoffs, changes to verification and moderation, reinstated accounts and an advertiser exodus. Users migrated to competing platforms in waves.",
+  "u": "Shows that the terms of public debate can be rewritten by private ownership, with no vote involved.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T06:00:00.000Z"
+ },
+ {
+  "id": "w-haugen",
+  "t": "A Facebook whistleblower releases the company's own research",
+  "y": 2021,
+  "r": "world",
+  "c": [
+   "med",
+   "hea",
+   "eth"
+  ],
+  "s": "Frances Haugen disclosed internal documents indicating the company knew Instagram worsened body image issues for some teenage girls, and that engagement-driven ranking amplified divisive content. Executives disputed the characterisation of the findings.",
+  "u": "The strongest evidence that harm from social media was documented internally before it was admitted publicly.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T07:00:00.000Z"
+ },
+ {
+  "id": "w-au-minors",
+  "t": "Australia's under-16 social media ban comes into force",
+  "y": 2025,
+  "r": "world",
+  "c": [
+   "med",
+   "soc",
+   "edu"
+  ],
+  "s": "Legislated in late 2024 and effective from 10 December 2025, the world's first national ban requires platforms including Facebook, Instagram and TikTok to keep under-16s off their services. France moved to bar under-15s from September 2026 and Malaysia announced a similar plan, while critics continued to question enforceability and age-verification privacy.",
+  "u": "No longer a proposal but a live experiment, which lets an essay ask what the evidence shows rather than what might happen.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T08:00:00.000Z"
+ },
+ {
+  "id": "w-trump2",
+  "t": "Trump returns to the presidency and remakes American policy by executive order",
+  "y": 2025,
+  "r": "world",
+  "c": [
+   "pol",
+   "glo",
+   "med"
+  ],
+  "s": "A second term beginning January 2025 brought sweeping tariffs, mass deportations, the rollback of diversity programmes and pressure on courts, universities and news organisations. Several measures were blocked in court, and polling showed unease over living costs.",
+  "u": "The central example for questions on populism, executive power and whether democratic institutions constrain a determined leader.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T09:00:00.000Z"
+ },
+ {
+  "id": "w-tariffs",
+  "t": "A tariff war unsettles the rules of global trade",
+  "y": 2025,
+  "r": "world",
+  "c": [
+   "eco",
+   "glo",
+   "pol"
+  ],
+  "s": "Broad American tariffs prompted retaliation and months of market volatility before partial agreements with the EU and China eased tensions. Export-dependent economies, Singapore included, revised growth forecasts and looked to diversify markets.",
+  "u": "Shows free trade as a political choice that can be withdrawn, not a permanent feature of the world economy.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T10:00:00.000Z"
+ },
+ {
+  "id": "w-aijobs",
+  "t": "The first rung of the career ladder narrows",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "eco",
+   "edu",
+   "sci"
+  ],
+  "s": "Employment for 22-to-25-year-olds fell sharply in the most AI-exposed occupations, and surveys found nearly half of hiring managers would rather invest in AI tools than train a graduate. Researchers cautioned that weak demand and economic uncertainty also explain the decline, and some employers reported AI increasing junior hiring.",
+  "u": "Lets an essay make a precise argument about automation — the tasks juniors once learned on are disappearing, which is different from jobs disappearing.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T11:00:00.000Z"
+ },
+ {
+  "id": "w-cop30",
+  "t": "COP30 ends without a fossil fuel roadmap",
+  "y": 2025,
+  "r": "world",
+  "c": [
+   "env",
+   "glo",
+   "pol"
+  ],
+  "s": "The Belém Political Package agreed a just transition mechanism, adaptation indicators and finance commitments, but more than eighty countries failed to get a timetable for moving away from oil, gas and coal into the formal text. Brazil promised voluntary roadmaps instead.",
+  "u": "Sharper than COP28 for climate diplomacy questions, because it shows a stated commitment failing to survive the following round.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T12:00:00.000Z"
+ },
+ {
+  "id": "w-lafires",
+  "t": "Wildfires destroy Los Angeles neighbourhoods in January",
+  "y": 2025,
+  "r": "world",
+  "c": [
+   "env",
+   "eco",
+   "soc"
+  ],
+  "s": "Fires driven by drought and high winds burned for a month across Pacific Palisades and Altadena, killing thirty people and causing damage estimated between $76bn and $131bn. Insurers had already been withdrawing from parts of the California market.",
+  "u": "Connects climate change to a market consequence — when insurance retreats, whole areas become unlivable for reasons of cost rather than heat.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T13:00:00.000Z"
+ },
+ {
+  "id": "w-popeleo",
+  "t": "The Catholic Church elects its first American pope",
+  "y": 2025,
+  "r": "world",
+  "c": [
+   "rel",
+   "glo"
+  ],
+  "s": "Leo XIV was chosen in May 2025 following the death of Pope Francis, becoming the first pontiff from the United States. He had spent much of his ministry in Peru, and the choice was read as continuity with Francis's focus on the global south.",
+  "u": "Useful for religion questions and for arguing that global institutions are slowly decentring from Europe.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T14:00:00.000Z"
+ },
+ {
+  "id": "w-sudan",
+  "t": "Sudan's war becomes the world's largest displacement crisis",
+  "y": 2025,
+  "r": "world",
+  "c": [
+   "glo",
+   "eth",
+   "hea"
+  ],
+  "s": "Fighting between the army and the Rapid Support Forces has driven famine conditions and mass displacement, with atrocities reported in Darfur. International attention and funding have stayed far below the scale of the crisis.",
+  "u": "The clearest test of whether the world responds to suffering by its scale or by its proximity to powerful countries.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T15:00:00.000Z"
+ },
+ {
+  "id": "w-muskpay",
+  "t": "Tesla shareholders approve a trillion-dollar pay package",
+  "y": 2025,
+  "r": "world",
+  "c": [
+   "eco",
+   "eth"
+  ],
+  "s": "Shareholders backed a compensation plan potentially worth up to a trillion dollars for Elon Musk over a decade, conditional on hitting ambitious targets. It is among the largest awards in corporate history.",
+  "u": "A single figure that makes arguments about executive pay and inequality concrete rather than abstract.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T16:00:00.000Z"
+ },
+ {
+  "id": "w-artemis",
+  "t": "Astronauts travel beyond low Earth orbit for the first time in over fifty years",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "sci",
+   "glo"
+  ],
+  "s": "The Artemis II mission carried a crew around the Moon, the first time humans had gone that far since the Apollo programme ended. The wider programme is a partnership across several space agencies, running alongside commercial launch providers.",
+  "u": "Good for questions on whether exploration is worth its cost, and on cooperation versus competition in space.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T17:00:00.000Z"
+ },
+ {
+  "id": "w-worldcup",
+  "t": "An expanded World Cup spans three countries",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "art",
+   "eco",
+   "glo"
+  ],
+  "s": "The tournament grew to 48 teams across the United States, Canada and Mexico, with Spain beating Argentina in the final. The expansion drew criticism over travel distances, ticket pricing and environmental cost.",
+  "u": "A current sports example for globalisation, and for whether commercial growth improves or dilutes a cultural institution.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T18:00:00.000Z"
+ },
+ {
+  "id": "w-cop28",
+  "t": "COP28 names fossil fuels in a climate agreement for the first time",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "env",
+   "glo",
+   "pol"
+  ],
+  "s": "Nearly two hundred countries agreed language on transitioning away from fossil fuels in energy systems — held up as a breakthrough after decades of omission, and criticised as too weak, at a summit presided over by an oil executive in the UAE.",
+  "u": "Perfect for arguing about whether international climate diplomacy delivers, since the same fact supports both answers.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T19:00:00.000Z"
+ },
+ {
+  "id": "w-amazon",
+  "t": "Brazil cuts Amazon deforestation sharply after a change of government",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "env",
+   "pol",
+   "glo"
+  ],
+  "s": "Deforestation in the Brazilian Amazon fell by roughly half within a year of Lula returning to office, following enforcement, satellite monitoring and restored agency budgets. The reversal came after years of increases under the previous administration.",
+  "u": "Direct evidence that environmental destruction is driven by political will, and can be reversed quickly by it.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T20:00:00.000Z"
+ },
+ {
+  "id": "w-roe",
+  "t": "The US Supreme Court removes the constitutional right to abortion",
+  "y": 2022,
+  "r": "world",
+  "c": [
+   "gen",
+   "eth",
+   "pol"
+  ],
+  "s": "Dobbs v Jackson overturned Roe v Wade, returning abortion law to individual states and producing a patchwork of bans and protections. Several subsequent state referendums went in favour of access, including in conservative states.",
+  "u": "Shows that established rights are not permanent, and that courts and voters can pull in opposite directions.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T21:00:00.000Z"
+ },
+ {
+  "id": "w-metoo",
+  "t": "#MeToo moves harassment from private grievance to public reckoning",
+  "y": 2017,
+  "r": "world",
+  "c": [
+   "gen",
+   "med",
+   "soc"
+  ],
+  "s": "Allegations against Harvey Weinstein prompted a wave of testimony across industries and countries, some leading to convictions, some to resignations without trial. Debate followed about due process and about how differently the movement travelled in different societies.",
+  "u": "Good for arguing that social media can shift norms faster than law, with the risks that come from that speed.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T22:00:00.000Z"
+ },
+ {
+  "id": "w-floyd",
+  "t": "George Floyd's death triggers global protest",
+  "y": 2020,
+  "r": "world",
+  "c": [
+   "eth",
+   "pol",
+   "med"
+  ],
+  "s": "Bystander video of a police killing in Minneapolis prompted the largest protests in recent US history and demonstrations worldwide, along with corporate pledges and statue removals. Assessments of lasting policy change are mixed.",
+  "u": "Shows the power of recorded evidence, and raises the harder question of whether attention converts into reform.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-30T23:00:00.000Z"
+ },
+ {
+  "id": "w-uber",
+  "t": "The UK Supreme Court rules Uber drivers are workers",
+  "y": 2021,
+  "r": "world",
+  "c": [
+   "eco",
+   "eth",
+   "sci"
+  ],
+  "s": "The court held that drivers were entitled to minimum wage and holiday pay rather than being self-employed contractors, because of the degree of control the platform exercised. Similar disputes have run in the EU, US and elsewhere with varying outcomes.",
+  "u": "The reference point for gig economy questions — technology changed the work, courts are deciding whether it changed the rights.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T00:00:00.000Z"
+ },
+ {
+  "id": "w-france-pension",
+  "t": "France raises the pension age over mass opposition",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "pol",
+   "eco",
+   "soc"
+  ],
+  "s": "The government moved the retirement age from 62 to 64 using a constitutional provision to avoid a parliamentary vote, provoking months of strikes and protest. It argued the ageing population made the change unavoidable.",
+  "u": "A vivid example of democratic legitimacy in tension with long-term fiscal necessity.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T01:00:00.000Z"
+ },
+ {
+  "id": "w-milei",
+  "t": "Argentina elects a president promising radical austerity",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "eco",
+   "pol"
+  ],
+  "s": "Javier Milei won on a platform of deep spending cuts and deregulation amid inflation above 100%. Inflation slowed while poverty rose sharply in the short term, and the political durability of the programme remained uncertain.",
+  "u": "Useful when an essay needs a live case of voters choosing painful economics over stability.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T02:00:00.000Z"
+ },
+ {
+  "id": "w-costofliving",
+  "t": "A cost of living crisis pushes food banks into the mainstream",
+  "y": 2022,
+  "r": "world",
+  "c": [
+   "eco",
+   "soc",
+   "hea"
+  ],
+  "s": "Energy price shocks and inflation after the pandemic and the invasion of Ukraine drove record demand at UK food banks, with nurses and teachers among those using them. Governments responded with capped energy prices and one-off payments.",
+  "u": "Shows in-work poverty in a wealthy country, which is more persuasive than statistics about poverty elsewhere.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T03:00:00.000Z"
+ },
+ {
+  "id": "w-vaccine",
+  "t": "Vaccine supply divides the world during the pandemic",
+  "y": 2021,
+  "r": "world",
+  "c": [
+   "hea",
+   "glo",
+   "eth"
+  ],
+  "s": "Wealthy countries secured doses well ahead of poorer ones while COVAX struggled with supply, and proposals to waive patent protections were resisted for over a year. Some regions had vaccinated only a small share of their populations while others offered boosters.",
+  "u": "The definitive example that a global crisis does not produce a global response.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T04:00:00.000Z"
+ },
+ {
+  "id": "w-ozempic",
+  "t": "Weight-loss drugs change the conversation about obesity",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "hea",
+   "sci",
+   "eco"
+  ],
+  "s": "GLP-1 medicines including semaglutide produced substantial weight loss in trials and became so sought-after that shortages affected diabetic patients. Questions followed about cost, lifelong use, and whether treating obesity pharmacologically lets food environments off the hook.",
+  "u": "Strong for medical ethics and for arguments about whether technology solves problems or displaces them.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T05:00:00.000Z"
+ },
+ {
+  "id": "w-crispr",
+  "t": "The first CRISPR gene-editing therapy is approved",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "sci",
+   "hea",
+   "eth"
+  ],
+  "s": "Casgevy was approved in the UK and US to treat sickle cell disease and beta thalassemia by editing patients' own cells. The price, running to millions per patient, means the people most affected worldwide are the least likely to receive it.",
+  "u": "Lets an essay make a sharper point than 'gene editing is coming': the ethical problem now is access, not possibility.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T06:00:00.000Z"
+ },
+ {
+  "id": "w-hejiankui",
+  "t": "A scientist creates gene-edited babies and is jailed",
+  "y": 2018,
+  "r": "world",
+  "c": [
+   "sci",
+   "eth",
+   "hea"
+  ],
+  "s": "He Jiankui announced the birth of twins whose embryos he had edited to resist HIV, drawing near-universal condemnation from scientists and a prison sentence in China. No health data on the children has been published.",
+  "u": "The standing example of science outrunning ethical consensus, and of a research community policing itself after the fact.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T07:00:00.000Z"
+ },
+ {
+  "id": "w-alphafold",
+  "t": "AI protein prediction wins a Nobel Prize",
+  "y": 2024,
+  "r": "world",
+  "c": [
+   "sci",
+   "hea"
+  ],
+  "s": "The chemistry Nobel recognised work on protein structure prediction and design, including DeepMind's AlphaFold, whose predicted structures have been used by well over a million researchers. It compressed work that once took years into hours.",
+  "u": "The best counterweight in AI essays to the usual focus on job losses and deepfakes.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T08:00:00.000Z"
+ },
+ {
+  "id": "w-jwst",
+  "t": "The James Webb Space Telescope returns its first images",
+  "y": 2022,
+  "r": "world",
+  "c": [
+   "sci",
+   "glo"
+  ],
+  "s": "Built over decades by American, European and Canadian agencies at a cost around ten billion dollars, the telescope began observing galaxies formed in the universe's early history. Its cost repeatedly prompted debate about spending priorities.",
+  "u": "Good for questions on whether we should fund pure science, and on international scientific cooperation surviving political friction.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T09:00:00.000Z"
+ },
+ {
+  "id": "w-notredame",
+  "t": "Notre-Dame reopens five years after the fire",
+  "y": 2024,
+  "r": "world",
+  "c": [
+   "art",
+   "rel",
+   "eco"
+  ],
+  "s": "Restoration was completed after a 2019 fire, funded by roughly a billion euros in donations that arrived within days — a speed that prompted uncomfortable comparisons with fundraising for social causes. Traditional craft techniques were used alongside modern engineering.",
+  "u": "Raises the question of what societies choose to value and pay for, which suits heritage and arts-funding essays.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T10:00:00.000Z"
+ },
+ {
+  "id": "w-barbenheimer",
+  "t": "Two very different films revive the cinema in one weekend",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "art",
+   "med",
+   "eco"
+  ],
+  "s": "Barbie and Oppenheimer opened on the same day and were watched as a double bill by audiences who turned the pairing into a shared event, after years in which streaming was assumed to have replaced cinema-going.",
+  "u": "A neat example that communal cultural experience still has value, useful against arguments that digital consumption is inevitable.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T11:00:00.000Z"
+ },
+ {
+  "id": "w-postoffice",
+  "t": "A television drama forces action on a decades-old injustice",
+  "y": 2024,
+  "r": "world",
+  "c": [
+   "art",
+   "eth",
+   "sci"
+  ],
+  "s": "Hundreds of British sub-postmasters had been prosecuted on the basis of faulty accounting software, and years of investigative reporting had failed to produce redress. A four-part ITV drama prompted public outrage and emergency legislation to quash convictions within weeks.",
+  "u": "Proof that storytelling can move public opinion where evidence alone did not — and a case study in blind trust in computer systems.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T12:00:00.000Z"
+ },
+ {
+  "id": "w-olympics",
+  "t": "The Paris Olympics field equal numbers of male and female athletes",
+  "y": 2024,
+  "r": "world",
+  "c": [
+   "art",
+   "gen"
+  ],
+  "s": "The Games allocated quota places equally between men and women for the first time, a century after women's participation was heavily restricted. Coverage disparities and disputes over eligibility rules continued.",
+  "u": "Concrete evidence of progress in a measurable form, which makes it more useful than general claims about equality.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T13:00:00.000Z"
+ },
+ {
+  "id": "w-abaya",
+  "t": "France bans the abaya in state schools",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "rel",
+   "edu",
+   "gen"
+  ],
+  "s": "The government extended its interpretation of secularism in schools to cover the long robe worn by some Muslim students. Supporters framed it as protecting a religion-free public education; opponents said it targeted one community and pushed girls out of school.",
+  "u": "The best example for testing whether secularism protects freedom of belief or restricts it.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T14:00:00.000Z"
+ },
+ {
+  "id": "w-laudato",
+  "t": "A pope makes climate change a moral question",
+  "y": 2015,
+  "r": "world",
+  "c": [
+   "rel",
+   "env",
+   "eth"
+  ],
+  "s": "The encyclical Laudato Si' framed environmental destruction and poverty as linked moral failures and addressed itself to everyone, not only Catholics. It was cited during the negotiations that produced the Paris Agreement.",
+  "u": "Shows religion acting as a force for a scientific consensus, which cuts against the usual framing of faith versus science.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T15:00:00.000Z"
+ },
+ {
+  "id": "w-ireland",
+  "t": "Ireland legalises abortion by referendum",
+  "y": 2018,
+  "r": "world",
+  "c": [
+   "rel",
+   "gen",
+   "pol"
+  ],
+  "s": "Voters repealed the constitutional amendment banning abortion by roughly two to one, in a country where the Catholic Church had long shaped law and education. A referendum on same-sex marriage had passed three years earlier.",
+  "u": "Demonstrates that religiously grounded law can change through democratic process rather than confrontation.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T16:00:00.000Z"
+ },
+ {
+  "id": "w-nz",
+  "t": "New Zealand changes its gun laws within weeks of a massacre",
+  "y": 2019,
+  "r": "world",
+  "c": [
+   "pol",
+   "eth",
+   "med"
+  ],
+  "s": "After the Christchurch mosque attacks the government banned most semi-automatic weapons with cross-party support and ran a buy-back scheme. The prime minister also refused to name the attacker, and social media companies were pressed to remove the livestream.",
+  "u": "The strongest available counterexample when an essay claims meaningful gun reform is politically impossible.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T17:00:00.000Z"
+ },
+ {
+  "id": "w-rwanda",
+  "t": "The UK's plan to send asylum seekers to Rwanda is abandoned",
+  "y": 2024,
+  "r": "world",
+  "c": [
+   "glo",
+   "eth",
+   "pol"
+  ],
+  "s": "After the Supreme Court found the scheme unlawful and Parliament legislated to declare Rwanda safe, the policy was scrapped by an incoming government having removed almost nobody, at a cost of hundreds of millions of pounds.",
+  "u": "A full arc from policy to courts to abandonment, useful on migration and on judicial checks against government.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T18:00:00.000Z"
+ },
+ {
+  "id": "w-marbles",
+  "t": "The Parthenon Marbles dispute refuses to go away",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "art",
+   "eth",
+   "glo"
+  ],
+  "s": "Greece continued to press for the return of sculptures removed from the Parthenon in the early nineteenth century and held by the British Museum, and a planned meeting between the two prime ministers was abruptly cancelled. Other museums have returned looted objects, including Benin Bronzes.",
+  "u": "The standard case for questions on cultural heritage, restitution and who owns the past.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T19:00:00.000Z"
+ },
+ {
+  "id": "w-aiart",
+  "t": "An AI-generated image wins an art competition",
+  "y": 2022,
+  "r": "world",
+  "c": [
+   "art",
+   "sci",
+   "eth"
+  ],
+  "s": "A work produced with the image generator Midjourney took first prize in a digital art category at a Colorado state fair, prompting protest from artists. Lawsuits followed over the use of copyrighted images as training data.",
+  "u": "Focuses an AI-and-creativity essay on the concrete disputes — authorship, consent and payment — rather than on whether machines can be creative.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T20:00:00.000Z"
+ },
+ {
+  "id": "w-ubi",
+  "t": "Finland tests an unconditional basic income",
+  "y": 2019,
+  "r": "world",
+  "c": [
+   "eco",
+   "soc",
+   "hea"
+  ],
+  "s": "Two thousand unemployed people received a monthly payment with no conditions for two years. Employment effects were small, but recipients reported better wellbeing and less stress than the control group.",
+  "u": "A real trial to cite instead of speculation, and honest in showing a partial result rather than a triumph.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T21:00:00.000Z"
+ },
+ {
+  "id": "w-grenfell",
+  "t": "The Grenfell Tower inquiry blames decades of failure",
+  "y": 2024,
+  "r": "world",
+  "c": [
+   "eco",
+   "soc",
+   "eth"
+  ],
+  "s": "Seven years after a fire killed 72 people in a London social housing block, the final report found the deaths avoidable and cited dishonesty by cladding manufacturers alongside failures of regulation and of a government that had prioritised deregulation.",
+  "u": "Shows how inequality operates through building standards and unheard complaints, not only through income.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T22:00:00.000Z"
+ },
+ {
+  "id": "w-brexit",
+  "t": "Britain leaves the European Union",
+  "y": 2020,
+  "r": "world",
+  "c": [
+   "pol",
+   "eco",
+   "glo"
+  ],
+  "s": "A narrow 2016 referendum result led to withdrawal in 2020 after years of negotiation, with lasting effects on trade friction, labour supply and Northern Ireland's status. Polling has since shifted, without any serious prospect of quick reversal.",
+  "u": "Central to arguments about referendums, sovereignty and whether voters should decide complex technical questions directly.",
+  "link": null,
+  "source": null,
+  "added": "2026-08-31T23:00:00.000Z"
+ },
+ {
+  "id": "demo-sample-1",
+  "t": "Sample entry — delete this once the workflow has run",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "pol",
+   "med"
+  ],
+  "s": "This placeholder exists so the homepage has something to display before the first scheduled run. It carries a timestamp of the moment the site was built, so it will disappear once the freshness window elapses.",
+  "u": "Shows that the homepage window is working — this entry should vanish on its own.",
+  "link": "https://www.gov.sg/",
+  "source": "Placeholder",
+  "added": "2026-09-08T14:22:23.541Z"
+ },
+ {
+  "t": "Indonesia jails a Christian governor for blasphemy",
+  "y": 2017,
+  "r": "asia",
+  "c": [
+   "rel",
+   "pol",
+   "eth"
+  ],
+  "s": "Jakarta's governor Basuki Tjahaja Purnama, known as Ahok, was sentenced to two years for blasphemy after remarks about a Quranic verse, following mass demonstrations. The case was widely read as a turning point for religious politics in the world's largest Muslim-majority democracy.",
+  "u": "Shows blasphemy law functioning as a political weapon rather than a protection of belief, in a country that guarantees religious freedom on paper.",
+  "id": "indonesia-jails-a-christian-governor-for",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:00:00.000Z"
+ },
+ {
+  "t": "India's states expand laws restricting religious conversion",
+  "y": 2021,
+  "r": "asia",
+  "c": [
+   "rel",
+   "pol",
+   "eth"
+  ],
+  "s": "A growing number of Indian states passed or tightened anti-conversion laws requiring official notice before changing religion, framed as preventing coercion or marriage-based conversion. Critics argue they are used disproportionately against Christian and Muslim minorities and reverse the burden of proof.",
+  "u": "Useful for asking whether the state can protect religious freedom and regulate it at the same time.",
+  "id": "india-s-states-expand-laws-restricting-r",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:01:00.000Z"
+ },
+ {
+  "t": "Saudi Arabia lifts its ban on women driving",
+  "y": 2018,
+  "r": "asia",
+  "c": [
+   "rel",
+   "gen",
+   "pol"
+  ],
+  "s": "The kingdom ended the world's only ban on women driving as part of a package of social changes that also reopened cinemas and curbed the religious police. Several women who had campaigned for the change were detained around the same period.",
+  "u": "Complicates any simple story about reform: liberalisation delivered from above, while the people who demanded it were punished.",
+  "id": "saudi-arabia-lifts-its-ban-on-women-driv",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:02:00.000Z"
+ },
+ {
+  "t": "Christian affiliation falls sharply in the United States",
+  "y": 2024,
+  "r": "world",
+  "c": [
+   "rel",
+   "soc"
+  ],
+  "s": "The share of American adults identifying as Christian fell from roughly 78% in 2007 to around 62% by the mid-2020s, while those claiming no religion rose from about 16% to nearly 30%. The decline appears to have levelled off rather than continuing steadily downward.",
+  "u": "A trend rather than a snapshot, which makes it usable for arguing either that secularisation is inevitable or that it has limits.",
+  "id": "christian-affiliation-falls-sharply-in-t",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:03:00.000Z"
+ },
+ {
+  "t": "Myanmar's Rohingya are driven out amid Buddhist nationalism",
+  "y": 2017,
+  "r": "asia",
+  "c": [
+   "rel",
+   "glo",
+   "eth"
+  ],
+  "s": "More than 700,000 Rohingya Muslims fled military operations in Rakhine State into Bangladesh, in violence later described by UN investigators as genocidal in intent. Buddhist nationalist movements had spent years campaigning against the minority's citizenship.",
+  "u": "A corrective to the assumption that religious violence follows a single template — here the majority faith is one usually associated with pacifism.",
+  "id": "myanmar-s-rohingya-are-driven-out-amid-b",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:04:00.000Z"
+ },
+ {
+  "t": "China bans for-profit tutoring in core school subjects",
+  "y": 2021,
+  "r": "asia",
+  "c": [
+   "edu",
+   "eco",
+   "pol"
+  ],
+  "s": "The double reduction policy outlawed for-profit tutoring in school subjects, restricted weekend and holiday classes, and wiped out an industry estimated in the tens of billions of dollars. Reports suggest tutoring continued underground at higher prices, favouring wealthier families.",
+  "u": "The strongest test case for whether governments can legislate away educational arms races — and evidence that demand relocates rather than disappears.",
+  "id": "china-bans-for-profit-tutoring-in-core-s",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:05:00.000Z"
+ },
+ {
+  "t": "South Korea caps late-night tutoring to curb an education arms race",
+  "y": 2011,
+  "r": "asia",
+  "c": [
+   "edu",
+   "soc",
+   "eco"
+  ],
+  "s": "Curfews restricting hagwon operating hours past 10pm were enforced with inspectors and informant rewards, in a country where household spending on private education runs into tens of billions of dollars a year. Spending has continued rising regardless.",
+  "u": "Pairs with Singapore's tuition culture to argue that competitive schooling is driven by parental anxiety that regulation cannot reach.",
+  "id": "south-korea-caps-late-night-tutoring-to-",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:06:00.000Z"
+ },
+ {
+  "t": "Sweden pulls back from screens and returns to printed textbooks",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "edu",
+   "sci",
+   "soc"
+  ],
+  "s": "After years of heavy digitalisation, the government funded a return to physical books and reduced screen use in early years, citing reading comprehension declines and weak evidence for tablets. The reversal followed a fall in national reading scores.",
+  "u": "A rare documented policy reversal on classroom technology — valuable because it lets a student argue against the assumption that digital always means progress.",
+  "id": "sweden-pulls-back-from-screens-and-retur",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:07:00.000Z"
+ },
+ {
+  "t": "Reading and maths scores fall across most countries after the pandemic",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "edu",
+   "soc",
+   "hea"
+  ],
+  "s": "The 2022 PISA round recorded the steepest drop in maths performance in the survey's history across OECD countries, though a handful including Singapore, Japan and South Korea held up or improved. Time out of classrooms explained only part of the variation.",
+  "u": "Concrete evidence on what school closures cost, and on why some systems absorbed the shock better than others.",
+  "id": "reading-and-maths-scores-fall-across-mos",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:08:00.000Z"
+ },
+ {
+  "t": "Kenya abolishes primary school fees and enrolment surges",
+  "y": 2003,
+  "r": "world",
+  "c": [
+   "edu",
+   "eco",
+   "soc"
+  ],
+  "s": "Removing fees brought well over a million additional children into primary school almost immediately, but class sizes ballooned and teacher numbers lagged, raising questions about quality. The policy has been widely copied across sub-Saharan Africa.",
+  "u": "Separates access from quality — a distinction most education essays collapse.",
+  "id": "kenya-abolishes-primary-school-fees-and-",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:09:00.000Z"
+ },
+ {
+  "t": "Iceland requires employers to prove they pay men and women equally",
+  "y": 2018,
+  "r": "world",
+  "c": [
+   "gen",
+   "eco",
+   "pol"
+  ],
+  "s": "Companies above a certain size must obtain certification demonstrating equal pay for work of equal value, reversing the usual burden of proof from the employee onto the employer. Iceland has topped global gender gap rankings for well over a decade.",
+  "u": "Shifts a gender essay from whether inequality exists to who should have to prove it — a sharper argument than most students make.",
+  "id": "iceland-requires-employers-to-prove-they",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:10:00.000Z"
+ },
+ {
+  "t": "Rwanda has the world's highest share of women in parliament",
+  "y": 2003,
+  "r": "world",
+  "c": [
+   "gen",
+   "pol",
+   "soc"
+  ],
+  "s": "Constitutional quotas introduced after the genocide reserved seats for women, and the share of women in the lower house has exceeded 60% since 2013 — higher than any other country. Critics note that political power remains concentrated and contested elsewhere in the system.",
+  "u": "Shows quotas producing rapid, durable descriptive representation, while raising the question of whether representation equals power.",
+  "id": "rwanda-has-the-world-s-highest-share-of-",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:11:00.000Z"
+ },
+ {
+  "t": "The Gambia comes close to repealing its ban on female genital cutting",
+  "y": 2024,
+  "r": "world",
+  "c": [
+   "gen",
+   "rel",
+   "eth"
+  ],
+  "s": "Parliament debated overturning a 2015 ban after religious leaders argued it infringed cultural and religious practice; the repeal was ultimately rejected. It would have been the first national reversal of such a ban anywhere.",
+  "u": "Direct evidence that legal protections for women can be rolled back, and that the challenge often comes framed as cultural rights.",
+  "id": "the-gambia-comes-close-to-repealing-its-",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:12:00.000Z"
+ },
+ {
+  "t": "Japan's top court moves against a rule forcing couples to share one surname",
+  "y": 2024,
+  "r": "asia",
+  "c": [
+   "gen",
+   "soc",
+   "pol"
+  ],
+  "s": "Japan is the only country legally requiring married couples to adopt a single surname, and in practice the overwhelming majority of women change theirs. Business groups joined long-running legal challenges arguing the rule holds back women's careers.",
+  "u": "A small, concrete example of how law shapes gender roles through administrative detail rather than open discrimination.",
+  "id": "japan-s-top-court-moves-against-a-rule-f",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:13:00.000Z"
+ },
+ {
+  "t": "Ecuadorians vote to leave oil in the ground beneath a rainforest",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "env",
+   "pol",
+   "eco"
+  ],
+  "s": "A national referendum backed halting oil extraction in a block of Yasuní National Park, one of the most biodiverse places on earth, forcing the state oil company to wind down operations. It was the first time a country had voted directly to forgo fossil fuel revenue.",
+  "u": "The clearest available example of democratic choice favouring conservation over income — and a test of whether such votes get implemented.",
+  "id": "ecuadorians-vote-to-leave-oil-in-the-gro",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:14:00.000Z"
+ },
+ {
+  "t": "Costa Rica doubles its forest cover after decades of clearing",
+  "y": 2019,
+  "r": "world",
+  "c": [
+   "env",
+   "eco",
+   "pol"
+  ],
+  "s": "Forest cover fell to around a quarter of the country by the 1980s and has since recovered to over half, driven by payments to landowners for conserving watersheds and biodiversity, funded partly by a fuel tax. Nearly all its electricity now comes from renewables.",
+  "u": "Shows deforestation is reversible, and that paying people not to clear land can work at national scale.",
+  "id": "costa-rica-doubles-its-forest-cover-afte",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:15:00.000Z"
+ },
+ {
+  "t": "Countries agree a treaty to protect the high seas",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "env",
+   "glo",
+   "eth"
+  ],
+  "s": "After nearly two decades of talks, UN members adopted an agreement allowing marine protected areas in international waters, which cover roughly two-thirds of the ocean and had almost no conservation framework. Ratification by enough states was required before it could take effect.",
+  "u": "A counterexample to climate pessimism about international cooperation, with the usual caveat that agreement and enforcement are different things.",
+  "id": "countries-agree-a-treaty-to-protect-the-",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:16:00.000Z"
+ },
+ {
+  "t": "Dutch farmers block roads over nitrogen emission limits",
+  "y": 2022,
+  "r": "world",
+  "c": [
+   "env",
+   "eco",
+   "pol"
+  ],
+  "s": "Court-mandated cuts to nitrogen pollution implied buying out or shrinking large numbers of livestock farms in one of the world's biggest agricultural exporters. Protests with tractors and manure blockades fed the rise of a farmers' party that won a provincial election.",
+  "u": "Shows environmental policy generating a political backlash strong enough to reshape a party system.",
+  "id": "dutch-farmers-block-roads-over-nitrogen-",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:17:00.000Z"
+ },
+ {
+  "t": "Solar becomes the cheapest source of new electricity in most of the world",
+  "y": 2024,
+  "r": "world",
+  "c": [
+   "env",
+   "eco",
+   "sci"
+  ],
+  "s": "Utility-scale solar costs fell by roughly 90% between 2010 and the mid-2020s, making it cheaper than new coal or gas across most markets, and renewables now supply around 30% of global electricity. Grid storage and transmission remain the binding constraints rather than generation cost.",
+  "u": "Reframes the climate argument from sacrifice to economics — the trend matters more than either individual figure.",
+  "id": "solar-becomes-the-cheapest-source-of-new",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:18:00.000Z"
+ },
+ {
+  "t": "German museums begin returning the Benin Bronzes to Nigeria",
+  "y": 2022,
+  "r": "world",
+  "c": [
+   "art",
+   "eth",
+   "glo"
+  ],
+  "s": "Germany transferred ownership of more than a thousand artefacts looted by British forces in 1897, with some physically returned to Nigeria. Other institutions holding the bronzes, including the British Museum, have not followed.",
+  "u": "A restitution case that actually happened, which makes it more useful than the still-unresolved Parthenon dispute.",
+  "id": "german-museums-begin-returning-the-benin",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:19:00.000Z"
+ },
+ {
+  "t": "Afrobeats and Nollywood turn Nigerian culture into a global export",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "art",
+   "eco",
+   "glo"
+  ],
+  "s": "Nigerian artists filled major international venues and the country's film industry became one of the world's largest by output, supported by streaming platforms commissioning local content. Infrastructure and piracy remain constraints on domestic earnings.",
+  "u": "Shows cultural globalisation flowing outward from Africa rather than only inward — a corrective to essays that treat it as Western export.",
+  "id": "afrobeats-and-nollywood-turn-nigerian-cu",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:20:00.000Z"
+ },
+ {
+  "t": "Venice charges day-trippers an entry fee",
+  "y": 2024,
+  "r": "world",
+  "c": [
+   "art",
+   "env",
+   "eco"
+  ],
+  "s": "The city introduced a booking system and fee for day visitors on peak days, after its resident population fell below 50,000 while annual visitors ran into the tens of millions. Early results suggested modest effects on crowding.",
+  "u": "Makes the overtourism argument concrete: heritage cities can price access, but whether it changes behaviour is a separate question.",
+  "id": "venice-charges-day-trippers-an-entry-fee",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:21:00.000Z"
+ },
+ {
+  "t": "Squid Game becomes a global hit in a language most viewers cannot speak",
+  "y": 2021,
+  "r": "asia",
+  "c": [
+   "art",
+   "med",
+   "eco"
+  ],
+  "s": "The Korean series became Netflix's most-watched launch at the time, made for a fraction of comparable American budgets, and centred on debt and inequality in Korean society. Subtitled and dubbed viewing outside Korea drove almost all of the audience.",
+  "u": "Evidence that cultural products no longer need to be in English or set in the West to travel.",
+  "id": "squid-game-becomes-a-global-hit-in-a-lan",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:22:00.000Z"
+ },
+ {
+  "t": "M-Pesa turns mobile phones into bank accounts across East Africa",
+  "y": 2007,
+  "r": "world",
+  "c": [
+   "sci",
+   "eco",
+   "soc"
+  ],
+  "s": "A text-message money transfer service launched in Kenya now moves sums equivalent to a large share of national GDP, reaching people who never had bank accounts. Research has linked access to reduced poverty, particularly for female-headed households.",
+  "u": "The best example of technology leapfrogging — a poorer country solving a problem before richer ones, rather than copying them.",
+  "id": "m-pesa-turns-mobile-phones-into-bank-acc",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:23:00.000Z"
+ },
+ {
+  "t": "Drones deliver blood to Rwandan hospitals faster than roads allow",
+  "y": 2016,
+  "r": "world",
+  "c": [
+   "sci",
+   "hea",
+   "eco"
+  ],
+  "s": "A national drone network began delivering blood and medical supplies to remote clinics, cutting delivery times from hours to minutes and reducing wastage of perishable stock. The model has since been extended to other countries.",
+  "u": "Shows infrastructure gaps being answered with new technology rather than by first building the old kind.",
+  "id": "drones-deliver-blood-to-rwandan-hospital",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:24:00.000Z"
+ },
+ {
+  "t": "Malaria vaccines begin routine rollout in African countries",
+  "y": 2024,
+  "r": "world",
+  "c": [
+   "hea",
+   "sci",
+   "glo"
+  ],
+  "s": "Cameroon became the first country to introduce malaria vaccination into its routine childhood programme, followed by others, after decades in which a vaccine for a parasite was thought unachievable. Malaria still kills over half a million people a year, mostly young children.",
+  "u": "A concrete answer to whether medical research reaches the diseases of the poor — and a reminder of how long it took.",
+  "id": "malaria-vaccines-begin-routine-rollout-i",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:25:00.000Z"
+ },
+ {
+  "t": "Countries adopt a pandemic agreement after years of negotiation",
+  "y": 2025,
+  "r": "world",
+  "c": [
+   "hea",
+   "glo",
+   "pol"
+  ],
+  "s": "WHO member states adopted an accord on preparedness, covering pathogen sample sharing and commitments on distributing vaccines and treatments more equitably than during COVID. Key provisions depend on a separate annex and national ratification, and the United States did not take part.",
+  "u": "Tests whether the world learned from vaccine inequity, with the honest answer that agreement was reached but enforcement was not.",
+  "id": "countries-adopt-a-pandemic-agreement-aft",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:26:00.000Z"
+ },
+ {
+  "t": "Brazil pays poor families to keep children in school",
+  "y": 2003,
+  "r": "world",
+  "c": [
+   "eco",
+   "edu",
+   "soc"
+  ],
+  "s": "Bolsa Família made cash transfers conditional on school attendance and health check-ups, reaching tens of millions and contributing to sharp falls in extreme poverty for a cost of roughly half a percent of GDP. The design has been copied in dozens of countries.",
+  "u": "Evidence that welfare can be cheap and effective, useful against arguments that redistribution necessarily wastes money.",
+  "id": "brazil-pays-poor-families-to-keep-childr",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:27:00.000Z"
+ },
+ {
+  "t": "Chile rejects two attempts to replace its constitution",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "pol",
+   "soc",
+   "eth"
+  ],
+  "s": "Mass protests in 2019 produced a process to rewrite the dictatorship-era constitution, but voters rejected a progressive draft in 2022 and a conservative one in 2023, leaving the original text in place. Turnout was compulsory for both votes.",
+  "u": "Complicates the assumption that street protest translates into constitutional change, and shows referendums can produce deadlock.",
+  "id": "chile-rejects-two-attempts-to-replace-it",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:28:00.000Z"
+ },
+ {
+  "t": "Colombia signs a peace deal that voters had rejected",
+  "y": 2016,
+  "r": "world",
+  "c": [
+   "glo",
+   "pol",
+   "eth"
+  ],
+  "s": "An agreement ending more than fifty years of conflict with FARC guerrillas was narrowly voted down in a referendum, then revised and passed through Congress instead. Implementation has been uneven and killings of former combatants and activists have continued.",
+  "u": "Raises a hard question for democratic theory: whether peace should be subject to a popular vote at all.",
+  "id": "colombia-signs-a-peace-deal-that-voters-",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:29:00.000Z"
+ },
+ {
+  "t": "A former Philippine president is arrested for his drug war",
+  "y": 2025,
+  "r": "asia",
+  "c": [
+   "eth",
+   "pol",
+   "glo"
+  ],
+  "s": "Rodrigo Duterte was taken into custody on an International Criminal Court warrant over killings during anti-drug operations that human rights groups estimate ran into the tens of thousands. The Philippines had withdrawn from the court in 2019.",
+  "u": "One of the few instances of international justice reaching a former head of government, useful for testing whether such courts have teeth.",
+  "id": "a-former-philippine-president-is-arreste",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:30:00.000Z"
+ },
+ {
+  "t": "Nigeria removes its fuel subsidy and prices triple",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "eco",
+   "pol",
+   "soc"
+  ],
+  "s": "Ending a subsidy that had cost billions annually caused petrol prices to rise sharply, along with transport and food costs, prompting strikes. Successive governments had avoided the change despite the fiscal burden.",
+  "u": "Shows why economically sensible reforms are politically avoided — the costs are immediate and visible, the benefits diffuse.",
+  "id": "nigeria-removes-its-fuel-subsidy-and-pri",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:31:00.000Z"
+ },
+ {
+  "t": "Africa launches the world's largest free trade area by membership",
+  "y": 2021,
+  "r": "world",
+  "c": [
+   "eco",
+   "glo",
+   "pol"
+  ],
+  "s": "The African Continental Free Trade Area began trading with over fifty member states, aiming to lift intra-African trade from roughly 15% of the continent's total. Progress has been slowed by infrastructure gaps, customs procedures and non-tariff barriers.",
+  "u": "A counterweight to essays that treat globalisation as finished or in retreat — regional integration is still being built.",
+  "id": "africa-launches-the-world-s-largest-free",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:32:00.000Z"
+ },
+ {
+  "t": "Venezuela's collapse produces the largest displacement in the Americas",
+  "y": 2023,
+  "r": "world",
+  "c": [
+   "glo",
+   "eco",
+   "soc"
+  ],
+  "s": "Economic collapse and political crisis drove more than seven million people out of the country, most into neighbouring Colombia, Peru and Ecuador. Regional hosts absorbed the flow with far less international funding per person than crises elsewhere have received.",
+  "u": "Useful for migration essays needing a non-European example, and for arguing that attention and money follow geography rather than need.",
+  "id": "venezuela-s-collapse-produces-the-larges",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:33:00.000Z"
+ },
+ {
+  "t": "Ethiopia's dam on the Nile becomes a regional flashpoint",
+  "y": 2022,
+  "r": "world",
+  "c": [
+   "env",
+   "glo",
+   "eco"
+  ],
+  "s": "The Grand Ethiopian Renaissance Dam is Africa's largest hydroelectric project and will supply power to a country where a large share of people lacked electricity. Egypt, dependent on the Nile for nearly all its fresh water, has treated the filling schedule as an existential issue.",
+  "u": "The best available example of water as a source of interstate conflict, and of development in one country imposing risk on another.",
+  "id": "ethiopia-s-dam-on-the-nile-becomes-a-reg",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:34:00.000Z"
+ },
+ {
+  "t": "Indonesia moves its capital off its most crowded island",
+  "y": 2024,
+  "r": "asia",
+  "c": [
+   "env",
+   "pol",
+   "eco"
+  ],
+  "s": "Construction of Nusantara in Borneo began as Jakarta continued sinking, with parts of the city dropping by centimetres a year due to groundwater extraction and rising seas. Funding has fallen short of projections and the transfer has been repeatedly delayed.",
+  "u": "An extreme case of climate adaptation — relocating a capital rather than defending it — with the practical difficulties on display.",
+  "id": "indonesia-moves-its-capital-off-its-most",
+  "link": null,
+  "source": null,
+  "added": "2026-09-02T00:35:00.000Z"
+ }
+]

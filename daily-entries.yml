@@ -1,0 +1,54 @@
+name: Add daily examples
+
+on:
+  schedule:
+    # 23:10 UTC = 07:10 Singapore time. GitHub cron is best-effort and often
+    # runs late; that is fine for a daily job.
+    - cron: "10 23 * * *"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "How many examples to look for"
+        required: false
+        default: "6"
+      dry_run:
+        description: "Print without committing (true/false)"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-entries
+  cancel-in-progress: false
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Fetch new examples
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ENTRY_COUNT: ${{ github.event.inputs.count || '6' }}
+          DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
+        run: node scripts/add-entries.mjs
+
+      - name: Commit
+        if: github.event.inputs.dry_run != 'true'
+        run: |
+          if git diff --quiet -- data/entries.json; then
+            echo "No change to commit."
+            exit 0
+          fi
+          git config user.name  "example-bank-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/entries.json
+          git commit -m "Add examples for $(date -u +%Y-%m-%d)"
+          git push

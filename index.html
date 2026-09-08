@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Example Bank — today's examples for General Paper</title>
+<meta name="description" content="Fresh real-world examples for A-Level General Paper essays, updated daily.">
+<meta property="og:title" content="Example Bank">
+<meta property="og:description" content="Fresh real-world examples for A-Level General Paper essays, updated daily.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='18' fill='%23141d26'/><rect x='20' y='44' width='60' height='16' fill='%23d7f24a'/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/site.css">
+<style>
+  .countdown{
+    font-variant-numeric:tabular-nums;
+    background:var(--mark);padding:1px 7px;border-radius:100px;color:var(--ink);
+  }
+  .freshnote{
+    display:flex;gap:12px;align-items:baseline;flex-wrap:wrap;
+    padding:14px 0 2px;font-size:14px;color:var(--ink-soft);
+    border-top:1px solid var(--rule);
+  }
+</style>
+</head>
+<body>
+
+<nav class="sitenav">
+  <div class="wrap">
+    <a class="brand" href="index.html">Example Bank</a>
+    <a href="index.html" aria-current="page">Today</a>
+    <a href="archive.html">Archive</a>
+    <a href="facts.html">Quotes &amp; search</a>
+  </div>
+</nav>
+
+<div class="wrap">
+  <header class="masthead">
+    <h1 class="mast-title">What's <span class="hl">worth noting</span> today</h1>
+    <p class="mast-sub">New examples land here every day and stay for a short window before moving to the archive. Each one is chosen because it will still be usable in an essay months from now.</p>
+  </header>
+
+  <div class="freshnote">
+    <span id="windowNote"></span>
+  </div>
+
+  <main class="list" id="list">
+    <div class="empty"><p>Loading today's examples…</p></div>
+  </main>
+
+  <footer>
+    <p>Nothing here disappears — everything moves to the <a href="archive.html">archive</a>, which holds the full bank.</p>
+    <p>Dates and figures are worth checking before you use them in an essay.</p>
+  </footer>
+</div>
+
+<script src="assets/site.js"></script>
+<script>
+const listEl = document.getElementById("list");
+const windowNote = document.getElementById("windowNote");
+let entries = [];
+
+function windowLabel(){
+  const ms = CONFIG.HOME_WINDOW_MS;
+  if(ms >= 3600000) return Math.round(ms / 3600000) + " hours";
+  if(ms >= 60000)   return Math.round(ms / 60000) + " minutes";
+  return Math.round(ms / 1000) + " seconds";
+}
+
+function timeLeft(entry){
+  const left = CONFIG.HOME_WINDOW_MS - (Date.now() - Date.parse(entry.added));
+  const mins = Math.floor(left / 60000);
+  const secs = Math.floor((left % 60000) / 1000);
+  if(left <= 0) return null;
+  if(mins >= 60) return Math.floor(mins / 60) + "h " + (mins % 60) + "m left";
+  if(mins >= 1)  return mins + "m " + String(secs).padStart(2, "0") + "s left";
+  return secs + "s left";
+}
+
+function render(){
+  const fresh = entries.filter(e => isFresh(e))
+                       .sort((a, b) => Date.parse(b.added) - Date.parse(a.added));
+
+  windowNote.innerHTML = fresh.length
+    ? `Showing examples added in the last <span class="countdown">${windowLabel()}</span>`
+    : "";
+
+  if(!fresh.length){
+    listEl.innerHTML = `
+      <div class="empty">
+        <p>No new examples in the last ${windowLabel()}.</p>
+        <p><a href="archive.html">Browse the full archive</a> — ${entries.length} examples and counting.</p>
+      </div>`;
+    return;
+  }
+
+  listEl.innerHTML = fresh.map(d => {
+    const left = timeLeft(d);
+    return entryHtml(d).replace(
+      '<p class="meta">',
+      `<p class="meta">${left ? `<span class="countdown" data-left="${d.id}">${left}</span> · ` : ""}`
+    );
+  }).join("");
+
+  bindEntryEvents(listEl, { onTag: c => { location.href = "archive.html#cat=" + c; } });
+}
+
+/* Tick the countdowns so entries visibly age out. */
+function tick(){
+  let expired = false;
+  document.querySelectorAll("[data-left]").forEach(el => {
+    const entry = entries.find(e => e.id === el.dataset.left);
+    const left = entry && timeLeft(entry);
+    if(!left) expired = true; else el.textContent = left;
+  });
+  if(expired) render();
+}
+
+loadEntries()
+  .then(data => { entries = data; render(); setInterval(tick, 1000); })
+  .catch(err => {
+    listEl.innerHTML = `<div class="empty"><p>Couldn't load the examples.</p>
+      <p>${escapeHtml(err.message)}</p>
+      <p>If you opened this file directly, serve it over http instead — the data file can't be read from <code>file://</code>.</p></div>`;
+  });
+</script>
+</body>
+</html>

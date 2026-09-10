@@ -83,26 +83,34 @@ function render(){
   const fresh = entries.filter(e => isFresh(e))
                        .sort((a, b) => Date.parse(b.added) - Date.parse(a.added));
 
-  windowNote.innerHTML = fresh.length
-    ? `Showing examples added in the last <span class="countdown">${windowLabel()}</span>`
-    : "";
+  if(fresh.length){
+    windowNote.innerHTML =
+      `Showing examples added in the last <span class="countdown">${windowLabel()}</span>`;
 
-  if(!fresh.length){
-    listEl.innerHTML = `
-      <div class="empty">
-        <p>No new examples in the last ${windowLabel()}.</p>
-        <p><a href="archive.html">Browse the full archive</a> — ${entries.length} examples and counting.</p>
-      </div>`;
-    return;
+    listEl.innerHTML = fresh.map(d => {
+      const left = timeLeft(d);
+      return entryHtml(d).replace(
+        '<p class="meta">',
+        `<p class="meta">${left ? `<span class="countdown" data-left="${d.id}">${left}</span> · ` : ""}`
+      );
+    }).join("");
+
+  } else {
+    /* Nothing new. An empty page reads as a broken site, so show the most
+       recent additions instead and say plainly that they are not new. */
+    const recent = entries
+      .filter(e => e.added)
+      .sort((a, b) => Date.parse(b.added) - Date.parse(a.added))
+      .slice(0, CONFIG.FALLBACK_COUNT);
+
+    windowNote.innerHTML = "Nothing new in the last " + windowLabel()
+      + " — here are the most recent additions.";
+
+    listEl.innerHTML = recent.length
+      ? recent.map(entryHtml).join("")
+      : `<div class="empty"><p>No examples yet.</p>
+         <p><a href="archive.html">Browse the archive</a>.</p></div>`;
   }
-
-  listEl.innerHTML = fresh.map(d => {
-    const left = timeLeft(d);
-    return entryHtml(d).replace(
-      '<p class="meta">',
-      `<p class="meta">${left ? `<span class="countdown" data-left="${d.id}">${left}</span> · ` : ""}`
-    );
-  }).join("");
 
   bindEntryEvents(listEl, { onTag: c => { location.href = "archive.html#cat=" + c; } });
 }

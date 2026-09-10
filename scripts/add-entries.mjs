@@ -29,10 +29,10 @@ const PROMPT_PATH = path.join(HERE, "prompt.md");
 const FEEDS_PATH = path.join(HERE, "feeds.json");
 
 const API_KEY = process.env.GEMINI_API_KEY;
-const COUNT = Number(process.env.ENTRY_COUNT || 6);
+const COUNT = Number(process.env.ENTRY_COUNT || 20);
 const MODEL = (process.env.MODEL && process.env.MODEL.trim()) || "gemini-3.5-flash";
 const LOOKBACK_DAYS = Number(process.env.LOOKBACK_DAYS || 4);
-const MAX_ARTICLES = Number(process.env.MAX_ARTICLES || 30);
+const MAX_ARTICLES = Number(process.env.MAX_ARTICLES || 70);
 const DRY_RUN = process.env.DRY_RUN === "1";
 const SKIP_LINK_CHECK = process.env.SKIP_LINK_CHECK === "1";
 
@@ -174,7 +174,8 @@ function buildPrompt(template, entries, items){
   const hot = Object.entries(words).filter(([, n]) => n >= 4)
     .sort((a, b) => b[1] - a[1]).slice(0, 8).map(([w]) => w).join(", ") || "none yet";
 
-  const titles = entries.slice(-90).map(e => `- ${e.t} (${e.y})`).join("\n");
+  const DEDUPE_WINDOW = Math.max(120, COUNT * 14);   // ~2 weeks of history
+  const titles = entries.slice(-DEDUPE_WINDOW).map(e => `- ${e.t} (${e.y})`).join("\n");
 
   const headlines = items.map((it, i) =>
     `### [${i + 1}] ${it.title}\n` +
@@ -199,7 +200,7 @@ async function callGemini(prompt){
     headers: { "content-type": "application/json", "x-goog-api-key": API_KEY },
     body: JSON.stringify({
       contents: [{ role: "user", parts: [{ text: prompt }] }],
-      generationConfig: { temperature: 0.3, maxOutputTokens: 8000, responseMimeType: "application/json" }
+      generationConfig: { temperature: 0.3, maxOutputTokens: 24000, responseMimeType: "application/json" }
     })
   });
   if(!res.ok) throw new Error(`Gemini returned ${res.status}: ${(await res.text()).slice(0, 600)}`);
@@ -323,8 +324,13 @@ if(!ok.length){
   process.exit(0);
 }
 
-console.log(`Accepted ${ok.length}:`);
-ok.forEach(e => console.log(`  [${e.r}] ${e.t}  →  ${e.source || e.link}`));
+const unlinked = ok.filter(e => !e.link).length;
+const sgShare = ok.filter(e => e.r === "sg").length;
+console.log(`Accepted ${ok.length}: ${sgShare} Singapore, ${unlinked} without a source link.`);
+if(unlinked > ok.length / 3){
+  console.log("  WARNING: more than a third have no source link. These are unverified\n  structural entries written from the model's own knowledge — check them, and\n  consider lowering ENTRY_COUNT if this persists.");
+}
+ok.forEach(e => console.log(`  [${e.r}] ${e.t}  →  ${e.source || "NO SOURCE"}`));
 
 if(DRY_RUN){
   console.log("\nDRY_RUN set — not writing.");

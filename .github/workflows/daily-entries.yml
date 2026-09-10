@@ -10,7 +10,7 @@ on:
       count:
         description: "How many examples to look for"
         required: false
-        default: "6"
+        default: "20"
       dry_run:
         description: "Print without committing (true/false)"
         required: false
@@ -40,7 +40,7 @@ jobs:
       - name: Fetch new examples
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          ENTRY_COUNT: ${{ github.event.inputs.count || '6' }}
+          ENTRY_COUNT: ${{ github.event.inputs.count || '20' }}
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
           MODEL: ${{ github.event.inputs.model }}
         run: node scripts/add-entries.mjs

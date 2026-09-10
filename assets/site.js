@@ -1,15 +1,34 @@
 /* ===================================================================
    Shared config, data loading and entry rendering.
 
-   >>> TEST MODE <<<
-   HOME_WINDOW_MS and FACT_ROTATE_MS are currently set to short values
-   so the behaviour can be observed without waiting a day.
-   Before going live, swap to the production values noted beside each.
+   The homepage window is 48 hours. To test without waiting, append a
+   ?w= override to the URL — it only affects your own browser:
+
+     index.html?w=5m     five minutes
+     index.html?w=2h     two hours
+     index.html?w=7d     seven days
+
+   Note: a window shorter than about 3 minutes is not testable on the
+   deployed site, because entries are timestamped when the job runs and
+   Netlify takes a minute or two to publish the commit. They would have
+   expired before the page went live.
    =================================================================== */
 
+const WINDOW_UNITS = { s: 1000, m: 60000, h: 3600000, d: 86400000 };
+
+function windowOverride(){
+  try {
+    const raw = new URLSearchParams(location.search).get("w");
+    const m = raw && raw.trim().match(/^(\d+(?:\.\d+)?)([smhd])$/i);
+    if(!m) return null;
+    return Number(m[1]) * WINDOW_UNITS[m[2].toLowerCase()];
+  } catch(e) { return null; }
+}
+
 const CONFIG = {
-  HOME_WINDOW_MS:  2 * 60 * 1000,   // TEST: 2 minutes.  PRODUCTION: 48 * 60 * 60 * 1000
-  FACT_ROTATE_MS:  1 * 60 * 1000,   // TEST: 1 minute.   PRODUCTION: 24 * 60 * 60 * 1000
+  HOME_WINDOW_MS: windowOverride() || 48 * 60 * 60 * 1000,
+  FACT_ROTATE_MS: 24 * 60 * 60 * 1000,
+  FALLBACK_COUNT: 5,          // shown when nothing is inside the window
   DATA_URL: "data/entries.json"
 };
 

@@ -1,15 +1,50 @@
 {
   "_comment": "Feeds the daily job reads. Edit freely - the script skips any feed that fails and logs which ones worked. 'weight' is a hint to the prompt about how much to favour the source, not a hard rule.",
   "feeds": [
-    { "name": "The Straits Times",  "region": "sg",    "url": "https://www.straitstimes.com/news/singapore/rss.xml" },
-    { "name": "The Straits Times (Asia)", "region": "asia", "url": "https://www.straitstimes.com/news/asia/rss.xml" },
-    { "name": "CNA Singapore",      "region": "sg",    "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=10416" },
-    { "name": "CNA Asia",           "region": "asia",  "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511" },
-    { "name": "BBC World",          "region": "world", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
-    { "name": "The Guardian",       "region": "world", "url": "https://www.theguardian.com/world/rss" },
-    { "name": "Al Jazeera",         "region": "world", "url": "https://www.aljazeera.com/xml/rss/all.xml" },
-    { "name": "Nikkei Asia",        "region": "asia",  "url": "https://asia.nikkei.com/rss/feed/nar" },
-    { "name": "South China Morning Post", "region": "asia", "url": "https://www.scmp.com/rss/91/feed" },
-    { "name": "Reuters World",      "region": "world", "url": "https://www.reutersagency.com/feed/?best-topics=world&post_type=best" }
+    {
+      "name": "The Straits Times",
+      "region": "sg",
+      "url": "https://www.straitstimes.com/news/singapore/rss.xml"
+    },
+    {
+      "name": "The Straits Times (Asia)",
+      "region": "asia",
+      "url": "https://www.straitstimes.com/news/asia/rss.xml"
+    },
+    {
+      "name": "CNA Singapore",
+      "region": "sg",
+      "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=10416"
+    },
+    {
+      "name": "CNA Asia",
+      "region": "asia",
+      "url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml&category=6511"
+    },
+    {
+      "name": "BBC World",
+      "region": "world",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    {
+      "name": "The Guardian",
+      "region": "world",
+      "url": "https://www.theguardian.com/world/rss"
+    },
+    {
+      "name": "Al Jazeera",
+      "region": "world",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml"
+    },
+    {
+      "name": "Nikkei Asia",
+      "region": "asia",
+      "url": "https://asia.nikkei.com/rss/feed/nar"
+    },
+    {
+      "name": "South China Morning Post",
+      "region": "asia",
+      "url": "https://www.scmp.com/rss/91/feed"
+    }
   ]
 }

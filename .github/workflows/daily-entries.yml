@@ -19,10 +19,6 @@ on:
         description: "Model id (blank = gemini-3.5-flash)"
         required: false
         default: ""
-      no_search:
-        description: "DIAGNOSTIC ONLY - disable grounding (true/false)"
-        required: false
-        default: "false"
 
 permissions:
   contents: write
@@ -47,16 +43,18 @@ jobs:
           ENTRY_COUNT: ${{ github.event.inputs.count || '6' }}
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
           MODEL: ${{ github.event.inputs.model }}
-          NO_SEARCH: ${{ github.event.inputs.no_search == 'true' && '1' || '0' }}
         run: node scripts/add-entries.mjs
 
+      # Commits whenever the data file actually changed. DRY_RUN stops the
+      # script writing at all, so no extra condition is needed here.
       - name: Commit
-        if: github.event.inputs.dry_run != 'true' && github.event.inputs.no_search != 'true'
         run: |
           if git diff --quiet -- data/entries.json; then
-            echo "No change to commit."
+            echo "No change to data/entries.json — nothing to commit."
             exit 0
           fi
+          ADDED=$(git diff --numstat -- data/entries.json | awk '{print $1}')
+          echo "data/entries.json changed (+$ADDED lines). Committing."
           git config user.name  "example-bank-bot"
           git config user.email "actions@users.noreply.github.com"
           git add data/entries.json

@@ -2191,5 +2191,52 @@
   "link": null,
   "source": null,
   "added": "2026-09-02T00:35:00.000Z"
+ },
+ {
+  "id": "singapore-s-high-court-rules-against-def",
+  "t": "Singapore's High Court rules against default jail terms for youth money mules",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "eth",
+   "soc"
+  ],
+  "s": "In September 2026, a three-judge panel clarified that imprisonment or reformative training should not be the default sentence for offenders under 21 convicted of scam-related crimes. The court emphasized that such rigid sentencing fails to account for the cognitive immaturity of youth and the primary importance of rehabilitation. This decision arose from appeals by seven young offenders who had surrendered their digital banking credentials to scammers.",
+  "u": "Demonstrates that judicial systems must balance deterrence with rehabilitation when addressing crimes committed by impressionable youth.",
+  "link": "https://www.straitstimes.com/singapore/courts-crime/jail-or-reformative-training-not-default-sentence-for-young-money-mules-high-court",
+  "source": "The Straits Times",
+  "added": "2026-09-10T15:36:45.476Z"
+ },
+ {
+  "id": "singapore-increases-reserved-primary-sch",
+  "t": "Singapore increases reserved primary school places to promote social mixing",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "edu",
+   "soc",
+   "eco"
+  ],
+  "s": "The Ministry of Education announced that starting in 2027, the number of reserved places for children without prior ties to a school will increase from 40 to 60. Additionally, 12 popular schools in affluent neighbourhoods will reserve half of these spots for children living more than two kilometres away. This policy aims to prevent elite schools from becoming geographically exclusive and to encourage greater socioeconomic diversity among students.",
+  "u": "Illustrates how meritocratic education systems must actively intervene to prevent elite schools from becoming self-perpetuating enclaves of privilege.",
+  "link": "https://www.straitstimes.com/singapore/parenting-education/more-primary-1-places-for-phase-2c-12-schools-to-reserve-spots-for-children-living-further-away",
+  "source": "The Straits Times",
+  "added": "2026-09-10T15:36:45.476Z"
+ },
+ {
+  "id": "singapore-clarifies-boundaries-for-polit",
+  "t": "Singapore clarifies boundaries for political expression by performing artists",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "art",
+   "pol",
+   "eth"
+  ],
+  "s": "In September 2026, the government stated that while artists are permitted to express humanitarian concerns regarding global conflicts, they are prohibited from content that threatens public order or national stability. This clarification followed a police warning and entry ban issued to members of the British band Massive Attack for displaying a Palestinian flag during a concert. The policy highlights the state's tight control over public discourse to preserve multicultural harmony.",
+  "u": "Shows that governments may prioritize social stability and public order over absolute freedom of artistic expression.",
+  "link": "https://www.straitstimes.com/singapore/politics/singapore-lets-artists-express-concern-for-global-conflicts-but-content-cannot-provoke-unrest",
+  "source": "The Straits Times",
+  "added": "2026-09-10T15:36:45.476Z"
  }
 ]

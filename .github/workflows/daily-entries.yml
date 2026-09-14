@@ -2,15 +2,16 @@ name: Add daily examples
 
 on:
   schedule:
-    # 23:10 UTC = 07:10 Singapore time. GitHub cron is best-effort and often
-    # runs late; that is fine for a daily job.
-    - cron: "10 23 * * *"
+    # Twice daily, 12 hours apart. Odd minutes chosen deliberately: jobs set on
+    # the hour queue behind everyone else's and get delayed or dropped.
+    - cron: "37 22 * * *"   # 06:37 Singapore time
+    - cron: "37 10 * * *"   # 18:37 Singapore time
   workflow_dispatch:
     inputs:
       count:
         description: "How many examples to look for"
         required: false
-        default: "20"
+        default: "10"
       dry_run:
         description: "Print without committing (true/false)"
         required: false
@@ -40,9 +41,11 @@ jobs:
       - name: Fetch new examples
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          ENTRY_COUNT: ${{ github.event.inputs.count || '20' }}
+          ENTRY_COUNT: ${{ github.event.inputs.count || '10' }}
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
           MODEL: ${{ github.event.inputs.model }}
+          # Entries requested per API call. Lower this if responses truncate.
+          PER_BATCH: "5"
         run: node scripts/add-entries.mjs
 
       # Commits whenever the data file actually changed. DRY_RUN stops the

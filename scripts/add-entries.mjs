@@ -29,12 +29,25 @@ const PROMPT_PATH = path.join(HERE, "prompt.md");
 const FEEDS_PATH = path.join(HERE, "feeds.json");
 
 const API_KEY = process.env.GEMINI_API_KEY;
-const COUNT = Number(process.env.ENTRY_COUNT || 20);
+const COUNT = Number(process.env.ENTRY_COUNT || 10);
 const MODEL = (process.env.MODEL && process.env.MODEL.trim()) || "gemini-3.5-flash";
 const LOOKBACK_DAYS = Number(process.env.LOOKBACK_DAYS || 4);
 const MAX_ARTICLES = Number(process.env.MAX_ARTICLES || 70);
 const DRY_RUN = process.env.DRY_RUN === "1";
 const SKIP_LINK_CHECK = process.env.SKIP_LINK_CHECK === "1";
+/* Gemini 3.x uses thinkingLevel ("minimal" | "low" | "medium" | "high").
+   Gemini 2.5 uses a numeric thinkingBudget. Sending both returns a 400.
+   Thinking cannot be switched off entirely on Gemini 3 Flash; "minimal" is
+   the floor. Left unset, 3.5 Flash defaults to "medium", which spends most of
+   maxOutputTokens reasoning and truncates the JSON. */
+const THINKING_LEVEL  = process.env.THINKING_LEVEL || "minimal";
+const THINKING_BUDGET = Number(process.env.THINKING_BUDGET ?? 0);
+const IS_GEMINI_3 = /^gemini-3/i.test(MODEL);
+
+/* The output cap applies per response, so the fix for truncation is more
+   requests, not a bigger cap. Asking for PER_BATCH entries at a time keeps
+   every response small. Batches run sequentially on the same key. */
+const PER_BATCH = Number(process.env.PER_BATCH || 5);
 
 const VALID_CATS = ["sci","env","med","pol","glo","eco","soc","gen","edu","hea","art","eth","rel"];
 const VALID_REGIONS = ["sg","asia","world"];
@@ -163,7 +176,7 @@ async function enrich(items){
 
 /* ---------------- prompt ---------------- */
 
-function buildPrompt(template, entries, items){
+function buildPrompt(template, entries, items, alreadyThisRun = [], countForBatch = COUNT){
   const catCounts = Object.fromEntries(VALID_CATS.map(c => [c, entries.filter(e => e.c.includes(c)).length]));
   const thin = VALID_CATS.slice().sort((a, b) => catCounts[a] - catCounts[b]).slice(0, 4).join(", ");
 
@@ -175,7 +188,9 @@ function buildPrompt(template, entries, items){
     .sort((a, b) => b[1] - a[1]).slice(0, 8).map(([w]) => w).join(", ") || "none yet";
 
   const DEDUPE_WINDOW = Math.max(120, COUNT * 14);   // ~2 weeks of history
-  const titles = entries.slice(-DEDUPE_WINDOW).map(e => `- ${e.t} (${e.y})`).join("\n");
+  const titles = entries.slice(-DEDUPE_WINDOW).map(e => `- ${e.t} (${e.y})`)
+    .concat(alreadyThisRun.map(t => `- ${t} (just added)`))
+    .join("\n");
 
   const headlines = items.map((it, i) =>
     `### [${i + 1}] ${it.title}\n` +
@@ -186,7 +201,7 @@ function buildPrompt(template, entries, items){
 
   return template
     .replaceAll("{{TODAY}}", new Date().toISOString().slice(0, 10))
-    .replaceAll("{{COUNT}}", String(COUNT))
+    .replaceAll("{{COUNT}}", String(countForBatch))
     .replaceAll("{{THIN_CATS}}", thin)
     .replaceAll("{{HOT_TOPICS}}", hot)
     .replaceAll("{{RECENT_TITLES}}", titles)
@@ -200,29 +215,116 @@ async function callGemini(prompt){
     headers: { "content-type": "application/json", "x-goog-api-key": API_KEY },
     body: JSON.stringify({
       contents: [{ role: "user", parts: [{ text: prompt }] }],
-      generationConfig: { temperature: 0.3, maxOutputTokens: 24000, responseMimeType: "application/json" }
+      generationConfig: {
+        temperature: 0.3,
+        maxOutputTokens: 32000,
+        responseMimeType: "application/json",
+        // Thinking tokens are charged against maxOutputTokens, so the level
+        // has to be pinned low or the JSON comes back truncated mid-object.
+        thinkingConfig: IS_GEMINI_3
+          ? { thinkingLevel: THINKING_LEVEL }
+          : { thinkingBudget: THINKING_BUDGET }
+      }
     })
   });
   if(!res.ok) throw new Error(`Gemini returned ${res.status}: ${(await res.text()).slice(0, 600)}`);
   const data = await res.json();
   const cand = data.candidates?.[0];
   if(!cand) throw new Error("No candidate: " + JSON.stringify(data).slice(0, 400));
-  if(cand.finishReason && cand.finishReason !== "STOP"){
+  if(cand.finishReason === "MAX_TOKENS"){
+    console.log("  WARNING: response hit the output limit and was truncated.");
+    console.log("  Complete entries will be salvaged; the last one is discarded.");
+    console.log("  If this recurs, lower ENTRY_COUNT or raise maxOutputTokens.");
+  } else if(cand.finishReason && cand.finishReason !== "STOP"){
     console.log(`  note: finishReason was ${cand.finishReason}`);
+  }
+  const u = data.usageMetadata;
+  if(u){
+    console.log(`  Tokens — prompt ${u.promptTokenCount ?? "?"}, `
+      + `thinking ${u.thoughtsTokenCount ?? 0}, `
+      + `answer ${u.candidatesTokenCount ?? "?"} (cap ${32000}).`);
   }
   return (cand.content?.parts || []).map(p => p.text || "").join("").trim();
 }
 
 /* ---------------- validation ---------------- */
 
+/* Scans for balanced top-level {...} blocks and parses each on its own, so a
+   response cut off mid-object still yields every complete entry before it. */
+function salvageObjects(text){
+  const out = [];
+  let depth = 0, start = -1, inStr = false, esc = false;
+  for(let i = 0; i < text.length; i++){
+    const ch = text[i];
+    if(inStr){
+      if(esc) esc = false;
+      else if(ch === "\\") esc = true;
+      else if(ch === '"') inStr = false;
+      continue;
+    }
+    if(ch === '"'){ inStr = true; continue; }
+    if(ch === "{"){ if(depth === 0) start = i; depth++; continue; }
+    if(ch === "}"){
+      depth--;
+      if(depth === 0 && start !== -1){
+        try { out.push(JSON.parse(text.slice(start, i + 1))); } catch(e) {}
+        start = -1;
+      }
+    }
+  }
+  return out;
+}
+
 function parseEntries(text){
   const cleaned = text.replace(/^```(?:json)?/gm, "").replace(/```$/gm, "").trim();
-  const start = cleaned.indexOf("["), end = cleaned.lastIndexOf("]");
-  if(start === -1 || end === -1) throw new Error("No JSON array in response:\n" + cleaned.slice(0, 500));
-  return JSON.parse(cleaned.slice(start, end + 1));
+  const start = cleaned.indexOf("[");
+  if(start === -1) throw new Error("No JSON array in response:\n" + cleaned.slice(0, 500));
+
+  const end = cleaned.lastIndexOf("]");
+  if(end > start){
+    try { return JSON.parse(cleaned.slice(start, end + 1)); }
+    catch(e) { /* malformed despite closing bracket - fall through to salvage */ }
+  }
+
+  const salvaged = salvageObjects(cleaned.slice(start));
+  if(!salvaged.length){
+    throw new Error("Response could not be parsed and nothing could be salvaged:\n"
+      + cleaned.slice(0, 500));
+  }
+  console.log(`  Salvaged ${salvaged.length} complete entries from a truncated response.`);
+  return salvaged;
 }
 
 const slug = t => t.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 40);
+
+const STOPWORDS = new Set(["the","a","an","and","or","but","of","to","in","on","for","with",
+  "as","by","at","from","after","over","its","it","is","are","be","been","new","first","up",
+  "down","out","into","than","that","this","these","those","has","have","will","would","says"]);
+
+/* Light stemming: plurals and common verb endings otherwise defeat matching,
+   e.g. "schools ban phones" vs "school bans smartphones". */
+function stem(w){
+  return w.replace(/(ies)$/, "y").replace(/(sses|shes|ches|xes)$/, "$1".slice(0, -2))
+          .replace(/([^s])s$/, "$1").replace(/(ing|ed)$/, "");
+}
+function keyWords(title){
+  return new Set(title.toLowerCase().split(/[^a-z0-9]+/)
+    .filter(w => w.length > 2 && !STOPWORDS.has(w))
+    .map(stem)
+    .filter(w => w.length > 2));
+}
+
+/* Jaccard overlap of significant words. The same event reported by two outlets
+   shares most of its nouns even when the headlines differ. */
+function similarity(a, b){
+  const A = keyWords(a), B = keyWords(b);
+  if(!A.size || !B.size) return 0;
+  let shared = 0;
+  for(const w of A) if(B.has(w)) shared++;
+  return shared / (A.size + B.size - shared);
+}
+
+const NEAR_DUP_THRESHOLD = Number(process.env.NEAR_DUP_THRESHOLD || 0.38);
 
 async function linkResolves(url){
   if(SKIP_LINK_CHECK) return true;
@@ -256,6 +358,19 @@ async function validate(raw, existing, feedUrls){
     if(typeof e.s !== "string" || e.s.length < 80) why.push("summary too short");
     if(typeof e.u !== "string" || e.u.length < 30) why.push("use line too short");
     if(e.t && seenTitles.has(e.t.toLowerCase())) why.push("duplicate title");
+
+    if(e.t && !why.length){
+      // Compare against recent entries and anything already accepted this run.
+      const recent = existing.slice(-400).map(x => x.t).concat(ok.map(x => x.t));
+      let worst = null, worstScore = 0;
+      for(const t of recent){
+        const sc = similarity(e.t, t);
+        if(sc > worstScore){ worstScore = sc; worst = t; }
+      }
+      if(worstScore >= NEAR_DUP_THRESHOLD){
+        why.push(`near-duplicate of "${worst.slice(0, 50)}" (${worstScore.toFixed(2)})`);
+      }
+    }
 
     // A link must either be null (structural entry, no article) or exactly one
     // we supplied. Anything else is a URL the model composed itself.
@@ -306,13 +421,41 @@ if(!items.length){
 items = await enrich(items);
 
 const feedUrls = new Set(items.map(i => i.link));
-const prompt = buildPrompt(template, entries, items);
-console.log(`Prompt is ~${Math.round(prompt.length / 4000)}k tokens. Asking ${MODEL} for up to ${COUNT}.`);
+const batchCount = Math.max(1, Math.ceil(COUNT / PER_BATCH));
 
-const text = await callGemini(prompt);
-const raw = parseEntries(text);
-console.log(`Model returned ${raw.length}. Validating…`);
+/* Deal the articles round-robin so each batch sees a spread of sources
+   rather than one batch getting all the Straits Times items. */
+const batches = Array.from({ length: batchCount }, () => []);
+items.forEach((it, i) => batches[i % batchCount].push(it));
 
+console.log(`Thinking: ${IS_GEMINI_3 ? "level=" + THINKING_LEVEL : "budget=" + THINKING_BUDGET}`);
+console.log(`Splitting into ${batchCount} requests of up to ${PER_BATCH} entries each.`);
+
+const raw = [];
+const already = [];   // titles accepted so far, to stop batches repeating each other
+
+for(let b = 0; b < batchCount; b++){
+  const prompt = buildPrompt(template, entries, batches[b], already, PER_BATCH);
+  console.log(`\nBatch ${b + 1}/${batchCount}: ${batches[b].length} articles, `
+    + `~${Math.round(prompt.length / 4000)}k tokens.`);
+  try {
+    const text = await callGemini(prompt);
+    const got = parseEntries(text);
+    console.log(`  returned ${got.length}`);
+    got.forEach(g => { if(g && g.t) already.push(g.t); });
+    raw.push(...got);
+  } catch(err){
+    console.log(`  batch failed: ${err.message.slice(0, 200)}`);
+  }
+  if(b < batchCount - 1) await new Promise(r => setTimeout(r, 2000));
+}
+
+if(!raw.length){
+  console.log("\nNo batch produced anything. Leaving the bank unchanged.");
+  process.exit(0);
+}
+
+console.log(`\nModel returned ${raw.length} across all batches. Validating…`);
 const { ok, problems } = await validate(raw, entries, feedUrls);
 
 if(problems.length){

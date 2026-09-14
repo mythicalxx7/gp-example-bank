@@ -2854,5 +2854,235 @@
   "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3367037/hong-kong-roll-out-plain-cigarette-packs-march-full-enforcement-december?utm_source=rss_feed",
   "source": "South China Morning Post",
   "added": "2026-09-11T01:00:10.774Z"
+ },
+ {
+  "id": "singapore-researchers-use-magnetic-pulse",
+  "t": "Singapore researchers use magnetic pulses to convert cancer-promoting cells into cancer-fighting cells",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "hea"
+  ],
+  "s": "Researchers from the National University of Singapore successfully used low-intensity magnetic pulses to alter immune cells that typically promote breast cancer growth. The non-invasive treatment completely eradicated tumours in 75 per cent of pre-clinical models after just four 30-minute sessions. This method offers a potential alternative to traditional chemotherapy by stimulating the body's own cellular repair mechanisms.",
+  "u": "Demonstrates how bio-technological innovations can offer non-invasive alternatives to aggressive medical treatments like chemotherapy.",
+  "link": "https://www.straitstimes.com/singapore/health/nus-researchers-use-magnetic-pulses-to-turn-cancer-promoting-immune-cells-into-cancer-fighters",
+  "source": "The Straits Times",
+  "added": "2026-09-14T00:59:41.626Z"
+ },
+ {
+  "id": "east-asian-coral-reefs-maintain-stable-c",
+  "t": "East Asian coral reefs maintain stable coverage despite rising global marine heatwaves",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "env"
+  ],
+  "s": "A report by the Global Coral Reef Monitoring Network revealed that coral cover in East Asian seas has remained stable over the past forty years. This stands in contrast to the global decline of coral reefs caused by increasingly frequent marine heatwaves. Scientists suggest that corals in this region, which contains 30 per cent of the world's reefs, may possess unique genetic heat tolerance.",
+  "u": "Illustrates that localized ecological resilience can challenge global environmental decline trends, offering hope for conservation.",
+  "link": "https://www.straitstimes.com/singapore/environment/corals-in-east-asia-holding-out-as-worlds-coral-reefs-shrink-due-to-more-frequent-marine-heatwaves",
+  "source": "The Straits Times",
+  "added": "2026-09-14T00:59:41.626Z"
+ },
+ {
+  "id": "singapore-launches-its-first-participato",
+  "t": "Singapore launches its first participatory budgeting trial for public housing estate upgrades",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "pol",
+   "soc"
+  ],
+  "s": "Residents of Spottiswoode Park were granted 188,000 Singapore dollars to implement neighbourhood upgrades they proposed and voted on themselves. The trial, which is Singapore's first participatory budgeting initiative, funded projects like themed void deck furniture and a reflexology path. However, more ambitious proposals, such as a rock climbing wall and a pickleball court, failed to secure enough votes.",
+  "u": "Shows how democratic budgeting processes can empower local communities to directly shape their living environments.",
+  "link": "https://www.straitstimes.com/singapore/spottiswoode-residents-get-188000-to-turn-ground-up-ideas-into-estate-upgrades",
+  "source": "The Straits Times",
+  "added": "2026-09-14T00:59:41.626Z"
+ },
+ {
+  "id": "singapore-personal-computer-prices-surge",
+  "t": "Singapore personal computer prices surge due to global artificial intelligence infrastructure demands",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "eco",
+   "sci"
+  ],
+  "s": "Market data from research firm IDC revealed that average personal computer prices in Singapore rose by up to 40 per cent in the second quarter of 2026 compared to the previous year. The price hike is driven by shortages of memory, storage, and graphics cards, which are being heavily consumed by the expansion of global data centres for artificial intelligence. For instance, the average price of regular laptops rose from 1,300 to 1,650 Singapore dollars over this period.",
+  "u": "Demonstrates how the rapid expansion of enterprise technology infrastructure can create supply chain bottlenecks that raise costs for everyday consumers.",
+  "link": "https://www.straitstimes.com/tech/singapore-pc-prices-surge-as-growing-ai-infrastructure-competes-for-components",
+  "source": "The Straits Times",
+  "added": "2026-09-14T00:59:41.626Z"
+ },
+ {
+  "id": "developing-asian-nations-face-soaring-en",
+  "t": "Developing Asian nations face soaring energy costs due to geopolitical disruptions to gas supplies",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eco",
+   "env",
+   "glo"
+  ],
+  "s": "Following the outbreak of the US-Iran war in early 2026, Qatari liquefied natural gas (LNG) shipments through the Strait of Hormuz severely declined. This forced developing Asian nations, including India, Pakistan, and Vietnam, to spend 7.4 billion US dollars on spot market LNG, compared to 3.1 billion dollars for the same volume under long-term contracts in 2025. The price shock has prompted these nations to accelerate plans to transition toward renewable energy, coal, or domestic gas.",
+  "u": "Shows how geopolitical conflicts can expose the vulnerability of developing economies to global fossil fuel supply chains, accelerating the push for energy independence.",
+  "link": "https://www.straitstimes.com/asia/se-asia/a-9-4-billion-gas-bill-sees-developing-asian-nations-sour-on-lng",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-14T00:59:41.626Z"
+ },
+ {
+  "id": "a-government-backed-candidate-wins-okina",
+  "t": "A government-backed candidate wins Okinawa's gubernatorial election, easing local opposition to military expansion",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "pol",
+   "glo"
+  ],
+  "s": "Genta Koja, a candidate supported by the Japanese government, won Okinawa's gubernatorial election with 59 per cent of the vote, defeating the incumbent who opposed Tokyo's military build-up. This victory ends twelve years of local leadership that actively resisted the large US military presence and the relocation of a US Marine air base. The result is expected to clear legal hurdles for expanding military access to civilian infrastructure amid rising regional tensions.",
+  "u": "Demonstrates how national security concerns and economic pressures can eventually override long-standing local resistance to militarisation.",
+  "link": "https://www.straitstimes.com/asia/east-asia/okinawa-election-win-may-give-tokyo-freer-hand-on-military-build-up",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-14T00:59:41.626Z"
+ },
+ {
+  "id": "seoul-introduces-medical-friendly-hotel-",
+  "t": "Seoul introduces medical-friendly hotel designations to accommodate a surge in foreign patients",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "hea",
+   "eco"
+  ],
+  "s": "The Seoul city government launched the \"Seoul Medical-Friendly Accommodation\" designation to help foreign patients find lodging suited for recovery. This initiative follows a 71.9 per cent year-on-year surge in foreign patients treated in South Korea, reaching a record 2.01 million in 2025. Participating hotels will be evaluated on criteria such as proximity to hospitals, wheelchair accessibility, and emergency response systems.",
+  "u": "Illustrates how municipal governments adapt urban infrastructure and hospitality services to capitalize on the rapid growth of global medical tourism.",
+  "link": "https://www.straitstimes.com/asia/east-asia/seoul-to-designate-patient-friendly-hotels-as-medical-tourism-surges",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-14T00:59:41.626Z"
+ },
+ {
+  "id": "south-korea-expands-its-espionage-laws-t",
+  "t": "South Korea expands its espionage laws to protect strategic technologies from foreign theft",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "pol",
+   "sci",
+   "eth"
+  ],
+  "s": "South Korea enacted an amendment to its Criminal Act that expands the definition of espionage to include acts benefiting any foreign country, rather than just North Korea. The revised law introduces a minimum three-year prison sentence for leaking industrial secrets abroad. This legislative change aims to close a legal loophole that previously hindered the prosecution of technology theft in strategic sectors like semiconductors and artificial intelligence.",
+  "u": "Shows how nations are updating traditional national security laws to combat modern industrial espionage and protect economic sovereignty.",
+  "link": "https://www.straitstimes.com/asia/east-asia/south-koreas-expanded-espionage-law-takes-effect-amid-push-to-protect-chip-technology",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-14T00:59:41.626Z"
+ },
+ {
+  "id": "thailand-launches-a-national-program-pro",
+  "t": "Thailand launches a national program providing free access to advanced artificial intelligence models",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "sci",
+   "pol",
+   "edu"
+  ],
+  "s": "The Thai government launched the \"TH-AI Passport\" scheme, a 1.6 billion baht initiative providing five million citizens aged fifteen and above with free access to over thirty professional artificial intelligence models for one year. The program aims to democratize AI literacy and upgrade the digital skills of the population. However, the project has faced criticism from opposition politicians alleging procurement irregularities.",
+  "u": "Demonstrates how governments can actively subsidize advanced technology access to close the digital divide and upskill the national workforce.",
+  "link": "https://www.straitstimes.com/asia/se-asia/from-e-sports-to-ai-thailands-digital-economy-minister-chaichanok-chidchob-bets-on-technology",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-14T00:59:41.626Z"
+ },
+ {
+  "id": "australia-funds-a-major-initiative-to-co",
+  "t": "Australia funds a major initiative to combat maritime drug trafficking across Pacific island nations",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "glo",
+   "eth"
+  ],
+  "s": "The Australian government announced a 600 million Australian dollar plan to counter cocaine smuggling through Pacific island nations. Organised crime syndicates have increasingly used small semi-submersible vessels to transport drugs from South America to Australia, where cocaine prices are among the highest globally. The initiative aims to strengthen regional maritime security, as remote islands have struggled with drug shipments washing ashore.",
+  "u": "Illustrates how wealthy consumer nations must fund regional security initiatives to intercept transnational crime syndicates exploiting vulnerable transit states.",
+  "link": "https://www.straitstimes.com/asia/australianz/pacific-drugs-highway-australias-new-plan-to-target-cocaine-traffickers-moving-through-islands",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-14T00:59:41.626Z"
+ },
+ {
+  "id": "activists-launch-a-global-fund-to-eradic",
+  "t": "Activists launch a global fund to eradicate female genital mutilation",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "gen",
+   "eth",
+   "soc"
+  ],
+  "s": "A new 15.5 million US dollar initiative, the Her Horizon Fund, was launched to support grassroots activists working to end female genital mutilation (FGM) globally. The practice has affected more than 230 million women and girls worldwide. The fund aims to raise 100 million dollars to build sustained momentum against the practice, which persists due to deeply entrenched cultural traditions.",
+  "u": "Shows how targeted global philanthropic funding can empower local, grassroots movements to dismantle harmful cultural practices.",
+  "link": "https://www.theguardian.com/global-development/2026/sep/11/15m-fund-launched-to-create-unstoppable-momentum-to-end-fgm-worldwide",
+  "source": "The Guardian",
+  "added": "2026-09-14T00:59:41.626Z"
+ },
+ {
+  "id": "a-police-officer-is-dismissed-for-misusi",
+  "t": "A police officer is dismissed for misusing a license plate tracking database",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "eth",
+   "sci",
+   "gen"
+  ],
+  "s": "A police officer in San Jose, California, was dismissed after using the department's Flock license plate tracking system to monitor a woman. The officer shared her location data with a relative who was accused of domestic abuse against her. The incident has raised concerns about the lack of safeguards preventing law enforcement from abusing powerful surveillance technologies.",
+  "u": "Demonstrates how mass surveillance technologies can be weaponized by authority figures when strict oversight and access controls are lacking.",
+  "link": "https://www.theguardian.com/us-news/2026/sep/13/san-jose-officer-fired-flock-camera-misuse",
+  "source": "The Guardian",
+  "added": "2026-09-14T00:59:41.626Z"
+ },
+ {
+  "id": "singapore-s-inclusive-arts-festival-allo",
+  "t": "Singapore's inclusive arts festival allows disabled artists to design interactive empathy experiences",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "soc",
+   "art"
+  ],
+  "s": "The sixth edition of the Shaping Hearts festival in Singapore featured interactive experiences designed by disabled artists to help the public understand their daily challenges. Rather than just displaying artwork, the event allowed visitors to experience the world from the artists' perspectives. This initiative aims to foster greater social integration and community support for independent disabled creators.",
+  "u": "Illustrates how cultural exhibitions can move beyond passive viewing to active empathy-building, promoting deeper social inclusion for marginalized groups.",
+  "link": "https://www.straitstimes.com/singapore/parenting-education/arts-festival-lets-artists-with-disabilities-shape-experience-lets-visitors-step-into-their-world",
+  "source": "The Straits Times",
+  "added": "2026-09-14T00:59:41.626Z"
+ },
+ {
+  "id": "singapore-doctors-implant-a-new-generati",
+  "t": "Singapore doctors implant a new generation of under-breastbone defibrillators in young patients",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "hea",
+   "sci"
+  ],
+  "s": "Surgeons at the National University Hospital in Singapore successfully implanted a new extravascular implantable cardioverter-defibrillator (EV-ICD) under the breastbone of a twenty-year-old cardiac arrest survivor. Unlike traditional defibrillators, this device is placed outside the heart and blood vessels, reducing long-term complications. This technology offers a safer, less invasive option for young patients at risk of sudden cardiac arrest.",
+  "u": "Shows how medical advancements in implantable technology can significantly reduce procedural risks and improve long-term outcomes for young patients.",
+  "link": "https://www.straitstimes.com/singapore/health/device-placed-under-breastbone-delivers-life-saving-shocks-to-restore-heart-rhythm",
+  "source": "The Straits Times",
+  "added": "2026-09-14T00:59:41.626Z"
+ },
+ {
+  "id": "turkish-police-raid-gay-bars-and-activis",
+  "t": "Turkish police raid gay bars and activist homes under a family-values campaign",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "gen",
+   "eth",
+   "pol"
+  ],
+  "s": "Turkish authorities detained dozens of individuals during coordinated raids on gay bars and the homes of LGBTQ+ activists. Human rights organisations accused the government of using state-sponsored \"family values\" campaigns to systematically target and marginalise the LGBTQ+ community. This crackdown reflects a broader regional trend of using conservative social policies to suppress political dissent and civil society.",
+  "u": "Demonstrates how governments can weaponize conservative social rhetoric and family-values campaigns to justify the state-sponsored suppression of minority rights.",
+  "link": "https://www.bbc.co.uk/news/articles/cpve191wy47o?at_medium=RSS&at_campaign=rss",
+  "source": "BBC World",
+  "added": "2026-09-14T00:59:41.626Z"
  }
 ]

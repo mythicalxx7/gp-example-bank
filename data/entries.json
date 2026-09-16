@@ -3209,5 +3209,99 @@
   "link": null,
   "source": null,
   "added": "2026-09-15T00:52:28.815Z"
+ },
+ {
+  "id": "new-zealand-passes-a-free-trade-agreemen",
+  "t": "New Zealand passes a free trade agreement with India to slash tariffs",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eco",
+   "glo"
+  ],
+  "s": "In September 2026, New Zealand's parliament passed legislation to implement a free trade agreement with India, which will eliminate or significantly reduce tariffs on about 95 percent of New Zealand's exports to India. Under the bilateral agreement, all Indian goods will receive duty-free access to New Zealand, and Wellington has committed to investing $20 billion in India over the next 15 years. While the deal promises immediate benefits for exporters, some domestic industries in New Zealand have expressed concern over increased competition from cheaper Indian imports.",
+  "u": "Shows how middle powers are aggressively pursuing bilateral trade agreements to diversify their economies and secure market access amid rising global protectionism.",
+  "link": "https://www.straitstimes.com/asia/new-zealand-parliament-passes-india-trade-deal-cutting-tariffs-on-most-exports",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-16T00:46:18.788Z"
+ },
+ {
+  "id": "singapore-s-building-and-construction-au",
+  "t": "Singapore's Building and Construction Authority awards universal design excellence to an inclusive wildlife park",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "soc",
+   "eth"
+  ],
+  "s": "The Rainforest Wild Adventure East park, Singapore's fifth wildlife park at Mandai, won the Universal Design Excellence Award in 2026. The park features accessible amusement rides like the Canopy Glider, which includes removable side guards, armrests, and portable ramps for wheelchair users, alongside braille translations on handrails. However, implementing such comprehensive accessibility features across public infrastructure requires significant capital investment and specialized staff training.",
+  "u": "Demonstrates that true social inclusivity requires deliberate, structural design choices rather than mere token accommodation.",
+  "link": "https://www.straitstimes.com/singapore/rainforest-wild-adventure-among-winners-of-inclusive-design-award",
+  "source": "The Straits Times",
+  "added": "2026-09-16T00:46:18.788Z"
+ },
+ {
+  "id": "the-european-union-proposes-banning-chil",
+  "t": "The European Union proposes banning children under fifteen from opening social media accounts",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "pol",
+   "soc",
+   "med"
+  ],
+  "s": "A draft European Union legal document reveals a proposal to restrict minors under the age of 15 from opening accounts on social media, video-sharing platforms, chatbots, and online games. The proposed law outlines a tiered system of access under parental supervision for younger children. Critics argue that such bans are difficult to enforce technically and may restrict youth autonomy and access to digital communities.",
+  "u": "Illustrates how governments are shifting from self-regulation to hard legislative bans to protect youth from digital harms.",
+  "link": "https://www.scmp.com/news/world/europe/article/3367618/eu-propose-curbing-social-media-online-games-under-15s?utm_source=rss_feed",
+  "source": "South China Morning Post",
+  "added": "2026-09-16T00:46:18.788Z"
+ },
+ {
+  "id": "indian-police-investigate-google-over-ha",
+  "t": "Indian police investigate Google over half a million fake Gmail accounts used for bomb hoaxes",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "sci",
+   "eth",
+   "med"
+  ],
+  "s": "Police in Gujarat, India, dismantled a criminal network that had created and managed 513,847 fake Gmail accounts since 2022 to send hoax bomb threats to government offices. Authorities announced plans to formally designate Google as a subject of the investigation, citing a lack of platform safeguards to prevent automated account creation. Tech platforms, however, argue that maintaining open, user-friendly registration systems inherently limits their ability to verify every user's identity.",
+  "u": "Shows that tech conglomerates must be held legally accountable for the systemic security loopholes in their platforms.",
+  "link": "https://www.straitstimes.com/asia/south-asia/indian-police-to-query-google-over-500000-fake-gmail-ids-linked-to-bomb-hoax",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-16T00:46:18.788Z"
+ },
+ {
+  "id": "the-united-states-confirms-the-deploymen",
+  "t": "The United States confirms the deployment of active weapons in Earth's orbit",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "glo",
+   "sci",
+   "pol"
+  ],
+  "s": "The US Space Force confirmed for the first time that the United States has active, on-orbit space control weapons deployed in space. The announcement drew sharp condemnation from China and Russia, who warned against turning outer space into a battlefield and called for complete demilitarisation. While the US frames these deployments as defensive, critics argue that public confirmation risks accelerating a dangerous and unregulated extraterrestrial arms race.",
+  "u": "Highlights how the lack of a comprehensive global legal framework is leading to the dangerous militarisation of outer space.",
+  "link": "https://www.straitstimes.com/asia/east-asia/china-urges-us-to-stop-preparing-for-war-in-outer-space",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-16T00:46:18.788Z"
+ },
+ {
+  "id": "singapore-s-public-service-division-revi",
+  "t": "Singapore's Public Service Division reviews research alleging insider trading by civil servants",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "pol",
+   "eth",
+   "eco"
+  ],
+  "s": "The Public Service Division is reviewing an academic working paper published by the US-based National Bureau of Economic Research, which alleges that Singapore civil servants disproportionately purchased homes near MRT stations before they were publicly announced. The study sought to examine if pro-integrity social norms could substitute for formal enforcement in deterring corruption. In response, two National University of Singapore academics distanced themselves from the paper, requesting the removal of their names from the acknowledgements.",
+  "u": "Demonstrates that even highly trusted public institutions must remain subject to rigorous external scrutiny to preserve systemic integrity.",
+  "link": "https://www.straitstimes.com/singapore/psd-reviewing-paper-that-reports-civil-servants-disproportionately-bought-homes-near-unannounced-mrt",
+  "source": "The Straits Times",
+  "added": "2026-09-16T00:46:18.788Z"
  }
 ]

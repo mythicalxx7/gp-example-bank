@@ -3509,5 +3509,111 @@
   "link": null,
   "source": null,
   "added": "2026-09-17T15:14:09.737Z"
+ },
+ {
+  "id": "fiji-declares-a-national-hiv-emergency-l",
+  "t": "Fiji declares a national HIV emergency linked to rising methamphetamine use",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "hea",
+   "soc"
+  ],
+  "s": "Fiji has declared a national emergency as it grapples with an escalating epidemic of HIV infections. The government estimates that one in 60 adults in the Pacific nation is now living with the virus. Health officials have directly linked the surge in transmissions to the growing domestic use of methamphetamine.",
+  "u": "Illustrates how the spread of illicit synthetic drugs can trigger broader, systemic public health crises in developing nations.",
+  "link": "https://www.theguardian.com/world/2026/sep/17/fiji-declares-national-hiv-emergency-infections-surge-health",
+  "source": "The Guardian",
+  "added": "2026-09-18T00:45:43.610Z"
+ },
+ {
+  "id": "singapore-trials-autonomous-heavy-constr",
+  "t": "Singapore trials autonomous heavy construction machinery to address labour shortages",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "eco"
+  ],
+  "s": "JTC Corporation and Kajima have launched a pilot programme at the Bulim autonomous yard in Jurong to test autonomous excavators and compactors under real site conditions. The project aims to halve the need for skilled on-site operators, who instead monitor the machines remotely from a control room, while keeping workers out of high-risk zones. If the trials succeed, a coordinated fleet including autonomous bulldozers and dump trucks will be deployed across active JTC construction sites by 2028.",
+  "u": "Provides a real-world example of how automation can be leveraged to mitigate severe manpower constraints and improve safety in high-risk physical industries.",
+  "link": "https://www.straitstimes.com/singapore/construction-robots-on-trial-could-be-deployed-as-early-as-2028",
+  "source": "The Straits Times",
+  "added": "2026-09-18T00:45:43.610Z"
+ },
+ {
+  "id": "a-un-report-accuses-the-united-states-of",
+  "t": "A UN report accuses the United States of war crimes over an Iranian school bombing",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "glo",
+   "eth"
+  ],
+  "s": "A United Nations fact-finding mission concluded that there are reasonable grounds to believe the United States military was behind air strikes on an Iranian school and sports facility in February. The strikes killed 120 children, including 156 civilians in total. The UN panel determined that these military actions constituted war crimes.",
+  "u": "Highlights how international bodies struggle to enforce accountability and legal standards on global superpowers accused of human rights violations.",
+  "link": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
+  "source": "The Guardian",
+  "added": "2026-09-18T00:45:43.610Z"
+ },
+ {
+  "id": "australia-considers-banning-camera-equip",
+  "t": "Australia considers banning camera-equipped smart glasses in government workplaces",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "sci",
+   "pol",
+   "eth"
+  ],
+  "s": "The Australian government is evaluating a ban on smart glasses capable of recording in public offices due to growing privacy and security concerns. This follows similar restrictions in Europe, where Norway's capital banned the glasses in schools in August 2026, and England and Wales prohibited Meta smart glasses in courts. However, critics argue such bans could disadvantage visually impaired individuals who rely on smart eyewear for daily assistance.",
+  "u": "Demonstrates how rapid technological advancements force governments to balance individual convenience and accessibility against collective privacy and national security.",
+  "link": "https://www.straitstimes.com/asia/australianz/australia-considers-banning-the-use-of-smart-glasses-in-government-buildings",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-18T00:45:43.610Z"
+ },
+ {
+  "id": "a-south-korean-court-fines-a-michelin-st",
+  "t": "A South Korean court fines a Michelin-starred restaurant for serving ants",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "soc",
+   "eth"
+  ],
+  "s": "The owner of the two-Michelin-starred restaurant Evett in Seoul was fined 15 million won for using imported dried ants as a dessert garnish over a four-year period. South Korean food safety regulations only permit 10 specific insect species, such as grasshoppers and silkworms, for human consumption. While the defense argued the ants were a culinary innovation, the court noted that the insects contained heavy metal levels exceeding legal thresholds, posing a public health risk.",
+  "u": "Illustrates how state regulations and food safety standards can constrain culinary expression and cultural innovation in the gastronomic industry.",
+  "link": "https://www.theguardian.com/world/2026/sep/16/michelin-starred-seoul-restaurant-evett-fined-dessert-ants",
+  "source": "The Guardian",
+  "added": "2026-09-18T00:45:43.610Z"
+ },
+ {
+  "id": "a-scientific-study-links-climate-change-",
+  "t": "A scientific study links climate change to a catastrophic Himalayan glacier collapse",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "env",
+   "sci"
+  ],
+  "s": "The first scientific study of the August 2026 floods in Nepal and Tibet concluded that global heating destabilised the 200,000-square-metre glacier before its collapse. Researchers found that mean temperatures in the Himalayan region were approximately 5 degrees Celsius higher than normal during the preceding weeks. The resulting disaster killed over 1,300 people in Nepal and displaced thousands more, highlighting the immediate human cost of rising global temperatures.",
+  "u": "Provides concrete evidence of how global warming directly triggers natural disasters that devastate vulnerable communities and accelerate humanitarian crises.",
+  "link": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
+  "source": "The Guardian",
+  "added": "2026-09-18T00:45:43.610Z"
+ },
+ {
+  "id": "singapore-launches-the-post-diagnostic-s",
+  "t": "Singapore launches the Post Diagnostic Support Plus pilot for late-stage dementia",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "soc",
+   "hea"
+  ],
+  "s": "Dementia Singapore and the Lien Foundation launched Post Diagnostic Support Plus (PDS+), a 3.3 million dollar initiative funded by a four-year grant. The pilot program, running across four daycares, helps late-stage dementia patients transition from centre-based to home-based care for up to one year while offering early palliative care. While the program provides critical physical and emotional relief to family caregivers, scaling such high-touch, home-based services remains difficult due to healthcare manpower constraints.",
+  "u": "Shows how public-private partnerships can address the gaps in eldercare and caregiver burnout within rapidly ageing societies.",
+  "link": "https://www.straitstimes.com/singapore/health/new-3-3m-dementia-singapore-lien-foundation-initiative-offers-early-palliative-care-home-support",
+  "source": "The Straits Times",
+  "added": "2026-09-18T00:45:43.610Z"
  }
 ]

@@ -3755,5 +3755,83 @@
   "link": "https://www.straitstimes.com/asia/east-asia/japans-shizuoka-prefecture-to-require-climbers-to-submit-plans-for-off-season-mount-fuji-climbs",
   "source": "The Straits Times (Asia)",
   "added": "2026-09-18T14:36:47.036Z"
+ },
+ {
+  "id": "a-uk-air-traffic-control-software-error-",
+  "t": "A UK air traffic control software error disrupts flights for hundreds of thousands",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "sci",
+   "eco"
+  ],
+  "s": "A software defect in the United Kingdom's air traffic control system corrupted flight data in a single millisecond, triggering a six-hour system outage. The glitch resulted in the cancellation of over 2,000 flights, leaving hundreds of thousands of passengers stranded. A subsequent report confirmed that the widespread travel chaos was entirely due to this technical error rather than human operational failure.",
+  "u": "Highlights the extreme vulnerability of critical national infrastructure to minor software glitches, showing how digital centralization can amplify single points of failure.",
+  "link": null,
+  "source": null,
+  "added": "2026-09-19T00:36:17.143Z"
+ },
+ {
+  "id": "singapore-and-china-expand-the-tianjin-e",
+  "t": "Singapore and China expand the Tianjin Eco-City project beyond physical boundaries",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "env",
+   "pol",
+   "glo"
+  ],
+  "s": "Singapore and China have agreed to look at a longer-term development plan for the Tianjin Eco-City as the project approaches its 20th anniversary in 2028. The partnership will move beyond the physical boundaries of the city to serve as a base for businesses across the wider Beijing-Tianjin-Hebei region. This next phase aims to use newer technologies and urban planning approaches to help Singaporean and Chinese companies scale innovations.",
+  "u": "Demonstrates how bilateral environmental projects can evolve from localized urban experiments into broader regional economic and technological platforms.",
+  "link": "https://www.straitstimes.com/asia/east-asia/singapore-china-to-look-beyond-tianjin-eco-city-as-project-nears-20-year-mark-chee-hong-tat",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-19T00:36:17.143Z"
+ },
+ {
+  "id": "the-united-states-and-denmark-reach-an-a",
+  "t": "The United States and Denmark reach an Arctic security pact over Greenland",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "glo",
+   "pol"
+  ],
+  "s": "The United States, Denmark, and Greenland have announced plans to sign an Arctic security pact. The agreement allows the US to expand its military presence in the region, which US President Donald Trump claimed would grant the US permanent control over security. However, Greenlandic and Danish officials emphasized that the deal falls far short of annexation and preserves Greenland's sovereignty and right to self-determination.",
+  "u": "Illustrates how smaller, semi-autonomous territories must navigate geopolitical pressures from superpowers while trying to preserve their sovereignty.",
+  "link": "https://www.theguardian.com/world/2026/sep/18/united-states-denmark-greenland-security",
+  "source": "The Guardian",
+  "added": "2026-09-19T00:36:17.143Z"
+ },
+ {
+  "id": "indonesia-acquires-its-first-aircraft-ca",
+  "t": "Indonesia acquires its first aircraft carrier through a grant from Italy",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "glo",
+   "pol",
+   "eco"
+  ],
+  "s": "Indonesia has received its first aircraft carrier, the 41-year-old former Italian warship Giuseppe Garibaldi, transferred as a grant valued at over 54 million euros. While the government asserts the vessel will boost maritime security and disaster response, the acquisition has sparked domestic debate. Critics and opposition politicians have questioned the strategic utility and the high maintenance and upkeep costs of such an old vessel.",
+  "u": "Highlights the tension between national prestige and economic practicality when developing nations acquire legacy military hardware.",
+  "link": "https://www.theguardian.com/world/2026/sep/18/indonesia-first-aircraft-carrier-italy-warship-its-giuseppe-garibaldi",
+  "source": "The Guardian",
+  "added": "2026-09-19T00:36:17.143Z"
+ },
+ {
+  "id": "a-tennessee-woman-sues-for-ten-million-d",
+  "t": "A Tennessee woman sues for ten million dollars over a false AI arrest",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "sci",
+   "eth",
+   "soc"
+  ],
+  "s": "Angela Lipps, a 50-year-old Tennessee woman, has filed a federal lawsuit seeking 10 million dollars in damages after being falsely jailed for six months. The lawsuit alleges that police in Fargo, North Dakota, wrongly relied on artificial intelligence facial recognition technology to identify, charge, and arrest her for bank theft. The case highlights growing concerns over the accuracy and racial biases of automated policing tools.",
+  "u": "Demonstrates the severe real-world consequences and human rights violations that can occur when law enforcement over-relies on unverified artificial intelligence technologies.",
+  "link": "https://www.theguardian.com/us-news/2026/sep/18/tennessee-woman-falsely-charged-bank-theft-lawsuit",
+  "source": "The Guardian",
+  "added": "2026-09-19T00:36:17.143Z"
  }
 ]

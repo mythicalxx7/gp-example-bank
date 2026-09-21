@@ -4020,5 +4020,52 @@
   "link": "https://www.straitstimes.com/asia/se-asia/asean-to-roll-out-upgraded-trade-pact-ahead-of-schedule-gan-kim-yong",
   "source": "The Straits Times (Asia)",
   "added": "2026-09-20T14:19:01.866Z"
+ },
+ {
+  "id": "singapore-s-solar-investments-saved-mill",
+  "t": "Singapore's solar investments saved millions in fossil fuel import costs during geopolitical crisis",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "env",
+   "eco",
+   "glo"
+  ],
+  "s": "A report by the Centre for Research on Energy and Clean Air revealed that solar energy investments saved Singapore an estimated US$97 million (S$123.8 million) in power-related fossil fuel imports over five months in 2026. These savings occurred after energy prices spiked due to a crisis in the Strait of Hormuz. However, despite these savings, Singapore's heavy reliance on imported fossil fuels still caused it to incur US$8.1 billion in additional gross fossil fuel costs in the six months following the outbreak of the US-Iran war.",
+  "u": "Demonstrates that while domestic renewable energy investments can buffer a nation against sudden geopolitical energy shocks, they cannot fully shield a highly dependent economy from broader global market inflation.",
+  "link": "https://www.straitstimes.com/singapore/environment/solar-investments-saved-singapore-123-8m-in-higher-fossil-fuel-import-costs-report",
+  "source": "The Straits Times",
+  "added": "2026-09-21T00:28:30.060Z"
+ },
+ {
+  "id": "japan-s-elderly-population-reaches-a-rec",
+  "t": "Japan's elderly population reaches a record high of nearly thirty percent",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "soc",
+   "eco"
+  ],
+  "s": "Japan's Ministry of Internal Affairs and Communications reported that citizens aged 65 or older reached a record 29.6% of the total population, numbering 36.24 million people. This is an increase from the 29.4% recorded in September 2025, maintaining Japan's position as the world's most rapidly aging society among nations with populations over 40 million. Projections estimate that this demographic will rise further to 36.3% of the total population by 2045 as the second baby-boom generation ages.",
+  "u": "Provides a stark statistical baseline for discussing the economic and social pressures that extreme demographic aging places on national workforce sustainability and healthcare systems.",
+  "link": "https://www.straitstimes.com/asia/east-asia/japans-elderly-population-makes-up-record-29-highest-among-other-nations",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-21T00:28:30.060Z"
+ },
+ {
+  "id": "singapore-s-national-cancer-centre-accid",
+  "t": "Singapore's National Cancer Centre accidentally exposes the personal email addresses of patients",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "hea",
+   "eth",
+   "sci"
+  ],
+  "s": "The National Cancer Centre Singapore (NCCS) apologised after an administrative error exposed the names, email addresses, and workplaces of 467 individuals associated with hereditary breast and ovarian cancer syndrome. The breach occurred because staff used the \"CC\" function instead of \"BCC\" in an event invitation. Although no national identification numbers or medical records were leaked, the Personal Data Protection Commission launched an investigation into the lapse.",
+  "u": "Illustrates that despite advanced cybersecurity infrastructure, human error remains the weakest link in protecting sensitive personal data.",
+  "link": "https://www.channelnewsasia.com/singapore/national-cancer-centre-singapore-email-lapse-pdpa-6396601",
+  "source": "CNA Singapore",
+  "added": "2026-09-21T00:28:30.060Z"
  }
 ]

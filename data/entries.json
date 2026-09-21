@@ -4067,5 +4067,69 @@
   "link": "https://www.channelnewsasia.com/singapore/national-cancer-centre-singapore-email-lapse-pdpa-6396601",
   "source": "CNA Singapore",
   "added": "2026-09-21T00:28:30.060Z"
+ },
+ {
+  "id": "singapore-general-hospital-deploys-artif",
+  "t": "Singapore General Hospital deploys artificial intelligence to detect brain bleeding from CT scans",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "hea",
+   "eth"
+  ],
+  "s": "Singapore General Hospital co-developed and implemented an artificial intelligence tool named iScreen, which can analyze CT scans and detect brain hemorrhages within six minutes compared to the thirty minutes to an hour required by human radiologists. In a trial of 3,475 scans, the tool demonstrated a sensitivity rate of 93.1 per cent. However, the remaining 6.9 per cent of cases where the AI failed to detect bleeding highlight the ongoing necessity of human clinical oversight to prevent life-threatening diagnostic omissions.",
+  "u": "Demonstrates that while artificial intelligence can drastically improve healthcare efficiency and response times, it cannot entirely replace human medical professionals due to critical safety margins.",
+  "link": "https://www.straitstimes.com/singapore/health/with-ai-tool-sgh-detects-brain-bleeding-from-ct-scans-within-a-few-minutes",
+  "source": "The Straits Times",
+  "added": "2026-09-21T16:36:13.022Z"
+ },
+ {
+  "id": "google-agrees-to-report-child-sexual-abu",
+  "t": "Google agrees to report child sexual abuse material directly to Indian law enforcement",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "pol",
+   "med",
+   "eth"
+  ],
+  "s": "Google agreed to bypass its standard global protocol of routing flagged child sexual abuse material through a United States non-profit intermediary, opting instead to report such content directly to Indian authorities. This policy shift follows a similar move by Meta and intense pressure from the Indian government, which argued that the traditional routing system caused critical delays in active rescue operations. However, tech platforms must balance this localized urgency with international data privacy standards and the risk of state overreach in digital surveillance.",
+  "u": "Illustrates how sovereign governments are increasingly forcing multinational tech giants to alter global operational protocols to comply with local security and law enforcement priorities.",
+  "link": "https://www.straitstimes.com/asia/south-asia/google-to-report-child-sexual-abuse-content-directly-to-indias-authorities-following-meta",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-21T16:36:13.022Z"
+ },
+ {
+  "id": "south-korea-reports-hundreds-of-minors-r",
+  "t": "South Korea reports hundreds of minors registered as corporate heads annually",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eco",
+   "soc",
+   "eth"
+  ],
+  "s": "National health insurance data in South Korea revealed that an average of 382 minors, including children under the age of five, are registered as business representatives annually, with some earning yearly salaries exceeding 100 million won (S$92,116). The vast majority of these high-earning registrations—95 out of the top 100 cases examined over five years—were concentrated in real estate and rental services. While legally permissible, this practice has sparked public outrage as a blatant loophole used by wealthy families for tax avoidance and wealth transfer, worsening perceptions of systemic social inequality.",
+  "u": "Serves as an example of how legal frameworks can be exploited by the wealthy to entrench generational privilege, deepening economic inequality and undermining social mobility.",
+  "link": "https://www.straitstimes.com/asia/east-asia/in-south-korea-nearly-400-minors-some-as-young-as-5-listed-as-company-heads-annually",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-21T16:36:13.022Z"
+ },
+ {
+  "id": "singapore-bus-passengers-face-fines-for-",
+  "t": "Singapore bus passengers face fines for playing loud audio and soiling vehicles",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "soc",
+   "pol",
+   "eth"
+  ],
+  "s": "Singapore introduced strict public transport regulations imposing fines of up to S$500 on bus passengers who play loud audio or put their feet on seats, while more serious offences like soiling a bus or interchange can carry penalties of up to S$5,000. Proponents argue these measures are necessary to maintain civic decency and comfort in shared public spaces. However, critics suggest that relying on punitive legislation to curb minor social nuisances reflects a heavy-handed governance style that prioritises state policing over organic community education and civic responsibility.",
+  "u": "Highlights the tension between using state legislation to enforce civic behavior and fostering an organic, self-regulating culture of social consideration.",
+  "link": "https://www.channelnewsasia.com/singapore/bus-new-regulations-nuisance-offence-fines-penalties-6398691",
+  "source": "CNA Singapore",
+  "added": "2026-09-21T16:36:13.022Z"
  }
 ]

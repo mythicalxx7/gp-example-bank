@@ -4131,5 +4131,81 @@
   "link": "https://www.channelnewsasia.com/singapore/bus-new-regulations-nuisance-offence-fines-penalties-6398691",
   "source": "CNA Singapore",
   "added": "2026-09-21T16:36:13.022Z"
+ },
+ {
+  "id": "singapore-s-beverage-container-return-sc",
+  "t": "Singapore's beverage container return scheme processes millions of items at a new facility",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "env",
+   "eco"
+  ],
+  "s": "Singapore opened its first dedicated Counting and Sorting Facility in Tuas to process empty cans and bottles collected from 1,300 reverse vending machines islandwide. Since the scheme's launch, over 33 million containers have been collected. The facility uses robotic arms and AI-powered cameras to automate the sorting process before sending materials to recyclers.",
+  "u": "Demonstrates how state-led recycling infrastructure and automation can scale up circular economy initiatives to tackle urban waste.",
+  "link": "https://www.straitstimes.com/singapore/environment/what-goes-on-inside-the-new-sorting-facility-for-used-bottles-and-cans",
+  "source": "The Straits Times",
+  "added": "2026-09-22T01:07:23.210Z"
+ },
+ {
+  "id": "a-fatal-singapore-flat-fire-highlights-t",
+  "t": "A fatal Singapore flat fire highlights the dangers of unresolved hoarding",
+  "y": 2025,
+  "r": "sg",
+  "c": [
+   "soc",
+   "eth"
+  ],
+  "s": "A coroner's inquiry revealed that a family of three died in a Hougang flat fire after repeatedly refusing assistance from the Housing Board to clear their hoarded belongings. Firefighters faced severe difficulties entering the flat due to the massive accumulation of items, which also fueled the electrical fire. The Housing Board had attempted multiple visits over ten months but was denied entry by the residents.",
+  "u": "Highlights the ethical and practical limits of state intervention when individual property rights clash with public safety and community health.",
+  "link": "https://www.straitstimes.com/singapore/courts-crime/coroners-inquiry-into-hougang-fire-family-of-3-who-died-refused-help-from-hdb-on-hoarding-issue",
+  "source": "The Straits Times",
+  "added": "2026-09-22T01:07:23.210Z"
+ },
+ {
+  "id": "malaysia-removes-the-bumiputera-equity-r",
+  "t": "Malaysia removes the bumiputera equity requirement for private limited education institutions",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "edu",
+   "pol",
+   "eco"
+  ],
+  "s": "Malaysia's Education Ministry has abolished the requirement for private limited companies operating private education institutions to maintain at least 30 percent bumiputera (indigenous Malay) equity ownership. The policy shift was designed to align ownership rules with the modern needs of the education sector and encourage broader developmental contributions. However, critics of affirmative action argue that such selective deregulation does not address the broader systemic ethnic quotas that still exist in public universities.",
+  "u": "Demonstrates that governments may roll back long-standing nationalist or affirmative action policies when they conflict with economic pragmatism and the need for private investment.",
+  "link": "https://www.straitstimes.com/asia/se-asia/malaysia-removes-bumiputera-equity-requirement-for-some-private-education-institutions",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-22T01:07:23.210Z"
+ },
+ {
+  "id": "australia-and-new-zealand-sign-plan-tasm",
+  "t": "Australia and New Zealand sign Plan Tasman to integrate naval operations",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "glo",
+   "pol"
+  ],
+  "s": "Australia and New Zealand signed a bilateral naval pact named Plan Tasman to deepen integration across training, warfighting, engineering, and personnel development. The agreement marks a strategic shift from historical, informal cooperation to formal integration by design. However, the two nations must still navigate differences in their respective defense spending capabilities and geopolitical postures in the Pacific.",
+  "u": "Shows how middle powers are moving beyond traditional alliances toward structural military integration to counter rising regional security threats.",
+  "link": "https://www.straitstimes.com/asia/australia-and-new-zealand-deepen-naval-partnership",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-22T01:07:23.210Z"
+ },
+ {
+  "id": "china-allows-foreign-visitors-to-registe",
+  "t": "China allows foreign visitors to register their accommodation online",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "pol",
+   "glo"
+  ],
+  "s": "China's Exit and Entry Administration has introduced an online registration system allowing foreign visitors staying outside of hotels to register their accommodation digitally. Previously, the Exit and Entry Administration Law strictly mandated that foreigners register in person at local police stations within 24 hours of arrival. While this digital reform eases travel logistics, visitors remain subject to China's extensive digital surveillance and data collection networks.",
+  "u": "Shows how authoritarian states leverage digital technology to streamline administrative hurdles for foreigners without compromising state surveillance and security.",
+  "link": "https://www.scmp.com/news/china/diplomacy/article/3368253/china-allows-foreign-visitors-skip-police-stations-register-stay-online?utm_source=rss_feed",
+  "source": "South China Morning Post",
+  "added": "2026-09-22T01:07:23.210Z"
  }
 ]

@@ -4207,5 +4207,85 @@
   "link": "https://www.scmp.com/news/china/diplomacy/article/3368253/china-allows-foreign-visitors-skip-police-stations-register-stay-online?utm_source=rss_feed",
   "source": "South China Morning Post",
   "added": "2026-09-22T01:07:23.210Z"
+ },
+ {
+  "id": "singapore-launches-a-data-sharing-unit-t",
+  "t": "Singapore launches a data-sharing unit to flag early signs of child abuse",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "soc",
+   "pol",
+   "eth"
+  ],
+  "s": "Singapore's Ministry of Social and Family Development launched the SAFER (Sensemaking Alerts for Frontline Engagement and Response) unit in June 2026. The unit collates and analyses data from various law enforcement and social agencies to identify high-risk cases, particularly involving children under seven. In its first two months of operations, it surfaced 600 cases for review and flagged 70 high-risk cases to protective services, including one previously unknown to authorities.",
+  "u": "Demonstrates how governments can leverage inter-agency data sharing and technology to prevent vulnerable individuals from falling through the cracks of fragmented social safety nets.",
+  "link": "https://www.straitstimes.com/singapore/community/new-msf-unit-analyses-data-from-police-cnb-and-other-agencies-to-flag-child-abuse-earlier",
+  "source": "The Straits Times",
+  "added": "2026-09-23T00:56:07.451Z"
+ },
+ {
+  "id": "singapore-establishes-the-online-safety-",
+  "t": "Singapore establishes the Online Safety Commission to mandate swift content takedowns",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "med",
+   "pol",
+   "eth"
+  ],
+  "s": "Singapore's newly established Online Safety Commission (OSC) commenced operations on 29 June 2026, receiving over 500 reports of online harms within its first two months. The commission has the legal authority to compel tech platforms and group administrators to quickly remove harmful content, focusing initially on doxxing, harassment, stalking, and intimate image abuse. Nearly 20% of the eligible reports involved victims aged 18 and below, with the youngest being a seven-year-old doxxing victim.",
+  "u": "Illustrates that state-backed regulatory bodies with legal enforcement powers are increasingly necessary to protect citizens from online harms when tech platforms fail to self-regulate effectively.",
+  "link": "https://www.straitstimes.com/tech/over-500-cases-of-online-harms-reported-to-spore-agency-in-first-two-months-youngest-victim-aged-7",
+  "source": "The Straits Times",
+  "added": "2026-09-23T00:56:07.451Z"
+ },
+ {
+  "id": "indonesia-passes-a-landmark-agrarian-ref",
+  "t": "Indonesia passes a landmark agrarian reform law to resolve systemic land conflicts",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "pol",
+   "eco",
+   "soc"
+  ],
+  "s": "The Indonesian Parliament passed a new law on 22 September 2026 to address long-standing agrarian conflicts and inequality in land ownership. The legislation establishes a dedicated agency reporting directly to the president to oversee land planning, monitoring, and conflict resolution. Crucially, the law aims to protect disenfranchised groups, such as small farmers, fishermen, and Indigenous communities, by imposing legal limits on the maximum size of private land holdings.",
+  "u": "Shows how legislative intervention and structural land reform are vital tools for governments seeking to protect marginalized communities from exploitation by powerful corporate or state interests.",
+  "link": "https://www.straitstimes.com/asia/se-asia/indonesia-parliament-passes-law-aimed-at-resolving-land-conflicts",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-23T00:56:07.451Z"
+ },
+ {
+  "id": "thailand-approves-draft-legislation-to-r",
+  "t": "Thailand approves draft legislation to reverse its landmark cannabis decriminalisation policy",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "pol",
+   "hea",
+   "eth"
+  ],
+  "s": "Thailand's cabinet approved a draft bill on 22 September 2026 to significantly tighten controls on its cannabis industry, reversing the historic 2022 decriminalisation policy that made it the first Asian nation to legalise the plant. The new bill restricts cannabis strictly to medical use, mandates that growers register their plantations for tracking, and outlines the phased expiration of existing dispensary licences by 2028. This policy shift follows a massive, unregulated expansion of recreational dispensaries that triggered public health concerns.",
+  "u": "Serves as a cautionary example of how rapid liberalisation of drug laws without robust regulatory frameworks can lead to unintended societal consequences, forcing a costly political reversal.",
+  "link": "https://www.straitstimes.com/asia/se-asia/thailand-moves-to-rein-in-cannabis-industry-accelerates-reversal-of-decriminalisation-policy",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-09-23T00:56:07.451Z"
+ },
+ {
+  "id": "china-tightens-export-controls-on-fentan",
+  "t": "China tightens export controls on fentanyl precursors ahead of bilateral US summit",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "glo",
+   "pol",
+   "hea"
+  ],
+  "s": "On 22 September 2026, China's Ministry of Commerce and other government agencies added two new chemical precursors used in the manufacture of fentanyl to its export licensing control list. The restrictions target exports to the United States, Canada, and Mexico, and were announced just one day before a high-stakes state visit by President Xi Jinping to Washington. Fentanyl abuse remains a severe public health crisis in North America, making the regulation of its chemical precursors a major geopolitical bargaining chip.",
+  "u": "Demonstrates how domestic public health crises and drug enforcement regulations are frequently leveraged as strategic diplomatic tools in international relations.",
+  "link": "https://www.scmp.com/economy/article/3368405/china-tightens-control-more-fentanyl-precursors-ahead-xi-trump-meeting?utm_source=rss_feed",
+  "source": "South China Morning Post",
+  "added": "2026-09-23T00:56:07.451Z"
  }
 ]

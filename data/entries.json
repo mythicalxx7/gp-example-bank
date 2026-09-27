@@ -4460,5 +4460,21 @@
   "link": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
   "source": "The Guardian",
   "added": "2026-09-26T14:40:42.276Z"
+ },
+ {
+  "id": "singapore-shifts-cyber-strategy-after-st",
+  "t": "Singapore shifts cyber strategy after state-sponsored attacks on major telecommunications firms",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "pol",
+   "glo"
+  ],
+  "s": "Following a cyberespionage campaign by the state-sponsored group UNC3886 against Singapore's four major telecommunications providers, the Cyber Security Agency of Singapore shifted its strategy from perimeter defence to active threat hunting. The agency developed and deployed in-house artificial intelligence tools to secure approximately 2,000 government systems. This proactive posture assumes that highly resourced attackers will inevitably breach networks and must be detected internally before causing disruption.",
+  "u": "Illustrates how the rise of sophisticated, state-backed cyber warfare forces governments to abandon passive defence in favour of active, AI-driven threat hunting.",
+  "link": "https://www.straitstimes.com/tech/singapore-shifts-cyber-strategy-after-unc3886-attacks-deploys-ai-security-tools",
+  "source": "The Straits Times",
+  "added": "2026-09-27T00:52:02.487Z"
  }
 ]

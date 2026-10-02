@@ -4633,5 +4633,53 @@
   "link": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
   "source": "BBC World",
   "added": "2026-10-01T17:10:48.907Z"
+ },
+ {
+  "id": "singapore-s-first-reported-ai-related-da",
+  "t": "Singapore's first reported AI-related data breach exposes ninety-five thousand customer emails",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "med",
+   "eth"
+  ],
+  "s": "In April 2026, an employee at Singaporean food company Bee Cheng Hiang used an AI tool to write a mass-email program, but a bad prompt caused the system to send marketing emails with over 95,000 customer email addresses visible to all recipients. The Personal Data Protection Commission confirmed this was the nation's first reported AI-related data breach. The incident was attributed to human error in prompt engineering rather than a technical malfunction of the generative AI tool.",
+  "u": "Demonstrates that the integration of artificial intelligence in business operations introduces novel cybersecurity risks rooted in human error rather than software failure.",
+  "link": "https://www.straitstimes.com/tech/bad-ai-prompt-exposes-bee-cheng-hiang-customers-e-mail-addresses-in-first-case-of-ai-related-data",
+  "source": "The Straits Times",
+  "added": "2026-10-02T01:48:16.632Z"
+ },
+ {
+  "id": "singaporeans-show-the-highest-acceptance",
+  "t": "Singaporeans show the highest acceptance of nuclear energy in Southeast Asia",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "env",
+   "sci",
+   "soc"
+  ],
+  "s": "The Southeast Asia Climate Outlook 2026 Survey revealed that 31.4% of Singaporeans believe nuclear energy holds the greatest potential as a clean power source for their country, the highest acceptance rate in the region. This represents an 11.1% increase in approval from 2024. Despite this growing public openness, solar energy remains the most widely accepted alternative energy source in the city-state.",
+  "u": "Shows that public attitudes toward controversial technologies like nuclear power can shift positively as the urgency of climate change and energy security increases.",
+  "link": "https://www.scmp.com/week-asia/health-environment/article/3369437/nearly-third-singaporeans-open-nuclear-energys-potential-highest-asean-study?utm_source=rss_feed",
+  "source": "South China Morning Post",
+  "added": "2026-10-02T01:48:16.632Z"
+ },
+ {
+  "id": "kyoto-plans-dual-pricing-for-tourists-to",
+  "t": "Kyoto plans dual pricing for tourists to combat overtourism",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "pol",
+   "eco",
+   "soc"
+  ],
+  "s": "Kyoto announced plans to introduce a two-tier pricing system as early as fiscal 2027, charging out-of-town visitors more than local residents for bus fares and admission to Nijo Castle, a UNESCO World Heritage site. Under the system, castle admission will cost 2,000 yen for non-residents compared to 1,000 yen for residents, while bus fares will be 360 yen for tourists and 200 yen for locals. This marks Japan's first instance of dual pricing on public transport, aimed at easing overcrowding and funding local conservation.",
+  "u": "Demonstrates how municipal governments can use targeted economic policies to mitigate the negative social and infrastructural impacts of overtourism on local communities.",
+  "link": "https://www.straitstimes.com/asia/east-asia/kyoto-plans-dual-pricing-for-nijo-castle-admission-bus-fares",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-10-02T01:48:16.632Z"
  }
 ]

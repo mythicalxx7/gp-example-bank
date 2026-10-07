@@ -4928,5 +4928,84 @@
   "link": null,
   "source": null,
   "added": "2026-10-05T19:32:26.309Z"
+ },
+ {
+  "id": "singapore-plans-a-two-hundred-hectare-en",
+  "t": "Singapore plans a two-hundred-hectare energy infrastructure cluster on Pulau Tekong",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "env",
+   "sci",
+   "pol"
+  ],
+  "s": "The Energy Market Authority is studying the feasibility of building a major energy hub on the military island of Pulau Tekong. The proposed site could host Singapore's third liquefied natural gas terminal, hydrogen-compatible power plants, and electricity import facilities. While this supports Singapore's transition to cleaner energy, it highlights the ongoing challenge of securing land and resources for heavy infrastructure in a land-scarce nation.",
+  "u": "Illustrates how small, resource-constrained nations must proactively plan long-term infrastructure to balance national security with environmental sustainability.",
+  "link": "https://www.straitstimes.com/singapore/environment/spore-mulls-energy-cluster-on-tekong-including-third-lng-terminal-and-electricity-import-facilities",
+  "source": "The Straits Times",
+  "added": "2026-10-07T01:47:17.554Z"
+ },
+ {
+  "id": "singapore-proposes-legal-changes-to-simp",
+  "t": "Singapore proposes legal changes to simplify Muslim divorce and protect children",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "soc",
+   "eth",
+   "rel"
+  ],
+  "s": "The Ministry of Culture, Community and Youth tabled amendments to the Administration of Muslim Law Act to streamline divorce proceedings. The changes allow amicable couples to bypass the mandatory appointment of a hakam (marital conciliator), potentially shortening the process by six months and reducing legal fees. This comes as annual Muslim marriages fell from 5,184 in 2024 to 5,006 in 2025, while divorces rose from 1,440 to 1,658 over the same period.",
+  "u": "Demonstrates how family law must adapt to rising divorce rates by prioritizing administrative efficiency and the emotional well-being of affected children.",
+  "link": "https://www.straitstimes.com/singapore/politics/proposed-changes-to-muslim-law-include-simpler-divorce-process-strengthened-welfare-of-children",
+  "source": "The Straits Times",
+  "added": "2026-10-07T01:47:17.554Z"
+ },
+ {
+  "id": "indonesia-halts-its-forest-clearing-rice",
+  "t": "Indonesia halts its forest-clearing rice paddy project after achieving self-sufficiency",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "env",
+   "pol",
+   "eco"
+  ],
+  "s": "The Indonesian government announced it will stop a controversial project launched in 2024 to clear three million hectares of forest for rice production. The decision follows data showing that domestic demand has been met, with the strategic rice reserve reaching 5.3 million tonnes. Instead of further deforestation, the state will focus on agricultural intensification measures, such as using superior seeds to boost yields.",
+  "u": "Shows that achieving food security does not always require environmental destruction if states pivot toward technological and agricultural intensification.",
+  "link": "https://www.straitstimes.com/asia/se-asia/indonesia-says-will-halt-forest-destruction-for-rice-paddies",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-10-07T01:47:17.554Z"
+ },
+ {
+  "id": "australia-investigates-a-chinese-smart-g",
+  "t": "Australia investigates a Chinese smart glasses app over data privacy concerns",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "sci",
+   "med",
+   "eth"
+  ],
+  "s": "The Office of the Australian Information Commissioner launched an inquiry into Shenzhen Qingcheng, the developer behind the HeyCyan app used in low-cost smart glasses. The regulator raised concerns over how the company collects and stores the personal data of Australian citizens after the firm failed to respond to preliminary inquiries. This coincides with broader global discussions on whether to restrict camera-enabled eyewear in workplaces, cinemas, and courts.",
+  "u": "Highlights the regulatory challenges of protecting consumer privacy as wearable, recording-enabled technology becomes cheap and ubiquitous.",
+  "link": "https://www.straitstimes.com/asia/australianz/australia-probes-app-used-in-cheap-smart-glasses-over-privacy-fears",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-10-07T01:47:17.554Z"
+ },
+ {
+  "id": "kenya-records-its-first-ever-ebola-death",
+  "t": "Kenya records its first-ever Ebola death as the virus spreads",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "hea",
+   "glo"
+  ],
+  "s": "Kenya's health ministry confirmed the country's first-ever death from Ebola, involving a citizen who had returned from the Democratic Republic of Congo. The DRC has been battling its 17th outbreak of the virus since May, which has resulted in over 4,000 deaths. Kenyan authorities have identified dozens of close contacts in an effort to contain the highly infectious disease.",
+  "u": "Illustrates how global travel and regional migration make the containment of highly infectious diseases an international security challenge rather than a localized health issue.",
+  "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+  "source": "The Guardian",
+  "added": "2026-10-07T01:47:17.554Z"
  }
 ]

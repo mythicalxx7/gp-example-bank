@@ -5007,5 +5007,83 @@
   "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
   "source": "The Guardian",
   "added": "2026-10-07T01:47:17.554Z"
+ },
+ {
+  "id": "singapore-passes-the-digital-infrastruct",
+  "t": "Singapore passes the Digital Infrastructure Bill to regulate major data centres",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "pol",
+   "eco"
+  ],
+  "s": "Passed on 7 October 2026, the Digital Infrastructure Bill mandates licensing for data centres that meet specific electrical or revenue thresholds, affecting about two-thirds of Singapore's 70 facilities. These operators must now adhere to strict standards regarding physical security, energy efficiency, and operational resilience. However, some lawmakers raised concerns that these stringent compliance requirements could negatively impact Singapore's regional competitiveness and attractiveness to tech investments.",
+  "u": "Demonstrates how governments must balance national security and digital resilience against the economic need to remain competitive in the global tech landscape.",
+  "link": "https://www.straitstimes.com/singapore/politics/major-data-centres-to-meet-stricter-security-resilience-rules-with-the-passing-of-new-bill",
+  "source": "The Straits Times",
+  "added": "2026-10-08T02:15:02.325Z"
+ },
+ {
+  "id": "singapore-introduces-a-two-track-primary",
+  "t": "Singapore introduces a two-track Primary One registration system for popular schools",
+  "y": 2027,
+  "r": "sg",
+  "c": [
+   "edu",
+   "soc",
+   "pol"
+  ],
+  "s": "Beginning in 2027, Singapore will reserve 60 places for Phase 2C in most primary schools, up from the previous 40. Additionally, 12 popular schools located in neighbourhoods with less than 40% public housing will split these places equally between children living within 2km and those living further away. While the policy aims to prevent elite schools from becoming socially exclusive enclaves, critics argue that reserving spots for distant applicants may disadvantage local residents who rely on nearby schools for convenience.",
+  "u": "Illustrates how educational policies must be actively restructured to prevent public schooling from reinforcing geographic and socioeconomic segregation.",
+  "link": "https://www.straitstimes.com/singapore/politics/p1-registration-15-of-phase-2c-students-at-12-popular-primary-schools-live-in-public-housing",
+  "source": "The Straits Times",
+  "added": "2026-10-08T02:15:02.325Z"
+ },
+ {
+  "id": "the-monetary-authority-of-singapore-issu",
+  "t": "The Monetary Authority of Singapore issues new artificial intelligence risk guidelines",
+  "y": 2027,
+  "r": "sg",
+  "c": [
+   "sci",
+   "pol",
+   "eth"
+  ],
+  "s": "The Monetary Authority of Singapore published guidelines, taking effect in phases from October 2027, establishing that financial institutions remain fully accountable for risks arising from artificial intelligence tools. This accountability holds even when the software is developed or operated by third-party vendors. While the rules aim to protect consumers from data leaks and algorithmic errors, financial institutions face the complex task of auditing highly complex, proprietary 'black box' models from external developers.",
+  "u": "Shows that regulatory frameworks must evolve to ensure human and corporate accountability as critical industries increasingly outsource their core technology to autonomous systems.",
+  "link": "https://www.straitstimes.com/tech/financial-institutions-must-remain-accountable-for-use-of-third-party-ai-tools-mas",
+  "source": "The Straits Times",
+  "added": "2026-10-08T02:15:02.325Z"
+ },
+ {
+  "id": "canada-indefinitely-bans-euthanasia-acce",
+  "t": "Canada indefinitely bans euthanasia access for patients with sole mental illness",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "med",
+   "pol",
+   "eth"
+  ],
+  "s": "On 7 October 2026, the Canadian government announced legislation to indefinitely bar individuals whose sole medical condition is mental illness from accessing medically assisted dying. This decision paused a planned expansion of the country's assisted dying framework that was scheduled to take effect in March 2027. Proponents of the restriction argue it protects vulnerable citizens during temporary psychiatric crises, while opponents contend it discriminates against those suffering from severe, incurable mental anguish.",
+  "u": "Highlights the ethical boundaries and legislative difficulties of defining the limits of personal autonomy in state-sanctioned medical aid in dying.",
+  "link": "https://www.theguardian.com/world/2026/oct/07/canada-assisted-dying-mental-illness",
+  "source": "The Guardian",
+  "added": "2026-10-08T02:15:02.325Z"
+ },
+ {
+  "id": "green-turtles-are-reclassified-from-enda",
+  "t": "Green turtles are reclassified from endangered to least concern status",
+  "y": 2025,
+  "r": "asia",
+  "c": [
+   "env"
+  ],
+  "s": "In 2025, the International Union for the Conservation of Nature reclassified green turtles as a species of 'least concern' following decades of conservation efforts, including egg relocation, trade bans, and marine protection. This success stands in contrast to a 73% average decline in monitored global wildlife populations over 53 years, as reported by the World Wildlife Fund in October 2026. However, marine biologists warn that this recovery remains fragile, as all six other sea turtle species remain vulnerable or critically endangered.",
+  "u": "Serves as evidence that targeted, long-term environmental intervention and international cooperation can successfully reverse biodiversity loss.",
+  "link": "https://www.straitstimes.com/asia/se-asia/as-species-decline-green-turtles-offer-glimmer-of-hope",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-10-08T02:15:02.325Z"
  }
 ]

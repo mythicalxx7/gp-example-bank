@@ -5563,5 +5563,84 @@
   "link": "https://www.straitstimes.com/asia/east-asia/japan-to-launch-historic-round-trip-mission-to-mars-moon",
   "source": "The Straits Times (Asia)",
   "added": "2026-10-19T00:27:02.067Z"
+ },
+ {
+  "id": "singapore-and-sweden-expand-partnership-",
+  "t": "Singapore and Sweden expand partnership to integrate low-carbon energy and cross-border grids",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "env",
+   "sci",
+   "glo"
+  ],
+  "s": "In October 2026, Singapore and Sweden signed agreements to expand bilateral cooperation in clean energy transitions, focusing on emerging technologies like hydrogen, ammonia, and high-voltage direct current grid integration. The partnership leverages Sweden's expertise in cross-border energy management alongside Singapore's position as a regional energy hub. However, cross-border energy infrastructure and emerging fuels require high capital investments and long adoption timelines before meaningfully reducing carbon dependence.",
+  "u": "Demonstrates how small nations can leverage international technical partnerships to enhance long-term energy security and accelerate transition goals.",
+  "link": "https://www.straitstimes.com/singapore/politics/singapore-sweden-to-boost-cooperation-in-clean-energy-transition-public-policy",
+  "source": "The Straits Times",
+  "added": "2026-10-21T00:52:40.827Z"
+ },
+ {
+  "id": "national-university-hospital-introduces-",
+  "t": "National University Hospital introduces precision AI-guided brain stimulation for mental health conditions",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "hea",
+   "sci"
+  ],
+  "s": "In October 2026, Singapore's National University Hospital launched personalised transcranial magnetic stimulation (pTMS), combining functional magnetic resonance imaging with AI algorithms to map and target specific brain circuits. Approved for treatment-resistant depression and anxiety, the non-invasive procedure is the first of its kind in Southeast Asia. While offering targeted therapy without surgery, high technological costs and complex imaging requirements may limit immediate widespread accessibility.",
+  "u": "Illustrates how advanced artificial intelligence can enhance precision medicine and expand treatment options for treatment-resistant mental health illnesses.",
+  "link": "https://www.straitstimes.com/singapore/health/nuh-offers-precision-brain-stimulation-to-treat-depression-and-anxiety",
+  "source": "The Straits Times",
+  "added": "2026-10-21T00:52:40.827Z"
+ },
+ {
+  "id": "singapore-s-ministry-of-manpower-mandate",
+  "t": "Singapore's Ministry of Manpower mandates real-time PM2.5 guidelines for outdoor workplace safety",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "eco",
+   "hea",
+   "pol"
+  ],
+  "s": "In October 2026, Singapore's Ministry of Manpower introduced guidelines instructing employers to adjust outdoor work using real-time, hourly PM2.5 readings rather than relying solely on 24-hour daily forecasts. Employers must reduce strenuous outdoor labor during elevated particulate spikes and restrict vulnerable workers when air quality deteriorates. While improving immediate worker welfare during haze episodes, frequent operational interruptions risk lowering productivity for outdoor sectors like construction.",
+  "u": "Shows how modern governance must balance economic productivity against public health protections when managing transboundary environmental threats.",
+  "link": "https://www.straitstimes.com/singapore/employers-should-adjust-outdoor-work-activities-based-on-hourly-pm2-5-readings-mom",
+  "source": "The Straits Times",
+  "added": "2026-10-21T00:52:40.827Z"
+ },
+ {
+  "id": "australia-initiates-global-legislative-c",
+  "t": "Australia initiates global legislative coalition to enforce child protection standards on tech companies",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "med",
+   "pol",
+   "eth"
+  ],
+  "s": "In October 2026, Australia's Communications Ministry began forming an international coalition of governments—including Malaysia, New Zealand, Canada, and Britain—to enforce baseline child safety standards on major technology platforms. Building on national proposals mandating safety-by-design against deepfakes and predators, the initiative seeks to counter tech firms' lobbying power through multilateral consensus. However, harmonising digital regulations across different legal systems remains a significant diplomatic hurdle.",
+  "u": "Highlights the necessity of international regulatory cooperation when national governments attempt to hold multinational technology monopolies accountable for user safety.",
+  "link": "https://www.straitstimes.com/asia/australianz/australia-seeks-global-alliance-to-fight-big-tech-on-child-harms",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-10-21T00:52:40.827Z"
+ },
+ {
+  "id": "united-nations-estimates-nineteen-millio",
+  "t": "United Nations estimates nineteen million Afghans will face acute hunger in 2027",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eco",
+   "glo",
+   "soc"
+  ],
+  "s": "In October 2026, the United Nations Office for the Coordination of Humanitarian Affairs projected that 19.2 million people in Afghanistan will experience acute food insecurity heading into 2027, up from 15.9 million in late 2026. The agency estimated that over four million children under five will require treatment for acute malnutrition as five million individuals face near-famine conditions. While aid groups call for urgent interventions, ongoing political isolation and funding shortfalls complicate global relief efforts.",
+  "u": "Demonstrates how geopolitical isolation and economic collapse exacerbate humanitarian crises and systemic food insecurity among vulnerable populations.",
+  "link": "https://www.straitstimes.com/asia/south-asia/un-says-19-2-million-afghans-facing-acute-food-insecurity-by-april-2027",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-10-21T00:52:40.827Z"
  }
 ]

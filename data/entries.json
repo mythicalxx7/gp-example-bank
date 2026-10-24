@@ -5642,5 +5642,83 @@
   "link": "https://www.straitstimes.com/asia/south-asia/un-says-19-2-million-afghans-facing-acute-food-insecurity-by-april-2027",
   "source": "The Straits Times (Asia)",
   "added": "2026-10-21T00:52:40.827Z"
+ },
+ {
+  "id": "singapore-forms-a-specialist-panel-of-le",
+  "t": "Singapore forms a specialist panel of legal and audit experts to investigate firms linked to transboundary haze",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "env",
+   "eth",
+   "pol"
+  ],
+  "s": "The Ministry of Law announced the creation of a specialist panel comprising law, audit, and investigative firms to trace complex cross-border corporate structures and supply chains responsible for forest fires causing severe haze in Singapore. Companies identified by the government under the Transboundary Haze Pollution Act will be required to engage these experts to audit their operations. This follows the National Environment Agency issuing legal notices to 10 Singapore-based forestry and palm oil firms requiring disclosure of their links to concessions in Indonesia.",
+  "u": "Demonstrates the jurisdictional challenges and regulatory mechanisms states must employ when holding transnational corporations accountable for environmental degradation.",
+  "link": "https://www.straitstimes.com/singapore/environment/singapore-will-form-panel-of-experts-to-help-investigations-into-haze-linked-firms",
+  "source": "The Straits Times",
+  "added": "2026-10-24T01:01:14.697Z"
+ },
+ {
+  "id": "foodpanda-introduces-full-time-delivery-",
+  "t": "Foodpanda introduces full-time delivery roles offering fixed salaries and statutory benefits in Singapore",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "eco",
+   "soc"
+  ],
+  "s": "Foodpanda launched a full-time employment track for bicycle and e-bike delivery riders in Singapore, offering a basic monthly salary of $1,800, statutory Central Provident Fund (CPF) contributions, and employee benefits in exchange for a 44-hour work week and a monthly target of 320 orders. The scheme exists alongside its traditional gig-worker model to complement delivery capacity while offering workers greater financial stability. Delivery riders who fail to meet performance targets face potential termination.",
+  "u": "Illustrates how corporate models are evolving to balance the flexibility of the gig economy with the structural financial protections of traditional employment.",
+  "link": "https://www.straitstimes.com/singapore/transport/foodpanda-rolls-out-full-time-rider-jobs-with-1800-salary-and-full-cpf-contributions",
+  "source": "The Straits Times",
+  "added": "2026-10-24T01:01:14.697Z"
+ },
+ {
+  "id": "spanish-opposition-party-sparks-outrage-",
+  "t": "Spanish opposition party sparks outrage by using AI-generated deepfakes of politicians' families in campaign ads",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "med",
+   "pol",
+   "eth"
+  ],
+  "s": "Spain's main opposition party released a campaign advertisement featuring AI-generated deepfake videos of the prime minister's wife and political figures appearing to confess to wrongdoing ahead of national elections. The video triggered widespread public outrage and political condemnation, prompting an intense debate over legal boundaries for artificial intelligence in electoral campaigning. Campaigners warn that unregulated synthetic media threatens to erode trust in democratic processes.",
+  "u": "Highlights how artificial intelligence and deepfake technology are weaponised to manipulate public perception and undermine democratic political discourse.",
+  "link": "https://www.theguardian.com/world/2026/oct/23/opposition-deepfake-video-spain-election",
+  "source": "The Guardian",
+  "added": "2026-10-24T01:01:14.697Z"
+ },
+ {
+  "id": "south-korean-government-study-finds-pape",
+  "t": "South Korean government study finds paper straws cause greater environmental impact than conventional plastic alternatives",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "env",
+   "sci"
+  ],
+  "s": "A comprehensive study commissioned by South Korea's Ministry of Climate, Energy and Environment revealed that paper straws generate a higher overall carbon footprint and greater environmental damage across their lifecycle than conventional plastic straws. The findings re-opened debates on greenwashing and the unintended consequences of blanket single-use plastic replacements. Environmental policy experts noted that substituting materials without addressing single-use consumer habits fails to mitigate waste.",
+  "u": "Shows that eco-friendly policy interventions can backfire when choices are based on popular perception rather than rigorous lifecycle assessments.",
+  "link": "https://www.scmp.com/week-asia/health-environment/article/3371936/paper-straws-worse-environment-plastic-south-korea-study-finds",
+  "source": "South China Morning Post",
+  "added": "2026-10-24T01:01:14.697Z"
+ },
+ {
+  "id": "japanese-universities-double-research-ap",
+  "t": "Japanese universities double research applications for military funding, eroding post-war pacifist academia taboos",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "edu",
+   "glo",
+   "pol"
+  ],
+  "s": "Japanese universities submitted a record 291 research grant applications to the Ministry of Defence in 2026, more than double the 123 applications submitted in 2025. Academic institutions accounted for over half of all defence funding bids as national security concerns over regional geopolitical tensions intensified. The surge marks a significant shift away from the post-World War II pacifist consensus that kept Japanese academic research strictly separated from military development.",
+  "u": "Illustrates how escalating geopolitical threats can reshape long-standing institutional norms and erode ethical taboos surrounding state defense research.",
+  "link": "https://www.scmp.com/news/china/military/article/3371931/japans-university-defence-bids-surge-post-war-taboo-fades-amid-china-concerns",
+  "source": "South China Morning Post",
+  "added": "2026-10-24T01:01:14.697Z"
  }
 ]

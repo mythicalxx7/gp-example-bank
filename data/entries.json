@@ -5720,5 +5720,84 @@
   "link": "https://www.scmp.com/news/china/military/article/3371931/japans-university-defence-bids-surge-post-war-taboo-fades-amid-china-concerns",
   "source": "South China Morning Post",
   "added": "2026-10-24T01:01:14.697Z"
+ },
+ {
+  "id": "singapore-introduces-master-s-programme-",
+  "t": "Singapore introduces master's programme and overseas attachments to build local nuclear energy expertise",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "edu",
+   "env"
+  ],
+  "s": "In October 2026, Singapore announced four talent-development initiatives to build domestic nuclear energy expertise, including public officer attachments to global nuclear organisations and the country's first dedicated master's degree in nuclear engineering. The push comes as the nation prepares for a 2027 review by the International Atomic Energy Agency to evaluate its readiness for potential nuclear deployment. While Singapore has not committed to building reactors, the government argued that deep technical expertise is essential to evaluate safety, assess small modular reactor designs, and understand regional safety risks.",
+  "u": "Demonstrates that small or land-scarce nations must proactively build specialized technical expertise long before adopting controversial green energy technologies.",
+  "link": "https://www.straitstimes.com/singapore/environment/training-public-officers-at-global-firms-part-of-new-initiatives-to-grow-spore-nuclear-talent",
+  "source": "The Straits Times",
+  "added": "2026-10-26T16:53:58.256Z"
+ },
+ {
+  "id": "singapore-armed-forces-restructures-infa",
+  "t": "Singapore Armed Forces restructures infantry units around drone operations and real-time digital mapping",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "glo"
+  ],
+  "s": "The Singapore Armed Forces unveiled its Next Generation Infantry Battalions, which integrate small tactical squads with dedicated drone teams operating explosive strike drones and long-range surveillance platforms. The reform operationalises a military strategy of sending autonomous or robotic systems into dangerous environments prior to committing human soldiers. However, military analysts note that relying on heavy battlefield digitisation creates new vulnerabilities by increasing dependence on radio frequency spectrum and electromagnetic resistance against enemy jamming.",
+  "u": "Illustrates how modern military doctrine is shifting from human-centric mass to technological integration and unmanned systems to minimise casualties.",
+  "link": "https://www.straitstimes.com/singapore/saf-revamps-active-infantry-battalions-with-drone-suite-real-time-battle-map",
+  "source": "The Straits Times",
+  "added": "2026-10-26T16:53:58.256Z"
+ },
+ {
+  "id": "south-korea-enforces-nationwide-crackdow",
+  "t": "South Korea enforces nationwide crackdown on civilian Halloween costumes mimicking police uniforms",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "pol",
+   "soc",
+   "eth"
+  ],
+  "s": "Ahead of Halloween in October 2026, South Korean authorities launched a nationwide crackdown on civilians wearing fake police uniforms or carrying counterfeit tactical equipment, with violators facing potential jail time. The policy stems from the 2022 Itaewon crowd crush disaster, where initial emergency responses were delayed partly because partygoers mistook fake police officers for real law enforcement officers managing the crowd. While civil rights advocates question the strict regulation of creative expression, authorities maintained that public safety and clear authority indicators outweigh festive individual freedoms during major public gatherings.",
+  "u": "Shows how tragic municipal failures can lead state authorities to strictly regulate public expression and personal attire in the interest of public order.",
+  "link": "https://www.scmp.com/week-asia/health-environment/article/3372126/south-korea-jail-time-awaits-halloween-police-impersonators",
+  "source": "South China Morning Post",
+  "added": "2026-10-26T16:53:58.256Z"
+ },
+ {
+  "id": "thailand-introduces-a-1-5-billion-dollar",
+  "t": "Thailand introduces a 1.5 billion dollar subsidy package for household solar installation",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "env",
+   "eco",
+   "pol"
+  ],
+  "s": "Thailand launched a 1.5 billion US dollar clean energy scheme providing direct grants, low-interest loans, and tax relief for up to one million households installing rooftop solar panels. The initiative aims to reduce the country's heavy dependence on imported liquefied natural gas, which generated roughly 60% of its electricity in early 2026 amid volatile global fuel prices. However, state planners face administrative bottlenecks and high initial capital burdens for lower-income households despite the financial incentives.",
+  "u": "Highlights how developing nations utilize direct financial intervention to accelerate residential green energy adoption and safeguard national energy security.",
+  "link": "https://www.straitstimes.com/asia/se-asia/thailand-launches-us1-5-billion-household-solar-push",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-10-26T16:53:58.256Z"
+ },
+ {
+  "id": "hong-kong-opens-secondary-trading-for-to",
+  "t": "Hong Kong opens secondary trading for tokenised public money market funds",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eco",
+   "sci",
+   "eth"
+  ],
+  "s": "In October 2026, Hong Kong's Securities and Futures Commission approved the world's first secondary trading of tokenised public funds, allowing retail and institutional investors to trade blockchain-backed shares of money market funds on licensed virtual asset exchanges. The regulatory breakthrough aims to position Hong Kong as a global hub for digital finance and real-world asset tokenisation. Nevertheless, market observers warn that secondary digital trading introduces liquidity risks, smart contract vulnerabilities, and complex cross-border regulatory compliance issues.",
+  "u": "Demonstrates how state regulators can foster financial innovation by establishing structured legal frameworks for blockchain technology in mainstream investing.",
+  "link": "https://www.scmp.com/business/banking-finance/article/3372176/global-first-hong-kong-opens-secondary-trading-tokenised-public-funds",
+  "source": "South China Morning Post",
+  "added": "2026-10-26T16:53:58.256Z"
  }
 ]

@@ -5861,5 +5861,68 @@
   "link": "https://www.straitstimes.com/asia/east-asia/deepseek-ai-model-shows-safety-gaps-in-independent-tests",
   "source": "The Straits Times (Asia)",
   "added": "2026-10-28T01:39:54.430Z"
+ },
+ {
+  "id": "singapore-expands-ministry-of-education-",
+  "t": "Singapore expands Ministry of Education Kindergartens to full-day care model",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "edu",
+   "soc",
+   "eco"
+  ],
+  "s": "Singapore's Ministry of Education announced in October 2026 that all 56 MOE Kindergartens will transition from four-hour academic sessions to integrated 12-hour full-day care programmes by 2030. The change directly incorporates after-school care services previously outsourced to third-party operators, employing dedicated programme officers to support teachers. While intended to assist dual-income families and standardize early childhood development, the transition increases state operational costs and strains early childhood manpower recruitment.",
+  "u": "Illustrates how governments are increasingly forced to expand state-funded public education into full-day childcare to sustain dual-income workforce participation amid low fertility rates.",
+  "link": "https://www.straitstimes.com/singapore/parenting-education/all-moe-kindergartens-to-provide-full-day-care-by-2030-pilot-to-start-at-2-centres-in-2027",
+  "source": "The Straits Times",
+  "added": "2026-10-29T01:56:19.365Z"
+ },
+ {
+  "id": "singapore-s-housing-and-development-boar",
+  "t": "Singapore's Housing and Development Board launched its Home Improvement Programme",
+  "y": 2007,
+  "r": "sg",
+  "c": [
+   "soc",
+   "pol",
+   "eco"
+  ],
+  "s": "Launched in 2007, Singapore's Home Improvement Programme (HIP) fully subsidises structural maintenance and offers heavily subsidised interior upgrades for public housing blocks built before 1998. To ensure local community consent, upgrading work only proceeds if at least 75% of eligible citizen households in a block vote in favour during a mandatory polling exercise. While the policy maintains structural safety and asset value across aging public estates, it can lead to community friction when individual blocks fail to meet the voting threshold and miss out on essential repairs.",
+  "u": "Shows how democratic hyper-local voting mechanisms in public housing policy can balance state-driven urban renewal with community autonomy, while risking developmental delays for dissenting precincts.",
+  "link": null,
+  "source": null,
+  "added": "2026-10-29T01:56:19.365Z"
+ },
+ {
+  "id": "southeast-asian-airlines-suspend-fuel-he",
+  "t": "Southeast Asian airlines suspend fuel hedging as Middle East conflict inflates jet fuel costs",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eco",
+   "glo"
+  ],
+  "s": "Escalating military conflict in the Middle East in 2026 caused crude oil price volatility, prompting multiple Asian airlines and cruise operators to abandon long-term fuel hedging strategies. Commercial operators reported that jet fuel expenses surged by over 300% in certain Asian transit sectors, forcing service suspensions and price hikes. While financial hedging traditionally protects transport sectors from market shocks, extreme geopolitical volatility makes locking in current high futures prices financially hazardous.",
+  "u": "Highlights the limits of commercial risk management mechanisms when geopolitical conflicts cause extreme and unpredictable commodity market fluctuations.",
+  "link": "https://www.channelnewsasia.com/business/analysis-iran-war-drags-airlines-pull-back-fuel-hedges-and-warn-fares-6499631",
+  "source": "CNA Asia",
+  "added": "2026-10-29T01:56:19.365Z"
+ },
+ {
+  "id": "singapore-established-the-maintenance-of",
+  "t": "Singapore established the Maintenance of Religious Harmony Act",
+  "y": 1990,
+  "r": "sg",
+  "c": [
+   "rel",
+   "pol",
+   "eth"
+  ],
+  "s": "Enacted in 1990, Singapore's Maintenance of Religious Harmony Act gives the government legal powers to issue Restraining Orders against religious leaders or members who cause feelings of enmity or mix religious teachings with political agendas. The legislation also created the Presidential Council for Religious Harmony to advise the Minister for Home Affairs on matters affecting inter-faith relations. While civil liberties critics argue the legislation limits free expression and political commentary by religious groups, advocates consider it essential state infrastructure for preserving social peace in a multireligious society.",
+  "u": "Demonstrates how secular states in multicultural societies prioritize communal stability over absolute freedom of speech by legally separating religious authority from political discourse.",
+  "link": null,
+  "source": null,
+  "added": "2026-10-29T01:56:19.365Z"
  }
 ]

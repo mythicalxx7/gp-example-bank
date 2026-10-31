@@ -5924,5 +5924,81 @@
   "link": null,
   "source": null,
   "added": "2026-10-29T01:56:19.365Z"
+ },
+ {
+  "id": "singapore-extends-car-loan-restrictions-",
+  "t": "Singapore extends car loan restrictions to private-hire purchases to prevent buyers bypassing limits",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "eco",
+   "pol"
+  ],
+  "s": "In October 2026, Singapore's Ministry of Transport and Monetary Authority of Singapore applied standard car financing limits to individuals registering private-hire vehicles. Under the rules, loan tenures are capped at seven years, and maximum borrowing limits are capped at 60 to 70 percent depending on the vehicle's open market value. The policy was enacted after monthly private-hire registrations jumped by roughly 500, indicating buyers were using commercial exemptions to secure 100 percent financing.",
+  "u": "Demonstrates how state regulations must continually adapt to close legislative loopholes created by individuals attempting to bypass commercial economic controls.",
+  "link": "https://www.straitstimes.com/singapore/transport/loan-curbs-extended-to-individuals-buying-private-hire-cars-from-oct-30",
+  "source": "The Straits Times",
+  "added": "2026-10-31T01:46:22.668Z"
+ },
+ {
+  "id": "south-korea-introduces-criminal-penaltie",
+  "t": "South Korea introduces criminal penalties for exam candidates using artificial intelligence smart glasses",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "edu",
+   "sci",
+   "eth"
+  ],
+  "s": "In October 2026, South Korean education authorities announced plans to file criminal complaints and enforce a three-year exam ban on students caught using smart glasses during national university entrance examinations. The move comes in response to multiple cheating incidents involving wearable hardware equipped with artificial intelligence features such as automated camera capture and real-time processing. Previously, exam integrity enforcement focused mainly on handheld mobile devices and basic smartwatches.",
+  "u": "Illustrates how modern technological miniaturisation poses existential challenges to traditional meritocratic assessment frameworks, forcing institutions to resort to legal prosecution as a deterrent.",
+  "link": "https://www.channelnewsasia.com/east-asia/south-korea-ai-smart-glasses-students-cheating-6505571",
+  "source": "CNA Asia",
+  "added": "2026-10-31T01:46:22.668Z"
+ },
+ {
+  "id": "singapore-general-hospital-integrates-em",
+  "t": "Singapore General Hospital integrates emergency and neuroscience facilities to accelerate acute stroke care",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "hea",
+   "sci"
+  ],
+  "s": "Singapore General Hospital officially opened its combined Emergency Department and National Neuroscience Institute facility, reducing average acute stroke treatment times from 130 minutes to 82 minutes. The 14,000-square-metre building features Singapore's first emergency department-based angiography suite, enabling immediate endovascular thrombectomy without requiring intra-hospital patient transfers. The co-location design aims to treat acute brain ischemic events within the critical target period.",
+  "u": "Shows how infrastructural and spatial integration in public healthcare design can directly improve critical patient treatment outcomes.",
+  "link": "https://www.straitstimes.com/singapore/health/new-sgh-emergency-and-national-neuroscience-building-slashes-stroke-treatment-times",
+  "source": "The Straits Times",
+  "added": "2026-10-31T01:46:22.668Z"
+ },
+ {
+  "id": "singapore-and-laos-sign-agreement-to-exp",
+  "t": "Singapore and Laos sign agreement to explore importing five hundred megawatts of renewable energy",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "env",
+   "glo"
+  ],
+  "s": "In October 2026, Singapore's Tuas Power signed a memorandum of understanding with Electricite Du Laos and Phongsupthavy Group to explore importing up to 500 megawatts of renewable electricity from Laos, equivalent to roughly 4 percent of Singapore's generation capacity. The framework primary relies on Laotian hydropower, supplemented by solar and wind capacity during dry seasons. The plan requires regulatory approval from the Energy Market Authority as part of Singapore's broader strategy to diversify its power grid away from imported natural gas, which currently accounts for 95 percent of domestic electricity production.",
+  "u": "Illustrates how resource-constrained nations must leverage regional economic partnerships and multilateral infrastructure to overcome geographic limitations in sustainable energy production.",
+  "link": "https://www.straitstimes.com/singapore/environment/proposal-to-import-500mw-renewable-electricity-from-laos-to-spore-mooted-boosting-energy-security",
+  "source": "The Straits Times",
+  "added": "2026-10-31T01:46:22.668Z"
+ },
+ {
+  "id": "singapore-launches-age-well-kakis-initia",
+  "t": "Singapore launches Age Well Kakis initiative with seven hundred thousand senior volunteer roles",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "soc",
+   "hea"
+  ],
+  "s": "In October 2026, Singapore launched the Age Well Kakis program, offering up to 700,000 volunteering opportunities for citizens aged 50 and above to assist fellow seniors with medical visits, meal delivery, and logistics. The program offers stipends to around 16,500 expected active participants to mitigate social isolation. The launch follows Singapore's official entry into the United Nations super-aged society classification in late 2026, when citizens aged 65 and older exceeded 21 percent of the population.",
+  "u": "Demonstrates how governments can reframe demographic aging challenges by transforming elderly citizens from passive healthcare recipients into active community assets.",
+  "link": "https://www.straitstimes.com/singapore/health/up-to-700000-volunteering-opportunities-for-seniors-to-help-other-seniors-stipend-provided",
+  "source": "The Straits Times",
+  "added": "2026-10-31T01:46:22.668Z"
  }
 ]

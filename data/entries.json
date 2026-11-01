@@ -6000,5 +6000,82 @@
   "link": "https://www.straitstimes.com/singapore/health/up-to-700000-volunteering-opportunities-for-seniors-to-help-other-seniors-stipend-provided",
   "source": "The Straits Times",
   "added": "2026-10-31T01:46:22.668Z"
+ },
+ {
+  "id": "singapore-deploys-external-discipline-su",
+  "t": "Singapore deploys external discipline support officers in schools to alleviate teacher workload",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "edu",
+   "soc"
+  ],
+  "s": "At least 20 Singapore primary and secondary schools began hiring external discipline support officers, including former uniformed personnel and youth workers, to manage conflict resolution and administrative tasks. The initiative, backed by Ministry of Education funding following a national review on school bullying, aims to free teachers to focus on classroom instruction. However, critics question whether outsourcing behavioral management risks undermining the holistic, mentor-student relationships traditional educators build.",
+  "u": "Illustrates how educational institutions attempt to mitigate teacher burnout by unbundling pastoral care from academic duties, though it risks transactionalising student-teacher relationships.",
+  "link": "https://www.straitstimes.com/singapore/parenting-education/at-least-20-spore-schools-hire-external-manpower-to-help-with-student-discipline-and-management",
+  "source": "The Straits Times",
+  "added": "2026-11-01T16:53:37.009Z"
+ },
+ {
+  "id": "singapore-expands-project-wolbachia-to-c",
+  "t": "Singapore expands Project Wolbachia to cover over half of all residential households",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "hea",
+   "env"
+  ],
+  "s": "Singapore expanded its Project Wolbachia vector-control initiative to cover 840,000 households—over 53% of all residential units. The project releases laboratory-reared male Aedes mosquitoes carrying Wolbachia bacteria to suppress wild populations, which clinical trials show reduced mosquito populations by up to 90% and local dengue risk by over 70%. Nevertheless, public health officials emphasize that biotechnology cannot completely replace individual household effort in eliminating stagnant water breeding sites.",
+  "u": "Demonstrates the effectiveness of innovative biological interventions in public health management, while highlighting the limits of technology without ongoing community participation.",
+  "link": "https://www.straitstimes.com/singapore/environment/project-wolbachia-now-covers-more-than-half-of-all-households-in-singapore",
+  "source": "The Straits Times",
+  "added": "2026-11-01T16:53:37.009Z"
+ },
+ {
+  "id": "laos-opens-asia-s-first-cross-border-win",
+  "t": "Laos opens Asia's first cross-border wind farm to export renewable power to Vietnam",
+  "y": 2025,
+  "r": "asia",
+  "c": [
+   "env",
+   "eco"
+  ],
+  "s": "The 600-megawatt Monsoon Wind Power Project in southern Laos began commercial operations, marking Asia's first cross-border wind energy venture. Built across an area the size of Singapore by a Thai-led consortium and a Chinese state firm, the US$700 million facility exports electricity directly to manufacturing hubs in neighbouring Vietnam. While providing clean energy and regional grid integration, cross-border infrastructure projects remain vulnerable to local land-use disputes and shifting trade relations.",
+  "u": "Shows how cross-border infrastructure collaborations can advance energy security and decarbonisation in developing regions despite complex geopolitical and logistical dependencies.",
+  "link": "https://www.straitstimes.com/asia/se-asia/winds-of-change-laos-looks-up-for-renewables-push",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-01T16:53:37.009Z"
+ },
+ {
+  "id": "bhutan-mobilises-thousands-of-volunteers",
+  "t": "Bhutan mobilises thousands of volunteers to build 108 stupas for its new mindfulness city",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "rel",
+   "art",
+   "eco"
+  ],
+  "s": "Over 40,000 volunteers in Bhutan constructed 108 sacred Buddhist stupas along a 12-kilometre stretch in Gelephu to anchor the development of a planned special economic zone known as Gelephu Mindfulness City. The initiative aims to blend spiritual heritage with economic development to stem youth emigration and attract sustainable investments. However, economists note that relying on cultural appeal and spiritual branding may not fully offset structural hurdles like landlocked geography and limited industrial capacity.",
+  "u": "Provides an example of a nation attempting to integrate cultural and religious heritage directly into modern urban and economic planning strategies.",
+  "link": "https://www.straitstimes.com/asia/south-asia/thousands-build-buddhist-monuments-for-bhutans-mindfulness-city",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-01T16:53:37.009Z"
+ },
+ {
+  "id": "japan-requires-tourists-to-pay-consumpti",
+  "t": "Japan requires tourists to pay consumption tax upfront at point of purchase",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eco",
+   "pol"
+  ],
+  "s": "Japan revised its duty-free shopping rules by requiring international tourists to pay the 10% consumption tax upfront, shifting refund processing entirely to airports and ports upon departure. The policy was instituted to curb widespread tax evasion where foreign visitors purchased duty-free goods for illegal tax-free reselling within the local market. While effective at closing regulatory loopholes, business associations worry that added airport queues could frustrate tourists and reduce overall retail spending.",
+  "u": "Illustrates the ongoing tension between facilitating international tourism and maintaining robust regulatory oversight to prevent domestic tax fraud.",
+  "link": "https://www.scmp.com/news/hong-kong/society/article/3372903/less-minute-hong-kong-travellers-praise-japans-new-tax-refund-airports",
+  "source": "South China Morning Post",
+  "added": "2026-11-01T16:53:37.009Z"
  }
 ]

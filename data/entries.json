@@ -6077,5 +6077,83 @@
   "link": "https://www.scmp.com/news/hong-kong/society/article/3372903/less-minute-hong-kong-travellers-praise-japans-new-tax-refund-airports",
   "source": "South China Morning Post",
   "added": "2026-11-01T16:53:37.009Z"
+ },
+ {
+  "id": "singapore-police-implement-a-single-call",
+  "t": "Singapore police implement a single caller identification number to prevent impersonation scams",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "pol",
+   "soc"
+  ],
+  "s": "The Singapore Police Force launched a dedicated, single phone number (6000-0999) for all outgoing calls to citizens, followed by an official verification SMS. This initiative makes the police the first government body to standardise caller identification to prevent scam syndicate impersonations. However, officials noted that public vigilance remains necessary, as scammers continually adapt their tactics across digital communication channels.",
+  "u": "Demonstrates how governments must innovate structural technical barriers rather than relying solely on public education to combat increasingly sophisticated digital scams.",
+  "link": "https://www.straitstimes.com/tech/police-calls-will-soon-come-from-a-new-6000-0999-number-to-fight-impersonation-scams",
+  "source": "The Straits Times",
+  "added": "2026-11-02T01:46:56.894Z"
+ },
+ {
+  "id": "cybersecurity-research-reveals-ai-tools-",
+  "t": "Cybersecurity research reveals AI tools fall for decoy traps far more than human hackers",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "sci",
+   "eth"
+  ],
+  "s": "Research published by cybersecurity firm Horizon3 showed that 21 leading artificial intelligence models, including those from OpenAI and Anthropic, triggered decoy security files 78.5% of the time, compared to a 37% trap rate for human hackers. Some advanced frontier models fell for fake log-in credentials over 90% of the time because their training relies heavily on public cybersecurity data. The vulnerability allows defenders to neutralize automated AI cyberattacks quickly, though critics note that attackers will rapidly refine model training to recognise honeypots.",
+  "u": "Illustrates that automated artificial intelligence systems possess inherent cognitive blind spots that make them vulnerable to basic human deception.",
+  "link": "https://www.straitstimes.com/tech/decoys-safe-ai-hacking-help-cyberdefenders-counter-ai-powered-attacks",
+  "source": "The Straits Times",
+  "added": "2026-11-02T01:46:56.894Z"
+ },
+ {
+  "id": "north-korea-linked-hackers-orchestrate-m",
+  "t": "North Korea-linked hackers orchestrate massive data theft from Japanese financial firm",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "sci",
+   "glo"
+  ],
+  "s": "An investigation by Japan's GMO Internet Group confirmed that a North Korean state-sponsored hacking unit was responsible for an October cyberattack that leaked customer foreign exchange trading data. Cybersecurity analysts traced the malware and IP addresses to known state actors, noting that the perpetrators deployed artificial intelligence tools and false-flag digital footprints to mask their origin. The breach highlights how sanctioned regimes increasingly rely on sophisticated cyber warfare to compromise foreign financial infrastructure and extract value.",
+  "u": "Shows how state-sponsored cybercrime has become a vital geopolitical tool for isolated regimes seeking to bypass global economic sanctions.",
+  "link": "https://www.straitstimes.com/asia/east-asia/north-korea-linked-hacking-group-likely-behind-gmo-cyberattack-sources",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-02T01:46:56.894Z"
+ },
+ {
+  "id": "japan-replaces-point-of-sale-tourist-tax",
+  "t": "Japan replaces point-of-sale tourist tax exemptions with airport-based refund scheme",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eco",
+   "eth",
+   "pol"
+  ],
+  "s": "Japan introduced a pay-first, refund-later system requiring foreign tourists to pay the 10 per cent consumption tax at retail stores and claim refunds at departure ports upon verification. The policy replaces immediate in-store tax exemptions, which had been widely abused by international visitors buying tax-free goods for illegal domestic resale. While the change deters tax fraud and protects domestic tax revenue, tourism operators express concern over longer processing times and potential congestion at international airports.",
+  "u": "Highlights the challenge governments face when balancing regulatory compliance and anti-fraud measures against economic convenience for foreign consumers.",
+  "link": "https://www.scmp.com/news/hong-kong/society/article/3372903/less-minute-hong-kong-travellers-praise-japans-new-tax-refund-airports",
+  "source": "South China Morning Post",
+  "added": "2026-11-02T01:46:56.894Z"
+ },
+ {
+  "id": "singapore-introduces-the-maintenance-of-",
+  "t": "Singapore introduces the Maintenance of Parents Act to legally enforce filial support",
+  "y": 1995,
+  "r": "sg",
+  "c": [
+   "soc",
+   "eth",
+   "pol"
+  ],
+  "s": "Singapore enacted the Maintenance of Parents Act in 1995, allowing elderly residents aged 60 and above who are unable to support themselves to claim maintenance from their adult children. The law established a dedicated tribunal to mediate disputes and order financial support, making Singapore one of the few jurisdictions to legally enforce filial piety. Critics argue that legal mandates cannot fix broken family relationships, but supporters maintain it prevents elderly abandonment in a rapidly ageing society.",
+  "u": "Demonstrates how state intervention can be used to legally enforce moral and social obligations when traditional family safety nets fray.",
+  "link": null,
+  "source": null,
+  "added": "2026-11-02T01:46:56.894Z"
  }
 ]

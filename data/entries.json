@@ -6155,5 +6155,52 @@
   "link": null,
   "source": null,
   "added": "2026-11-02T01:46:56.894Z"
+ },
+ {
+  "id": "singapore-fields-a-candidate-for-the-int",
+  "t": "Singapore fields a candidate for the International Court of Justice for the first time",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "glo",
+   "eth",
+   "pol"
+  ],
+  "s": "Singapore nominated Ambassador for International Law Rena Lee to run for a seat on the 15-member International Court of Justice bench during the UN elections in November 2026. This marked the first time Singapore fielded a candidate for the World Court since its creation in 1945. Lee previously served as a government legal adviser and diplomat specializing in maritime, environmental, and human rights law.",
+  "u": "Demonstrates how small states use multilateral institutions and international law to project soft power and safeguard their national interests.",
+  "link": "https://www.straitstimes.com/singapore/politics/un-top-court-to-hold-elections-for-5-seats-singapore-fields-candidate-for-first-time",
+  "source": "The Straits Times",
+  "added": "2026-11-03T03:41:30.518Z"
+ },
+ {
+  "id": "vietnam-withdraws-proposed-law-allowing-",
+  "t": "Vietnam withdraws proposed law allowing 15 to 17-year-olds to donate organs",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eth",
+   "hea",
+   "pol"
+  ],
+  "s": "In November 2026, Vietnam's government removed a provision from a draft organ donation law that would have permitted children aged 15 to 17 to donate organs after death with parental consent. The proposal was scrapped following widespread public criticism over whether minors could fully understand the legal and medical implications, as well as fears of parental coercion. The government subsequently revised the draft law to restrict organ donation exclusively to legal adults.",
+  "u": "Illustrates the ethical limits of expanding organ donor pools and how public backlash can check state attempts to exploit vulnerable populations for public health needs.",
+  "link": "https://www.straitstimes.com/asia/se-asia/vietnam-scraps-child-organ-donors-proposal-after-backlash",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-03T03:41:30.518Z"
+ },
+ {
+  "id": "south-korea-moves-to-create-a-centralize",
+  "t": "South Korea moves to create a centralized government cybersecurity oversight body",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "sci",
+   "pol"
+  ],
+  "s": "In November 2026, South Korean President Lee Jae Myung called for the establishment of a centralized cybersecurity agency to integrate functions currently scattered across multiple government bodies. The directive followed repeated foreign cyberattacks on the country's public infrastructure, commercial systems, and financial institutions. President Lee emphasized that traditional inspection-focused security models are insufficient against modern, rapid cyber threats.",
+  "u": "Shows that fragmented state bureaucracy is incapable of defending critical national infrastructure against sophisticated modern cyber warfare.",
+  "link": "https://www.straitstimes.com/asia/east-asia/south-koreas-lee-calls-for-powerful-government-wide-cybersecurity-body",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-03T03:41:30.518Z"
  }
 ]

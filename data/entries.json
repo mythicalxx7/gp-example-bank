@@ -6264,5 +6264,53 @@
   "link": "https://www.straitstimes.com/asia/se-asia/thailand-bans-textbook-on-national-security-grounds",
   "source": "The Straits Times (Asia)",
   "added": "2026-11-05T18:12:46.320Z"
+ },
+ {
+  "id": "singapore-limits-personal-ai-tools-over-",
+  "t": "Singapore limits personal AI tools over privacy and security risks",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "med",
+   "pol"
+  ],
+  "s": "Cybersecurity and digital authorities issued guidelines urging citizens to restrict permissions and enable strict account controls for personal artificial intelligence agents. The guidance followed the launch of consumer tools capable of autonomously accessing personal schedules, emails, and financial platforms. Regulators warned that while AI agents offer unprecedented convenience, their underlying software remains vulnerable to background exploitation and unauthorized operations.",
+  "u": "Demonstrates that public safety governance must continually adapt as autonomous consumer technology introduces unprecedented security and privacy vulnerabilities.",
+  "link": "https://www.straitstimes.com/tech/singapore-authorities-urge-strict-limits-on-ai-agent-autonomy-access-to-personal-accounts",
+  "source": "The Straits Times",
+  "added": "2026-11-06T02:47:54.468Z"
+ },
+ {
+  "id": "grab-agrees-to-cut-driver-fees-and-compe",
+  "t": "Grab agrees to cut driver fees and compensate excess deductions in Vietnam",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eco",
+   "eth",
+   "pol"
+  ],
+  "s": "Ride-hailing operator Grab agreed to cap total driver platform fees at 32 per cent and pay 3.9 billion dong in compensation following an investigation by Vietnam's competition authority. The inquiry was triggered by organized driver boycotts protesting against revenue deductions that previously exceeded 40 per cent. Alongside the settlement, the company introduced expanded financial incentives for workers and reduced fares for passengers.",
+  "u": "Shows that regulatory oversight and collective worker action remain vital counterweights to the exploitative power of monopoly gig-economy platforms.",
+  "link": "https://www.straitstimes.com/asia/se-asia/grab-to-cut-vietnam-driver-fees-pay-compensation-after-review",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-06T02:47:54.468Z"
+ },
+ {
+  "id": "california-commutates-death-sentences-fo",
+  "t": "California commutates death sentences for all 548 death row inmates",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "eth",
+   "pol",
+   "soc"
+  ],
+  "s": "The Governor of California issued executive clemency to commute the sentences of all 548 prisoners on the state's death row to life imprisonment without parole. The decision effectively emptied the largest death row population in the Western Hemisphere. The executive action cited systemic racial disparities, wrongful convictions, and the moral flaws of capital punishment.",
+  "u": "Serves as evidence that executive power can unilaterally dismantle capital punishment frameworks when judicial and legislative reforms stall.",
+  "link": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+  "source": "Al Jazeera",
+  "added": "2026-11-06T02:47:54.468Z"
  }
 ]

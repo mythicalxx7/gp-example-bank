@@ -6312,5 +6312,83 @@
   "link": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
   "source": "Al Jazeera",
   "added": "2026-11-06T02:47:54.468Z"
+ },
+ {
+  "id": "singapore-opens-its-first-data-centre-co",
+  "t": "Singapore opens its first data centre completed under enhanced sustainability standards",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "env",
+   "sci"
+  ],
+  "s": "US-based firm Equinix opened the SG6 data centre in Singapore, the first facility completed following the 2022 lifting of a three-year moratorium on data centre construction. Designed to operate at a Power Usage Effectiveness ratio of 1.2, it outperforms the government maximum requirement of 1.3 by utilizing high-efficiency chillers and operating at 27 degrees Celsius. However, state regulators must continuously balance these environmental standards against the heavy energy and land demands of digital infrastructure.",
+  "u": "Demonstrates how governments can use strict regulatory frameworks to align technological growth with national environmental targets.",
+  "link": "https://www.straitstimes.com/tech/singapores-first-data-centre-under-stricter-green-rules-is-open",
+  "source": "The Straits Times",
+  "added": "2026-11-07T16:35:16.841Z"
+ },
+ {
+  "id": "singapore-tests-personal-ai-agent-safety",
+  "t": "Singapore tests personal AI agent safety risks following commercial software debuts",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "eth",
+   "pol"
+  ],
+  "s": "The Cyber Security Agency, GovTech, and the Infocomm Media Development Authority issued a joint advisory warning consumers against granting excessive autonomous access to personal AI tools like Meta Muse. Unlike basic chatbots, these agents perform tasks across email accounts, calendars, and shopping services on a user's behalf. Authorities highlighted that over-privileged access risks data exposure and unauthorized actions if malicious sites exploit the software.",
+  "u": "Illustrates how autonomous digital assistants create novel security and privacy risks that standard data protection frameworks struggle to address.",
+  "link": "https://www.straitstimes.com/tech/singapore-authorities-urge-strict-limits-on-ai-agent-autonomy-access-to-personal-accounts",
+  "source": "The Straits Times",
+  "added": "2026-11-07T16:35:16.841Z"
+ },
+ {
+  "id": "singapore-initiates-pilot-shelter-to-hou",
+  "t": "Singapore initiates pilot shelter to house men in crisis and domestic disputes",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "soc",
+   "hea"
+  ],
+  "s": "The non-profit Fellowship of Men Singapore announced a pilot program using budget hotel rooms to temporarily shelter up to 50 men experiencing domestic crises, displacement, or mental health struggles. The initiative aims to offer a temporary refuge for men who might otherwise face homelessness or exacerbate household distress during domestic disputes. Historically, crisis intervention services and temporary shelters have overwhelmingly catered to women and children.",
+  "u": "Shows how modern social safety nets are expanding to address targeted gaps in male mental health and domestic abuse interventions.",
+  "link": "https://www.straitstimes.com/singapore/community/my-family-should-not-have-to-leave-new-shelter-aims-to-help-spore-men-in-crisis",
+  "source": "The Straits Times",
+  "added": "2026-11-07T16:35:16.841Z"
+ },
+ {
+  "id": "hong-kong-joint-task-force-arrests-twent",
+  "t": "Hong Kong joint task force arrests twenty-eight in major building bid-rigging probe",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "pol",
+   "eth",
+   "eco"
+  ],
+  "s": "Hong Kong security authorities arrested 28 individuals linked to a triad-backed syndicate accused of rigging maintenance contracts across at least 20 residential buildings. The operation was the first conducted by a dedicated task force established after a November 2025 residential fire killed 168 people and exposed severe corruption in building management. Syndicates frequently rushed property owners into inflated contracts using false claims of rising material costs.",
+  "u": "Highlights how systemic corruption in public infrastructure maintenance requires specialized inter-agency enforcement to safeguard public safety.",
+  "link": "https://www.straitstimes.com/asia/east-asia/hong-kong-arrests-28-in-building-bid-rigging-probe-rthk-says",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-07T16:35:16.841Z"
+ },
+ {
+  "id": "kenyan-doomsday-cult-leader-is-sentenced",
+  "t": "Kenyan doomsday cult leader is sentenced to two hundred years for mass murder",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "rel",
+   "eth",
+   "pol"
+  ],
+  "s": "Kenyan preacher Paul Mackenzie was sentenced to 200 years in prison for the murder of 191 individuals, predominantly children, in the Shakahola forest tragedy. Mackenzie ordered his followers to starve themselves and their families to death to achieve religious salvation before the end of the world. The incident prompted international scrutiny over the failure of local law enforcement to monitor extreme cult activities despite earlier warnings.",
+  "u": "Demonstrates the catastrophic potential of unchecked religious extremism and the state's responsibility to intervene against dangerous cult manipulation.",
+  "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
+  "source": "The Guardian",
+  "added": "2026-11-07T16:35:16.841Z"
  }
 ]

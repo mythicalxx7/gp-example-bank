@@ -6406,5 +6406,85 @@
   "link": "https://www.straitstimes.com/asia/east-asia/hong-kong-lawmakers-condemn-foreign-governments-criticism-of-joshua-wong-ruling",
   "source": "The Straits Times (Asia)",
   "added": "2026-11-08T01:46:16.709Z"
+ },
+ {
+  "id": "haze-estimated-to-cost-singapore-two-poi",
+  "t": "Haze estimated to cost Singapore two point three two billion dollars in 2026",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "env",
+   "eco",
+   "hea"
+  ],
+  "s": "Preliminary estimates by Singaporean academic researchers revealed that transboundary haze in 2026 cost the country's economy 2.32 billion USD by late October. This figure represents a 4 percent increase compared to the 2015 haze crisis, which cost an estimated 1.83 billion USD (or 2.23 billion USD adjusted for 2026 prices). The higher financial toll occurred despite 2026 recording fewer hazy days and lower average air pollution index levels, driven primarily by an expanded population, higher health burdens, and larger tourism losses.",
+  "u": "Demonstrates that environmental crises cause escalating economic damage over time as population density and healthcare costs grow, even when physical severity appears diminished.",
+  "link": "https://www.straitstimes.com/singapore/haze-in-2026-estimated-to-cost-singapore-2-32-billion-up-4-from-2015-experts",
+  "source": "The Straits Times",
+  "added": "2026-11-08T16:45:51.335Z"
+ },
+ {
+  "id": "comfortdelgro-suspends-autonomous-vehicl",
+  "t": "ComfortDelGro suspends autonomous vehicle u-turn tests in Singapore following near-miss",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "eth",
+   "pol"
+  ],
+  "s": "The Land Transport Authority directed transport operator ComfortDelGro to pause u-turn testing for its self-driving vehicles in Punggol after a near-miss incident recorded on dashcam. The autonomous car, powered by technology from Chinese firm Pony.ai, turned into the path of an oncoming vehicle at a traffic junction. The suspension occurred on the same day another autonomous vehicle operated by Grab was involved in a separate near-accident involving a pedestrian in the same neighborhood.",
+  "u": "Highlights the persistent safety risks and regulatory challenges that arise when deploying autonomous transportation in real-world urban environments.",
+  "link": "https://www.straitstimes.com/singapore/comfortdelgro-to-stop-u-turn-testing-for-avs-at-punggol-junction-after-near-miss-lta-investigating",
+  "source": "The Straits Times",
+  "added": "2026-11-08T16:45:51.335Z"
+ },
+ {
+  "id": "electric-three-wheelers-comprise-over-ha",
+  "t": "Electric three-wheelers comprise over half of all new three-wheeler sales in India",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "env",
+   "sci",
+   "eco"
+  ],
+  "s": "In late 2026, figures revealed that over 50 percent of all new three-wheeled vehicles sold in India were battery-powered electric models, establishing the nation as the global leader for electric auto-rickshaws. This adoption rate significantly outpaces other domestic vehicle segments, where electric models account for roughly 8.5 percent of cars and 11.6 percent of two-wheelers. The rapid transition from fossil-fuel models over five years was accelerated by government targeted purchase subsidies, falling operational costs, and improved local battery manufacturing.",
+  "u": "Illustrates how targeted public subsidies and economic incentives can drive rapid green technology adoption in developing nations faster than in advanced passenger car markets.",
+  "link": "https://www.straitstimes.com/asia/south-asia/electric-auto-rickshaws-reshape-indias-roads",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-08T16:45:51.335Z"
+ },
+ {
+  "id": "indonesian-island-residents-protest-agai",
+  "t": "Indonesian island residents protest against data centres over severe domestic water shortages",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "env",
+   "sci",
+   "soc"
+  ],
+  "s": "Residents of Batam staged public demonstrations outside the Nongsa Digital Park special economic zone after severe municipal water outages left households unable to cook or bathe. The water shortages coincided with an El Nino-induced drought and the rapid expansion of energy- and water-intensive artificial intelligence data centres on the island. Community members blamed the cooling systems of high-density computing infrastructure for consuming limited municipal water resources needed by local citizens.",
+  "u": "Shows how the global expansion of resource-intensive technology infrastructure creates sharp conflicts with local communities over essential resource allocation.",
+  "link": "https://www.straitstimes.com/asia/se-asia/cant-cook-or-shower-indonesians-take-aim-at-data-centres",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-08T16:45:51.335Z"
+ },
+ {
+  "id": "china-includes-gig-workers-and-online-in",
+  "t": "China includes gig workers and online influencers as national party congress delegates",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "pol",
+   "soc",
+   "eco"
+  ],
+  "s": "Official selection guidelines issued for China's upcoming 21st National Party Congress explicitly permit delivery couriers, ride-hailing drivers, and internet influencers to serve as delegates for the first time. The five-yearly congress gathers approximately 2,300 representatives to set national political and economic directions. The inclusion of non-traditional platform labor and digital content creators represents an effort by the ruling party to integrate rapidly expanding segments of the modern flexible economy into formal political structures.",
+  "u": "Demonstrates how authoritarian political systems adapt governance mechanisms to co-opt emerging social classes and platform economy workers into state ideology.",
+  "link": "https://www.scmp.com/news/china/politics/article/3373702/china-eyes-gig-workers-and-influencers-delegates-communist-party-congress",
+  "source": "South China Morning Post",
+  "added": "2026-11-08T16:45:51.335Z"
  }
 ]

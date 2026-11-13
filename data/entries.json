@@ -6686,5 +6686,52 @@
   "link": "https://www.straitstimes.com/asia/east-asia/chinese-authorities-fine-firm-over-dove-chocolate-situationship-ad",
   "source": "The Straits Times (Asia)",
   "added": "2026-11-12T18:32:06.592Z"
+ },
+ {
+  "id": "chinese-authorities-terminate-researcher",
+  "t": "Chinese authorities terminate researchers and apply sanctions following child's death in gene-editing study",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "sci",
+   "eth",
+   "hea"
+  ],
+  "s": "An investigation by Shanghai authorities revealed that scientists at Shanghai Jiao Tong University School of Medicine committed safety and ethical violations during a gene-editing trial that resulted in a child's death. The researchers ignored danger signals from non-human-primate testing, failed to disclose the death in a February 2026 academic paper, and obtained ethics committee approval without sufficient safety and toxicological evidence. The main investigators were fired and barred from government-funded research projects for five years.",
+  "u": "Demonstrates the severe ethical risks and governance failures that arise when scientific research prioritises rapid innovation over rigorous safety protocols and transparent disclosure.",
+  "link": "https://www.straitstimes.com/asia/east-asia/china-fires-researchers-after-child-dies-in-gene-editing-trial",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-13T17:58:57.795Z"
+ },
+ {
+  "id": "singapore-cyber-security-agency-reports-",
+  "t": "Singapore Cyber Security Agency reports a tripling of monthly cyberincidents",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "pol"
+  ],
+  "s": "On 13 November 2026, the Cyber Security Agency of Singapore (CSA) issued an urgent advisory noting that the average monthly number of reported cyberincidents since September 2026 was three times higher than the monthly average between January and August 2026. The agency attributed this spike to opportunistic threat actors exploiting system vulnerabilities and leveraging artificial intelligence tools to accelerate attack speeds, alongside compromised third-party suppliers.",
+  "u": "Illustrates how rapid technological adoption and digital interconnectedness create expanding cybersecurity vulnerabilities for state and enterprise infrastructure.",
+  "link": "https://www.straitstimes.com/tech/beef-up-cyberdefences-now-csa-urges-all-organisations-as-reported-incidents-triple",
+  "source": "The Straits Times",
+  "added": "2026-11-13T17:58:57.795Z"
+ },
+ {
+  "id": "united-nations-rapporteur-criticises-aus",
+  "t": "United Nations rapporteur criticises Australia over systemic gaps in Indigenous rights protection",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eth",
+   "pol",
+   "gen"
+  ],
+  "s": "Following a two-week mission ending on 13 November 2026, UN Special Rapporteur Albert Barume reported that the rights of Indigenous peoples in Australia remain vulnerable because oversight is fragmented across individual states and territories rather than secured nationally. He highlighted incidents such as incarcerated Indigenous women being shackled while giving birth and rising rates of youth detention, noting these abuses followed the failure of the 2023 constitutional referendum to recognise First Nations people.",
+  "u": "Highlights how federal institutional structures and failed legislative reforms can perpetuate systemic inequality and human rights violations for marginalized indigenous populations.",
+  "link": "https://www.straitstimes.com/asia/australianz/indigenous-rights-in-australia-embarrassing-un-envoy",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-13T17:58:57.795Z"
  }
 ]

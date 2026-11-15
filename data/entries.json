@@ -6793,5 +6793,84 @@
   "link": "https://www.straitstimes.com/singapore/talent-development-programme-for-comlink-families-to-be-expanded-nationwide",
   "source": "The Straits Times",
   "added": "2026-11-14T02:40:10.337Z"
+ },
+ {
+  "id": "asean-nations-sign-the-region-s-first-le",
+  "t": "ASEAN nations sign the region's first legally binding digital economy agreement",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eco",
+   "glo",
+   "sci"
+  ],
+  "s": "On 14 November 2026, members of the Association of Southeast Asian Nations signed the Digital Economy Framework Agreement in Manila after three years of negotiations. The pact establishes unified, legally binding rules for cross-border data flows, e-commerce, digital payments, and cybersecurity across all member states. It is projected to expand the bloc's digital economy from US$1 trillion to US$2 trillion by 2030, though differing infrastructure standards among member states present implementation challenges.",
+  "u": "Demonstrates how multilateral regional governance can harmonise regulatory frameworks to accelerate economic integration and lower cross-border trade barriers.",
+  "link": "https://www.straitstimes.com/singapore/politics/pm-lawrence-wong-in-manila-for-asean-summit",
+  "source": "The Straits Times",
+  "added": "2026-11-15T02:05:56.021Z"
+ },
+ {
+  "id": "fullerton-health-breach-exposes-140-000-",
+  "t": "Fullerton Health breach exposes 140,000 migrant worker records in Singapore",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "sci",
+   "hea",
+   "eth"
+  ],
+  "s": "A cybersecurity incident on a standalone server operated by healthcare provider Fullerton Health compromised personal records belonging to roughly 140,000 work pass holders in Singapore. Exposed data included full names, foreign identification numbers, contact details, and residential addresses, though medical and financial files remained uncompromised. The incident is part of a wider local spike in cyberattacks, with monthly reported breaches tripling between September and November 2026 compared to earlier that year.",
+  "u": "Illustrates how outsourced administrative infrastructure in essential services can create critical vulnerabilities for sensitive personal data.",
+  "link": "https://www.straitstimes.com/singapore/records-of-140000-migrant-workers-hit-by-fullerton-health-portal-breach-new-server-planned",
+  "source": "The Straits Times",
+  "added": "2026-11-15T02:05:56.021Z"
+ },
+ {
+  "id": "china-disciplines-researchers-and-halts-",
+  "t": "China disciplines researchers and halts project after child dies in gene-editing study",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eth",
+   "sci",
+   "hea"
+  ],
+  "s": "Chinese authorities fired two lead researchers and imposed five-year research bans after an investigation revealed safety and ethical failures in a gene-editing trial that resulted in a six-year-old child's death. Investigators found the team ignored safety warnings from non-human-primate trials, failed to highlight fatal risks during informed consent disclosures, and omitted the patient's death in a subsequent research paper. Institutional oversight was also faulted after the hospital's ethics board approved the study despite insufficient toxicology data.",
+  "u": "Highlights the dangerous ethical lapses and oversight failures that occur when scientific research prioritises breakthrough progress over patient safety.",
+  "link": "https://www.straitstimes.com/asia/east-asia/china-fires-researchers-after-child-dies-in-gene-editing-trial",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-15T02:05:56.021Z"
+ },
+ {
+  "id": "united-states-experiences-nationwide-air",
+  "t": "United States experiences nationwide air traffic shutdown due to legacy equipment failure",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "sci",
+   "pol"
+  ],
+  "s": "The United States Federal Aviation Administration imposed a four-hour nationwide ground stop on domestic flights following a critical breakdown in regional air traffic control communication systems. Officials attributed the system collapse to hardware overloads occurring during routine maintenance and upgrades of legacy copper wiring rather than a cyberattack. The disruption caused thousands of flight cancellations and delays, highlighting severe vulnerability in critical infrastructure reliant on outdated technological foundations.",
+  "u": "Exposes how underinvestment in public infrastructure and reliance on legacy technology can trigger severe national economic disruptions.",
+  "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC World",
+  "added": "2026-11-15T02:05:56.021Z"
+ },
+ {
+  "id": "harvard-repatriates-enslaved-human-remai",
+  "t": "Harvard repatriates enslaved human remains used in historic eugenics research to Brazil",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "eth",
+   "art",
+   "soc"
+  ],
+  "s": "Harvard University returned two human skulls to Brazil that were acquired in the 19th century and used in pseudo-scientific eugenics research. One skull is believed to belong to a participant in an 1835 enslaved rebellion in Bahia whose body was trafficked abroad for racial hierarchy studies. The repatriation reflects a growing movement among Western academic and cultural institutions to audit legacy collections and address historical ethical violations against marginalized groups.",
+  "u": "Shows how modern institutions are held accountable for past ethical breaches and misuse of scientific authority to justify systemic discrimination.",
+  "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
+  "source": "The Guardian",
+  "added": "2026-11-15T02:05:56.021Z"
  }
 ]

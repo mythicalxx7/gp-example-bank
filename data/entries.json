@@ -6935,5 +6935,69 @@
   "link": "https://www.scmp.com/news/china/science/article/3374306/more-nobel-winners-less-innovation-chinese-study-reveals-cost-top-tier-awards",
   "source": "South China Morning Post",
   "added": "2026-11-16T02:22:18.623Z"
+ },
+ {
+  "id": "south-korea-inspects-test-candidates-eye",
+  "t": "South Korea inspects test candidates' eyewear after top scorer admits using AI smart glasses",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "sci",
+   "edu",
+   "eth"
+  ],
+  "s": "South Korea's Education Ministry deployed specialised inspectors to examination centres nationwide to check candidates' glasses for integrated artificial intelligence tools during university entrance exams. The measure was introduced after the top scorer in the national tax accountant certification exam confessed to using AI-enabled smart glasses and a hidden camera to transmit questions and receive answers. Education officials also coordinated with telecommunications authorities to evaluate disabling public Wi-Fi networks at all test venues during high-stakes national examinations.",
+  "u": "Demonstrates how rapid advances in wearable AI technology create novel academic dishonesty risks that compel state authorities to institute intrusive physical inspections.",
+  "link": "https://www.straitstimes.com/asia/east-asia/south-korea-races-to-curb-ai-cheating-ahead-of-college-entrance-exam",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-16T20:38:39.009Z"
+ },
+ {
+  "id": "hong-kong-integrates-ai-facial-recogniti",
+  "t": "Hong Kong integrates AI facial recognition into its 5,000-camera public CCTV surveillance network",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "sci",
+   "pol",
+   "eth"
+  ],
+  "s": "Hong Kong police activated automated facial recognition technology across the city's closed-circuit television network as part of a surveillance initiative named SmartView. Authorities stated that the system, which currently encompasses 5,000 cameras and is targeted to reach 60,000 units by 2028, is designed for crowd monitoring, vehicle licence plate tracking, and suspect detection. Human rights advocates and local residents raised concerns about the expansion of algorithmic state tracking and its potential to eliminate public anonymity.",
+  "u": "Illustrates how governments deploy artificial intelligence to expand state surveillance capabilities, balancing criminal justice enforcement against public privacy rights.",
+  "link": "https://www.straitstimes.com/asia/east-asia/hong-kong-rolls-out-ai-facial-recognition-across-cctv-network",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-16T20:38:39.009Z"
+ },
+ {
+  "id": "five-eu-nations-partner-with-rwanda-to-e",
+  "t": "Five EU nations partner with Rwanda to establish offshore deportation hubs for rejected migrants",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "glo",
+   "pol",
+   "eth"
+  ],
+  "s": "Germany, Denmark, Austria, Greece, and the Netherlands announced a joint proposal to construct a designated return facility in Rwanda to handle asylum seekers whose applications were refused in Europe. Under the proposed framework, individuals without legal permission to remain in the European Union would be relocated to the African facility to await departure to their origin states or alternative arrangements. Human rights organisations and legal experts criticised the project as an externalisation of state obligations that undermines international refugee protections.",
+  "u": "Shows how developed nations attempt to outsource asylum processing and deportation mechanisms to third-party countries to deter irregular migration.",
+  "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+  "source": "The Guardian",
+  "added": "2026-11-16T20:38:39.009Z"
+ },
+ {
+  "id": "israeli-military-uploaded-millions-of-ci",
+  "t": "Israeli military uploaded millions of civilian photos to commercial cloud AI for facial analysis",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "sci",
+   "glo",
+   "eth"
+  ],
+  "s": "Leaked documents revealed that the Israeli military uploaded approximately 3.5 million biometric photographs of Palestinians onto Amazon Web Services to utilise commercial facial recognition software. The cloud-based computing tools were employed to process digital image repositories during military operations in the Gaza Strip. The reliance on private technology infrastructure raised severe ethical questions regarding corporate complicity in state surveillance and military actions against civilian populations.",
+  "u": "Highlights the ethical dilemmas generated when commercial cloud infrastructure and commercial artificial intelligence platforms are repurposed for military surveillance.",
+  "link": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
+  "source": "The Guardian",
+  "added": "2026-11-16T20:38:39.009Z"
  }
 ]

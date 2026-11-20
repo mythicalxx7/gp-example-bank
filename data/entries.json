@@ -7074,5 +7074,84 @@
   "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
   "source": "BBC World",
   "added": "2026-11-18T03:54:03.906Z"
+ },
+ {
+  "id": "icj-rules-myanmar-committed-state-sponso",
+  "t": "ICJ rules Myanmar committed state-sponsored genocide against the Rohingya",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eth",
+   "glo",
+   "pol"
+  ],
+  "s": "The International Court of Justice delivered a landmark ruling that Myanmar's military campaign in 2017 against the Rohingya constituted state-sponsored genocide under the 1948 Genocide Convention. This marked the first time in the ICJ's 80-year history that the court held a state directly responsible for committing genocide. The court ordered Myanmar to compensate victims and provide safe passage for refugees to return, though enforcement remains reliant on international political will.",
+  "u": "Demonstrates that international judicial bodies can establish state accountability for human rights violations, even if practical enforcement remains constrained by global geopolitics.",
+  "link": "https://www.straitstimes.com/asia/justice-is-finally-being-served-rohingya-widow-hears-myanmar-genocide-ruling-from-refugee-camp",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-20T03:42:26.408Z"
+ },
+ {
+  "id": "singapore-court-of-appeal-invalidates-tr",
+  "t": "Singapore Court of Appeal invalidates trust established to shield assets from creditors",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "eth",
+   "eco",
+   "pol"
+  ],
+  "s": "Singapore's apex court dismissed a claim by a motoring tycoon to recover five properties held on trust by his bankrupt daughter, ruling that the trust was void due to its underlying illegal purpose of hiding assets from creditors. The landmark decision established definitively that asset-protection trusts designed to defraud creditors violate public policy and are legally unenforceable. The judgment balances property rights against the integrity of financial systems.",
+  "u": "Shows that judicial systems prioritize market integrity and ethical governance over strict asset-protection structures when financial deception is present.",
+  "link": "https://www.straitstimes.com/singapore/courts-crime/tycoon-peter-kwee-loses-claim-for-properties-in-daughters-name-trust-he-set-up-ruled-illegal",
+  "source": "The Straits Times",
+  "added": "2026-11-20T03:42:26.408Z"
+ },
+ {
+  "id": "indonesia-enacts-asset-forfeiture-law-al",
+  "t": "Indonesia enacts asset forfeiture law allowing property seizure without prior conviction",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "eth",
+   "pol"
+  ],
+  "s": "After 18 years of legislative deliberation, Indonesia passed a landmark asset forfeiture law allowing state authorities to confiscate assets linked to criminal activities without first securing a criminal conviction against the owner. The statute aims to curb systemic corruption and organized crime by targeting illicit wealth directly. Critics, however, warn that non-conviction-based asset seizure could be abused for political targeting or bypass standard due process rights.",
+  "u": "Illustrates the tension between expanding state authority to combat systemic corruption and safeguarding individual due process rights.",
+  "link": "https://www.straitstimes.com/asia/se-asia/indonesia-passes-asset-forfeiture-law-after-18-year-wait",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-20T03:42:26.408Z"
+ },
+ {
+  "id": "un-agency-reports-one-in-four-married-wo",
+  "t": "UN agency reports one in four married women globally cannot refuse sex",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "gen",
+   "soc",
+   "eth"
+  ],
+  "s": "A report by the United Nations Population Fund (UNFPA) revealed that 25% of married women worldwide lack the autonomy to refuse sexual demands from their partners. The deficit in bodily autonomy was most pronounced in West and Central Africa, where 45% of women reported being unable to withhold consent within marriage. The findings highlight persistent legal and cultural barriers that deny women bodily autonomy despite international human rights frameworks.",
+  "u": "Highlights how entrenched patriarchal norms and legal gaps prevent institutional rights frameworks from securing basic gender equality in domestic spheres.",
+  "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+  "source": "The Guardian",
+  "added": "2026-11-20T03:42:26.408Z"
+ },
+ {
+  "id": "singapore-introduces-statutory-parental-",
+  "t": "Singapore introduces statutory parental leave rights for non-traditional caregivers",
+  "y": 2001,
+  "r": "sg",
+  "c": [
+   "soc",
+   "eco",
+   "gen"
+  ],
+  "s": "Singapore established statutory paid maternity leave under the Child Development Co-Savings Act in 2001, which was later expanded to include paid paternity leave and adoption leave for eligible parents. The policy framework continuously evolved to redistribute caregiving burdens in response to the nation's declining total fertility rate, which fell to 0.87 in 2025. While state mandates provided financial support, adoption rates among small and medium-sized enterprises remained uneven due to operational constraints.",
+  "u": "Demonstrates that legislative interventions to balance work and family life must overcome institutional workplace cultures to achieve widespread demographic impact.",
+  "link": null,
+  "source": null,
+  "added": "2026-11-20T03:42:26.408Z"
  }
 ]

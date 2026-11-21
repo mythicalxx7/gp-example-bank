@@ -7198,5 +7198,51 @@
   "link": null,
   "source": null,
   "added": "2026-11-20T18:45:25.796Z"
+ },
+ {
+  "id": "singapore-health-sciences-authority-shor",
+  "t": "Singapore Health Sciences Authority shortens processing times to send repeat etomidate vapers to drug rehabilitation",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "hea",
+   "eth",
+   "pol"
+  ],
+  "s": "Singapore's Ministry of Health and Health Sciences Authority accelerated procedures for sending repeat etomidate vape offenders to supervision or drug rehabilitation centres, following data showing one in five caught offenders reoffended between September 2025 and September 2026. Authorities also introduced surprise testing and a 24-week intensive rehabilitation program for repeat offenders under 16 years old. Critics argue that criminalising vape-related substance abuse risks overloading rehabilitation infrastructure and penalising youth, while authorities view swift institutional intervention as essential to deter rising psychoactive chemical abuse.",
+  "u": "Illustrates how governments balance public health measures with strict penal enforcement when tackling emerging substance abuse trends among youths.",
+  "link": "https://www.straitstimes.com/singapore/moh-and-hsa-tighten-measures-against-etomidate-reoffenders",
+  "source": "The Straits Times",
+  "added": "2026-11-21T03:26:37.962Z"
+ },
+ {
+  "id": "singapore-armed-forces-expands-leadershi",
+  "t": "Singapore Armed Forces expands leadership training to offset smaller national service cohorts",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "pol",
+   "soc"
+  ],
+  "s": "Singapore's Ministry of Defence announced that a larger proportion of national servicemen will be trained for military leadership roles to offset shrinking cohort sizes caused by demographic decline. Singapore's total fertility rate fell to a record low of 0.87 in 2025, reducing the pool of available conscripts. To maintain operational readiness, the military is transitioning to smaller, technologically integrated, and decentralised units, requiring individual commanders to shoulder greater tactical responsibilities.",
+  "u": "Exemplifies how low demographic birth rates force state institutions and national security planners to adapt through technological enhancement and structural reorganization.",
+  "link": "https://www.straitstimes.com/singapore/more-nsfs-to-take-on-leadership-roles-even-as-cohorts-shrink",
+  "source": "The Straits Times",
+  "added": "2026-11-21T03:26:37.962Z"
+ },
+ {
+  "id": "singapore-land-transport-authority-impou",
+  "t": "Singapore Land Transport Authority impounds 566 deregistered vehicles in ten months following enforcement ramp-up",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "eth",
+   "pol"
+  ],
+  "s": "Singapore authorities impounded 566 deregistered vehicles between January and November 2026, compared to an annual average of 120 over the preceding three years. The surge in detections followed enhanced surveillance measures, including roadside cameras and satellite-based tracking systems, alongside statutory penalties that raised maximum fines to $20,000 and jail terms to two years. While authorities cite severe safety risks from uninsured and unroadworthy cars, the rising offences highlight the growing financial strain on drivers coping with high Certificate of Entitlement prices.",
+  "u": "Demonstrates the tension between stringent regulatory transport policies and public compliance when cost-of-living pressures incentivize illegal workarounds.",
+  "link": "https://www.straitstimes.com/singapore/transport/126-deregistered-vehicles-impounded-in-9-day-crackdown-as-authorities-ramp-up-enforcement",
+  "source": "The Straits Times",
+  "added": "2026-11-21T03:26:37.962Z"
  }
 ]

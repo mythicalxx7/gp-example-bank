@@ -7304,5 +7304,52 @@
   "link": null,
   "source": null,
   "added": "2026-11-21T17:45:03.990Z"
+ },
+ {
+  "id": "vietnam-amends-land-law-to-permit-fast-t",
+  "t": "Vietnam amends land law to permit fast-tracked expropriation for priority infrastructure",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "pol",
+   "eco",
+   "eth"
+  ],
+  "s": "Vietnam's parliament passed a revised land law allowing authorities to issue expropriation decisions before compensation plans are fully approved for nationally important projects, provided 75% of affected users consent. The legislation is intended to resolve long-standing delays to major industrial and infrastructure developments caused by land disputes. To balance these powers, the law introduces enhanced social safeguards, including three years of livelihood support and vocational training for displaced residents.",
+  "u": "Illustrates how developing states often privilege rapid economic development and infrastructure growth over individual property rights and civil bargaining power.",
+  "link": "https://www.straitstimes.com/asia/vietnam-passes-law-to-speed-up-land-expropriation-for-priority-projects",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-22T02:37:32.299Z"
+ },
+ {
+  "id": "un-talks-to-establish-a-treaty-regulatin",
+  "t": "UN talks to establish a treaty regulating autonomous weapons collapse over Russian opposition",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "glo",
+   "sci",
+   "eth"
+  ],
+  "s": "Multilateral negotiations at the United Nations to establish a legally binding international treaty controlling autonomous weapons systems collapsed due to opposition from Russia. Despite a majority of participating member states supporting strict regulations on artificial intelligence in warfare, the required consensus could not be reached. The collapse highlights growing diplomatic friction regarding how to govern emergent military technologies before they are widely deployed on battlefields.",
+  "u": "Shows that geopolitical rivalries and strategic national interests frequently undermine international efforts to establish ethical guardrails on advanced military technologies.",
+  "link": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+  "source": "The Guardian",
+  "added": "2026-11-22T02:37:32.299Z"
+ },
+ {
+  "id": "senior-influenza-and-pneumococcal-vaccin",
+  "t": "Senior influenza and pneumococcal vaccination rates double in Singapore following expanded healthcare subsidies",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "hea",
+   "soc"
+  ],
+  "s": "Data from Singapore's Communicable Diseases Agency revealed that the proportion of seniors aged 65 and above receiving the annual influenza vaccine rose from 20.4% in 2021 to 49.5% in 2025. Similarly, pneumococcal vaccination uptake among the same demographic grew from 31.6% to 67.8% over the same five-year period. This significant shift follows the national rollout of enhanced subsidies under preventive healthcare initiatives like Healthier SG, aimed at reducing preventable hospitalisations in an aging population.",
+  "u": "Demonstrates that financial subsidies and proactive state interventions are effective mechanisms for driving public health adoption and preventive medical care.",
+  "link": "https://www.straitstimes.com/singapore/health/vaccination-rates-among-singapore-seniors-more-than-double-over-past-5-years",
+  "source": "The Straits Times",
+  "added": "2026-11-22T02:37:32.299Z"
  }
 ]

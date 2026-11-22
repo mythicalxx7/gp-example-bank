@@ -7351,5 +7351,37 @@
   "link": "https://www.straitstimes.com/singapore/health/vaccination-rates-among-singapore-seniors-more-than-double-over-past-5-years",
   "source": "The Straits Times",
   "added": "2026-11-22T02:37:32.299Z"
+ },
+ {
+  "id": "south-korea-s-education-minister-resigns",
+  "t": "South Korea's education minister resigns following widespread cheating in national exams using AI",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "edu",
+   "sci",
+   "pol"
+  ],
+  "s": "South Korean Education Minister Choi Kyo-jin resigned after a candidate confessed to using hidden micro-cameras and AI tools to achieve a near-perfect score in a national professional examination. The scandal triggered public outrage and emergency disruption measures, such as jamming public Wi-Fi networks and inspecting candidate apparel prior to the national university entrance examinations.",
+  "u": "Shows how emerging generative technology outpaces regulatory oversight in academic institutions, threatening public trust in meritocratic systems.",
+  "link": "https://www.straitstimes.com/asia/east-asia/south-korea-education-chief-resigns-amid-ai-cheating-scandal",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-22T17:59:29.989Z"
+ },
+ {
+  "id": "french-court-convicts-police-officers-fo",
+  "t": "French court convicts police officers for racist violence against a Black citizen",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "eth",
+   "gen",
+   "pol"
+  ],
+  "s": "A French court sentenced three police officers to prison terms of up to two years for assaulting Black music producer Michel Zecler. The court formally recognized racial motivation as an aggravating factor in the assault, which had been captured on surveillance video and sparked widespread public protests.",
+  "u": "Highlights the crucial role of digital accountability tools in securing judicial oversight against systemic racial bias within law enforcement.",
+  "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+  "source": "BBC World",
+  "added": "2026-11-22T17:59:29.989Z"
  }
 ]

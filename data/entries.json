@@ -7383,5 +7383,37 @@
   "link": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
   "source": "BBC World",
   "added": "2026-11-22T17:59:29.989Z"
+ },
+ {
+  "id": "singapore-female-youth-arrests-hit-a-fiv",
+  "t": "Singapore female youth arrests hit a five-year high driven by financial scam offences",
+  "y": 2025,
+  "r": "sg",
+  "c": [
+   "soc",
+   "gen",
+   "eth"
+  ],
+  "s": "Data from Singapore's Ministry of Social and Family Development revealed that 792 girls and young women aged 10 to under 21 were arrested in 2025, a 20 per cent increase from 662 in 2024 and a five-year high. Female offenders made up one in four youth arrests in 2025. The rise was primarily driven by cheating and financial scams, such as youths acting as money mules by relinquishing control of their bank accounts or Singpass credentials, alongside theft.",
+  "u": "Demonstrates how digitalisation and the rise of cyber-enabled economic crimes are shifting demographic patterns in youth delinquency, increasing female involvement in crime through non-violent offences.",
+  "link": "https://www.straitstimes.com/singapore/community/arrests-of-girls-and-young-women-hit-5-year-high-in-2025-cheating-theft-among-top-offences",
+  "source": "The Straits Times",
+  "added": "2026-11-23T03:04:04.408Z"
+ },
+ {
+  "id": "open-source-cybersecurity-ai-tool-artex-",
+  "t": "Open-source cybersecurity AI tool Artex was weaponised globally to automate hacking attacks",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "sci",
+   "med",
+   "eth"
+  ],
+  "s": "In November 2026, the US Federal Bureau of Investigation issued a global warning that Artex, an open-source AI cybersecurity tool originally created to stress-test computer networks, had been hijacked by malicious hackers. The tool automated cyber intrusions at machine speed, allowing attackers to gain high-level administrative access to target systems in under three hours. Artex was linked to widespread cyberattacks against South Korean banks and Japanese corporate networks, forcing its developer to transition the code to a closed-source model.",
+  "u": "Illustrates the dual-use dilemma of open-source artificial intelligence, where security software built for defensive testing can be readily repurposed to weaponise cyberattacks.",
+  "link": "https://www.straitstimes.com/tech/askst-ai-tool-artex-hijacked-for-hacking-globally-drawing-fbi-warning-is-singapore-vulnerable",
+  "source": "The Straits Times",
+  "added": "2026-11-23T03:04:04.408Z"
  }
 ]

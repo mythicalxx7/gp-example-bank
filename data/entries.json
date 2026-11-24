@@ -7415,5 +7415,68 @@
   "link": "https://www.straitstimes.com/tech/askst-ai-tool-artex-hijacked-for-hacking-globally-drawing-fbi-warning-is-singapore-vulnerable",
   "source": "The Straits Times",
   "added": "2026-11-23T03:04:04.408Z"
+ },
+ {
+  "id": "australia-introduces-digital-duty-of-car",
+  "t": "Australia introduces Digital Duty of Care legislation fining tech companies up to five percent of global revenue",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "sci",
+   "med",
+   "pol"
+  ],
+  "s": "The Australian government reached an agreement on its proposed Digital Duty of Care law, introducing penalties of up to 5% of global annual revenue for technology companies that fail to remove harmful content or addictive features. The framework replaces existing industry-specific voluntary codes with a legally enforceable mandate requiring platforms to prevent harms such as child exploitation, non-consensual deepfakes, self-harm, and online harassment. The law also grants individual citizens the statutory right to sue technology firms for damages caused by platform-enabled harms.",
+  "u": "Demonstrates that governments are shifting from self-regulatory frameworks to aggressive statutory penalties to enforce platform accountability.",
+  "link": "https://www.straitstimes.com/asia/australianz/big-tech-could-face-billions-of-dollars-in-fines-under-australian-internet-safety-bill",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-24T06:21:50.414Z"
+ },
+ {
+  "id": "singapore-and-australia-sign-bilateral-a",
+  "t": "Singapore and Australia sign bilateral agreements for cross-border carbon storage and supply chain security",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "env",
+   "eco",
+   "glo"
+  ],
+  "s": "Singapore and Australia formalised a bilateral framework to transport captured carbon dioxide from Singapore for offshore geological storage in Australia, targeting hard-to-abate industrial emissions. The two nations also expanded their existing essential supply-chain pact beyond energy to include food, pharmaceuticals, semiconductors, and water treatment chemicals. The agreements aim to enhance resource security while providing Singapore with a mechanism to bypass domestic land constraints in achieving its net-zero emissions targets.",
+  "u": "Illustrates how small, resource-constrained nations must rely on international cross-border partnerships to achieve carbon neutrality and economic resilience.",
+  "link": "https://www.straitstimes.com/singapore/singapore-australia-expand-essential-supplies-pact-sign-landmark-carbon-storage-agreement",
+  "source": "The Straits Times",
+  "added": "2026-11-24T06:21:50.414Z"
+ },
+ {
+  "id": "south-korea-institutes-zero-score-sancti",
+  "t": "South Korea institutes zero-score sanctions for smart-device cheating in school exams",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "edu",
+   "eth",
+   "sci"
+  ],
+  "s": "South Korea's Ministry of Education introduced stricter regulations for middle and high school internal assessments, mandating that any student caught possessing or using smart devices during an exam will receive a score of zero for all subjects taken that day. The policy update followed a national scandal where a candidate used a hidden camera, a smartphone, and AI assistance to secure the top score in a national professional examination. The new guidelines also permit schools to deploy metal detectors and shut down local wireless networks on test days.",
+  "u": "Shows how the proliferation of covert consumer AI tools is forcing educational institutions to adopt draconian surveillance and punitive measures to maintain academic integrity.",
+  "link": "https://www.straitstimes.com/asia/east-asia/south-korea-toughens-school-exam-rules-after-smart-device-cheating-scandal",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-24T06:21:50.414Z"
+ },
+ {
+  "id": "solomon-islands-moves-to-terminate-2022-",
+  "t": "Solomon Islands moves to terminate 2022 security pact with China in favour of Australian treaty",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "glo",
+   "pol"
+  ],
+  "s": "The government of the Solomon Islands notified Beijing that it will not renew its landmark five-year security agreement signed in 2022 upon its expiration in April. Prime Minister Matthew Wale's administration announced plans to enter a comprehensive security treaty with Australia instead, restoring Canberra as the Pacific nation's primary security partner. The shift follows the May 2024 general election, in which public concerns over deepening security ties with China played a central role in political campaigning.",
+  "u": "Demonstrates that small island nations can strategically pivot between competing global superpowers to align security alliances with domestic democratic mandates.",
+  "link": "https://www.straitstimes.com/asia/australianz/solomon-islands-plans-to-replace-china-security-pact-with-australia-treaty-report-says",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-24T06:21:50.414Z"
  }
 ]

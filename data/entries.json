@@ -7730,5 +7730,68 @@
   "link": "https://www.straitstimes.com/asia/east-asia/japan-defence-ministrys-new-ai-vision-vows-more-use-stresses-human-role",
   "source": "The Straits Times (Asia)",
   "added": "2026-11-27T04:31:11.065Z"
+ },
+ {
+  "id": "comfortdelgro-signs-singapore-s-first-co",
+  "t": "ComfortDelGro signs Singapore's first collective agreement with platform driver associations",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "eco",
+   "pol",
+   "eth"
+  ],
+  "s": "ComfortDelGro signed Singapore's first collective agreements between a platform operator and Platform Work Associations (PWAs), establishing mandatory consultation on fare changes, commissions, and vehicle rentals. The pact enforces two weeks' notice for operational adjustments and obligates the operator to provide itemised trip payout statements to drivers. However, consultation requirements can still be bypassed in urgent operational circumstances.",
+  "u": "Demonstrates how formal labour representation can institutionalise protection and pay transparency for gig economy workers without completely stripping platform operators of operational agility.",
+  "link": "https://www.straitstimes.com/singapore/comfortdelgro-to-consult-unions-before-changing-fares-commissions-rentals-for-drivers-under-new-pact",
+  "source": "The Straits Times",
+  "added": "2026-11-27T19:37:45.935Z"
+ },
+ {
+  "id": "canada-s-supreme-court-upholds-quebec-s-",
+  "t": "Canada's Supreme Court upholds Quebec's public sector religious symbol ban",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "rel",
+   "pol",
+   "eth"
+  ],
+  "s": "Canada's Supreme Court largely upheld a Quebec secularism law prohibiting public sector employees, including teachers and police officers, from wearing visible religious symbols such as hijabs, turbans, and crosses while on duty. The ruling rejected legal challenges brought by religious minority groups who argued the law infringed upon fundamental civil rights. Critics highlight that the ban disproportionately impacts religious minorities, whereas proponents argue it enforces state neutrality in civil service.",
+  "u": "Illustrates the ongoing tension between state enforcement of secularism and the constitutional rights of religious minorities in Western democracies.",
+  "link": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+  "source": "The Guardian",
+  "added": "2026-11-27T19:37:45.935Z"
+ },
+ {
+  "id": "china-sends-its-first-foreign-astronaut-",
+  "t": "China sends its first foreign astronaut to Tiangong space station",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "sci",
+   "glo"
+  ],
+  "s": "China transported a Pakistani astronaut aboard the Shenzhou-24 mission to its Tiangong space station, marking the first foreign crew member hosted aboard the facility. The event signals China's strategy to expand international space partnerships as the US-led International Space Station nears its scheduled decommission date. However, scientific access to the platform remains tied to Beijing's broader geopolitical alliances.",
+  "u": "Illustrates how space exploration is increasingly weaponised as a diplomatic tool to build geopolitical influence and counter traditional Western alliances.",
+  "link": "https://www.theguardian.com/science/2026/nov/25/china-sends-first-pakistani-astronaut-into-space",
+  "source": "The Guardian",
+  "added": "2026-11-27T19:37:45.935Z"
+ },
+ {
+  "id": "singapore-hikes-public-burial-and-cremat",
+  "t": "Singapore hikes public burial and cremation fees while subsidising inland ash-scattering",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "env",
+   "pol",
+   "soc"
+  ],
+  "s": "Singapore's National Environment Agency announced fee increases starting in 2027 for state-operated cremation, burial, and columbarium niches, marking the first cost revision in over 25 years. Simultaneously, the agency reduced fees for inland ash scattering and introduced complete fee waivers for low-income ComCare recipients. The policy shift aims to disincentivise land-intensive burial practices in favour of sustainable land-use alternatives as the nation's population rapidly ages.",
+  "u": "Shows how state pricing mechanisms and targeted subsidies can steer public social practices away from land-intensive traditional rites in land-scarce urban environments.",
+  "link": "https://www.straitstimes.com/singapore/community/cremation-burial-to-cost-more-from-2027-ash-scattering-will-be-cheaper",
+  "source": "The Straits Times",
+  "added": "2026-11-27T19:37:45.935Z"
  }
 ]

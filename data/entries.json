@@ -7667,5 +7667,68 @@
   "link": "https://www.scmp.com/news/world/europe/article/3375783/denmark-bans-headscarves-prosecutors-religious-dress-debate-intensifies",
   "source": "South China Morning Post",
   "added": "2026-11-26T04:21:21.203Z"
+ },
+ {
+  "id": "singapore-will-consolidate-social-servic",
+  "t": "Singapore will consolidate social services into an integrated one-worker model from 2029",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "soc",
+   "pol"
+  ],
+  "s": "In November 2026, Singapore's Ministry of Social and Family Development accepted recommendations to introduce the One Family Service model, consolidating nine existing public assistance programmes serving 35,000 clients annually into a single framework. Under the reform, families with multiple complex needs receive an integrated support plan managed by a single primary caseworker. Previously, nearly 20% of beneficiary families had to navigate separate assessments and administrative requirements across multiple government and charitable agencies.",
+  "u": "Demonstrates how governments can streamline administrative bureaucracy to provide holistic, dignified welfare support to vulnerable populations.",
+  "link": "https://www.straitstimes.com/singapore/community/one-stop-social-service-model-to-be-introduced-from-2029-msf",
+  "source": "The Straits Times",
+  "added": "2026-11-27T04:31:11.065Z"
+ },
+ {
+  "id": "five-southeast-asian-nations-established",
+  "t": "Five Southeast Asian nations established a regional network to monitor marine heatwaves",
+  "y": 2026,
+  "r": "sg",
+  "c": [
+   "env",
+   "glo",
+   "sci"
+  ],
+  "s": "Singapore's newly renamed National Marine Research Station launched the Southeast Asia Marine Research Stations Network, bringing together over ten research institutions across Singapore, Malaysia, Indonesia, Thailand, and the Philippines. The initiative aims to jointly track thermal ocean stress and conduct climate-resilience coral restoration ahead of projected regional marine heatwaves. While cross-border environmental cooperation expands scientific capability, execution remains dependent on voluntary data-sharing and local resource allocation.",
+  "u": "Illustrates how regional multilateral cooperation is essential for addressing climate change impacts that transcend national maritime boundaries.",
+  "link": "https://www.straitstimes.com/singapore/environment/singapores-sole-offshore-marine-lab-renamed-as-national-station-launches-regional-network",
+  "source": "The Straits Times",
+  "added": "2026-11-27T04:31:11.065Z"
+ },
+ {
+  "id": "australia-enacted-a-law-requiring-natura",
+  "t": "Australia enacted a law requiring natural gas exporters to reserve domestic supply",
+  "y": 2026,
+  "r": "world",
+  "c": [
+   "eco",
+   "pol",
+   "env"
+  ],
+  "s": "Australia's Parliament passed a gas reservation scheme mandating that liquefied natural gas exporters set aside up to 20% of their production for the domestic market starting in 2028. The policy aims to protect domestic households and manufacturers from soaring energy prices and supply shortfalls caused by unconstrained international exports. However, the federal government exempted Western Australia—which produces two-thirds of the country's gas exports—to prevent friction with existing state-level frameworks.",
+  "u": "Demonstrates how resource-rich nations must balance global trade obligations with state intervention to protect domestic energy security.",
+  "link": "https://www.straitstimes.com/asia/australianz/australian-parliament-passes-government-plan-to-reserve-20-of-lng-for-domestic-market",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-27T04:31:11.065Z"
+ },
+ {
+  "id": "japan-revised-its-military-policy-to-man",
+  "t": "Japan revised its military policy to mandate strict human oversight of AI",
+  "y": 2026,
+  "r": "asia",
+  "c": [
+   "pol",
+   "eth",
+   "sci"
+  ],
+  "s": "Japan's Ministry of Defence updated its Defense AI Vision to expand artificial intelligence integration across decision-making and operational logistics while strengthening language on ethical safeguards. The updated document explicitly mandates that humans maintain ultimate command and responsibility, prohibiting automated decision-making without oversight. The framework aims to accelerate military response times while mitigating risks surrounding AI-generated disinformation and autonomous cyberattacks.",
+  "u": "Serves as an example of governance frameworks striving to harness defense technology while establishing legal accountability for automated decisions.",
+  "link": "https://www.straitstimes.com/asia/east-asia/japan-defence-ministrys-new-ai-vision-vows-more-use-stresses-human-role",
+  "source": "The Straits Times (Asia)",
+  "added": "2026-11-27T04:31:11.065Z"
  }
 ]
